@@ -1,3 +1,8 @@
+---
+layout: default
+title: Checklists
+nav_order: 4
+---
 # Checklist
 
 ## Checklist structure

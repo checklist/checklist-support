@@ -1,3 +1,8 @@
+---
+layout: default
+title: Organization & Teams
+nav_order: 3
+---
 # Organizations & Teams
 
 # Organizations

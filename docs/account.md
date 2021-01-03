@@ -1,3 +1,8 @@
+---
+layout: default
+title: Account
+nav_order: 2
+---
 # Account
 A Checklist account allows you to:
 * Backup all your checklists & templates to the cloud
