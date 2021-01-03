@@ -1,0 +1,7 @@
+# Automation
+
+## Recipes
+
+## Triggers
+
+## Actions
