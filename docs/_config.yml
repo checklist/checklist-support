@@ -1,5 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 logo: "https://media.checklist.com/v3/images/checklist-logo.svg"
+
 # Aux links for the upper right navigation
 aux_links:
   "Checklist":
