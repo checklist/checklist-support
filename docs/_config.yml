@@ -1,2 +1,11 @@
 remote_theme: pmarsceill/just-the-docs
 logo: "https://media.checklist.com/v3/images/checklist-logo.svg"
+# Aux links for the upper right navigation
+aux_links:
+  "Checklist":
+    - "//checklist.com"
+  "Web app":
+    - "//app2.checklist.com"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
