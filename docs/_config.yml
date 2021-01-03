@@ -14,3 +14,8 @@ aux_links_new_tab: true
 color_scheme: checklist
 
 ga_tracking: UA-22712920-2
+
+
+gh_edit_link: false
+last_edit_timestamp: true 
+footer_content: "Copyright &copy; 2020-2021 Checklist.com B.V."
