@@ -5,10 +5,10 @@ nav_order: 3
 ---
 # Organizations & Teams
 
-# Organizations
+## Organizations
 
-# Teams
+## Teams
 
-# Managing Team members
+## Managing Team members
 
-# Switching teams
+## Switching teams
