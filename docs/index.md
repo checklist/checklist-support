@@ -5,6 +5,8 @@ nav_order: 1
 ---
 # Welcome to Checklist
 
+{:toc}
+
 ## Getting started with Checklist Pro
 
 From regular inspections to repeatable processes, teams use Checklist Pro to stay on track. 
