@@ -29,11 +29,23 @@ To view your organization, click on the Teams button on the main navigation of t
 ![](/assets/images/organizations/organization-navigate.png)
 
 Once selected, you will see in the blue section a list of any organizations or teams you belong to. Click on the organization you wish to view to show it in the main section of the screen.
-## Rename
-To 
+## Rename Organization
+To change the name of your organization, navigate to it and scroll down to the Rename Organization section:
+
+![](/assets/images/organizations/organization-rename.png)
+
+Change the name of the organization and hit the Rename button.
+
+Note: your organization name must be 3-30 alphanumeric characters or spaces.
 
 ## Managing Admins
 
+Organization admins can:
+* 
+
+To add or remove an admin, navigate to the Organization page and scroll down to the Administration section:
+
+![](/assets/images/organizations/organization-admin.png)
 ## Timezone
 
 ## Deleting an Organization
