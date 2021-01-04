@@ -4,6 +4,11 @@ title: Account
 nav_order: 2
 ---
 # Account
+{: .no_toc }
+
+- TOC
+{:toc}
+
 A Checklist account allows you to:
 * Automatically backup all your checklists & templates to the cloud
 * Automatically sync between your devices
@@ -54,4 +59,4 @@ Once you click on the link, enter a new password and hit the Reset button:
 
 ![](/assets/images/account/reset-password.png)
 
-You can the login with your email and the new password.
+You can then login with your email and the new password.
