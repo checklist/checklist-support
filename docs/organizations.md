@@ -24,7 +24,11 @@ Although Checklist is free, you may decide to upgrade your account to make use o
 An organization can have 1 or more teams in it. For example, you can have a marketing team or a sales team. See [teams](/teams) for more
 
 ## Viewing the Organization
+To view your organization, click on the Teams button on the main navigation of the app (on the left of the screen):
 
+![](/assets/images/organizations/organization-navigate.png)
+
+Once selected, you will see in the blue section a list of any organizations or teams you belong to. Click on the organization you wish to view to show it in the main section of the screen.
 ## Rename
 To 
 
