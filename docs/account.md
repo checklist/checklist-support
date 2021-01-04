@@ -6,16 +6,18 @@ nav_order: 2
 # Account
 {: .no_toc }
 
+
 <details open markdown="block">
   <summary>
     Table of contents
   </summary>
   {: .text-delta }
-1. TOC
+- TOC
 {:toc}
 </details>
 
-A Checklist account allows you to:
+## Benefits
+A Checklist Account allows you to:
 * Automatically backup all your checklists & templates to the cloud
 * Automatically sync between your devices
 * Share your data with colleagues, friends and family (when you ask)
