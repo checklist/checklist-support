@@ -16,20 +16,24 @@ nav_order: 3
 {:toc}
 </details>
 
-An organization is the top level unit for Checklist. When you create a new account, we will also create for you an organization (and a team in it). This organization can be used by you alone or with a more people as part of a team(s). 
+An organization is the top level unit for Checklist. When you create a new account, we will also create for you an organization (and a team in it). This organization can be used by you alone or with  more people as part of a team(s). 
 
-Although the basic Checklist plan is free, you may decide to upgrade your account to make use of more enterprise features and quotas. In that case, we use the Organization as the billing entity for the subscription. We also calculate the allowed quotas and usage based on the Organization. Read more about [Checklist Plans](https://checklist.com/pricing/).
+Although the basic Checklist plan is free, you may decide to upgrade your account to make use of more enterprise features and quotas. In that case, we use the Organization as the billing entity for the subscription. We also calculate the allowed quotas and usage based on the Organization and its plan. Read more about [Checklist Plans](https://checklist.com/pricing/).
 
-An organization can have 1 or more teams in it. For example, you can have a marketing team or a sales team. See [teams](/teams) for more. You can still use Checklist by yourself without any sharing.
+An organization can have 1 or more teams in it. For example, you can have a marketing team or a sales team. See [teams](/teams) for more. 
+
+You can still use Checklist by yourself without any sharing.
 
 ## Viewing the Organization
 To view your organization, click on the Teams button on the main navigation of the app (on the left of the screen):
 
 ![](/assets/images/organizations/organization-navigate.png)
 
-Once selected, you will see in the blue section a list of any organizations or teams you belong to. Click on the organization you wish to view to show it in the main section of the screen.
+Once selected, you will see in the blue section a list of any organizations or teams you belong to. Select the organization you wish to view to show it in the main section of the screen.
 
-Only organization admins can view or make changes to the organization.
+Only organization admins can view the organization details or make changes to them:
+
+![](/assets/images/organizations/organization-admin.png)
 
 ## Plan
 The organization's plan determines which features and quotas your organization can take advantage of. Read more [about billing](/billing).
@@ -52,11 +56,7 @@ Organization admins can:
 * Change the organization timezone
 * Create & Delete teams
 
-To add or remove an admin, navigate to the Organization page and scroll down to the Administration section:
-
-![](/assets/images/organizations/organization-admin.png)
-
-In the Organization Admins selector, click on the drop down arrow to reveal all available users:
+To add or remove an admin, navigate to the Organization page and scroll down to the Administration section. In the Organization Admins selector, click on the drop down arrow to reveal all available users:
 
 ![](/assets/images/organizations/organization-admin.png)
 
