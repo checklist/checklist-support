@@ -1,9 +1,11 @@
+# https://github.com/pmarsceill/just-the-docs
+
 remote_theme: pmarsceill/just-the-docs
 logo: "https://media.checklist.com/v3/images/checklist-logo.svg"
 
 # Aux links for the upper right navigation
 aux_links:
-  "Checklist":
+  "Checklist.com":
     - "//checklist.com"
   "Web app":
     - "//app2.checklist.com"

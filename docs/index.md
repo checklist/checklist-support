@@ -2,9 +2,9 @@
 layout: default
 title: Introduction
 nav_order: 1
+has_toc: true
 ---
 # Welcome to Checklist
-
 {:toc}
 
 ## Getting started with Checklist Pro

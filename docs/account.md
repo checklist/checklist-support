@@ -5,10 +5,10 @@ nav_order: 2
 ---
 # Account
 A Checklist account allows you to:
-* Backup all your checklists & templates to the cloud
-* Sync between your devices
-* Share your data with colleagues, friends and family
-* And [https://checklist.com/features](many more features)
+* Automatically backup all your checklists & templates to the cloud
+* Automatically sync between your devices
+* Share your data with colleagues, friends and family (when you ask)
+* And [many more features](https://checklist.com/features)
 
 The account is free and requires a simple registration and email confirmation. Once registered, we will automatically create for you a free checklist organization and checklist team. 
 
