@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Dashboard
-nav_order: 7
+title: Teams
+nav_order: 3
 ---
-
-# Dashboard
+# Organization
 {: .no_toc }
 
 
@@ -16,3 +15,9 @@ nav_order: 7
 - TOC
 {:toc}
 </details>
+
+# Teams
+
+## Managing Team members
+
+## Switching teams

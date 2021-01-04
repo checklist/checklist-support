@@ -25,7 +25,7 @@ A Checklist Account allows you to:
 
 The account is free and requires a simple registration and email confirmation. Once registered, we will automatically create for you a free checklist organization with a free team. 
 
-## Sign In
+## Signing In
 To sign in visit [https://app2.checklist.com](https://app2.checklist.com).
 
 ![](/assets/images/account/signin.png)
