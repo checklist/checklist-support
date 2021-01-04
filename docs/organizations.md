@@ -58,16 +58,16 @@ Organization admins can:
 
 To add or remove an admin, navigate to the Organization page and scroll down to the Administration section. In the Organization Admins selector, click on the drop down arrow to reveal all available users:
 
-![](/assets/images/organizations/organization-admin.png)
+![](/assets/images/organizations/organization-admins.png)
 
-You can make any of the admins of the teams belonging to this organization into Organizational admins.
+You can select any admin of the teams belonging to this organization and make it a Organizational administrator.
 
 You can delete an admin by deselecting it from the drop down or by clicking on the X next to its name. 
 
 Note: the organization owner must always be an admin and cannot be removed from the list of admins.
 
 ## Timezone
-When the organization is created, it automatically gets the same timezone of its owning user. Any teams created under the organization will get the same timezone as the organization when created. 
+When the organization is first created, it automatically gets the same timezone of its owning user. Any teams created under the organization will get the same timezone as the organization when they are created. 
 
 To change the timezone of an organization, navigate to the Organization page and scroll down to the Administration section. Then click on the drop down of the timezone selector:
 
@@ -78,11 +78,13 @@ You can then scroll up or down to choose your timezone or start typing and selec
 If you change the organization timezone, the timezones of its teams will NOT change.
 
 ## Deleting an Organization
-To delete your organization, navigate to the organizaation page and scroll down to the Administration section. Then, click on the Delete Organization button. You will get a confirmation dialog. Click on the Delete button to confirm.
+To delete an organization, navigate to the organizaation page and scroll down to the Administration section. Then, click on the Delete Organization button. You will get a confirmation dialog. Click on the Delete button to confirm.
 
 Warning: deleted organizations delete all teams, checklists and other resources belonging to the organization as well as disabling any further billing.
 
 Note: deleting an organization is permanent. Please ensure you do not do so accidentally as we cannot restore it for you.
+
+You cannot delete the last organization you belong to.
 
 ## Adding a team
 
