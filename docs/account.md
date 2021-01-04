@@ -10,10 +10,12 @@ A Checklist account allows you to:
 * Share your data with colleagues, friends and family (when you ask)
 * And [many more features](https://checklist.com/features)
 
-The account is free and requires a simple registration and email confirmation. Once registered, we will automatically create for you a free checklist organization and checklist team. 
+The account is free and requires a simple registration and email confirmation. Once registered, we will automatically create for you a free checklist organization with a free team. 
 
 ## Sign In
-Signing up or in both start at https://app2.checklist.com. 
+To sign in visit [https://app2.checklist.com](https://app2.checklist.com).
+
+![](/assets/images/account/login.png)
 
 ### Google Sign In
 If you have a Google account, you can easily sign in by clicking on it and confirming Checklist on the following page. If this is your first visit, we will create a new organization and team and take you to the web app.
