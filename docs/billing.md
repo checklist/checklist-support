@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teams
+title: Billing
 nav_order: 10
 ---
 # Organization
