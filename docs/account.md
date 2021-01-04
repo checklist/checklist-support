@@ -6,8 +6,14 @@ nav_order: 2
 # Account
 {: .no_toc }
 
-- TOC
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
 {:toc}
+</details>
 
 A Checklist account allows you to:
 * Automatically backup all your checklists & templates to the cloud
@@ -30,7 +36,7 @@ If you previously registered with Checklist using an email address which is the 
 ### Using Email
 If you wish to sign in using your email address, enter it in the Email field and hit enter or the "Next" button. If you already have an account, we will ask you to login. Otherwise, to register.
 
-#### Login to your Checklist Account
+#### Login
 If you already have a Checklist account, we will ask for your password. Enter it and hit enter or the Login button. If the credentials entered are correct, you will be directed to the web app.
 
 ![](/assets/images/account/login.png)
