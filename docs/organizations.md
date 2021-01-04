@@ -31,6 +31,10 @@ To view your organization, click on the Teams button on the main navigation of t
 Once selected, you will see in the blue section a list of any organizations or teams you belong to. Click on the organization you wish to view to show it in the main section of the screen.
 
 Only organization admins can view or make changes to the organization.
+
+## Plan
+The organization's plan determines which features and quotas your organization can take advantage of. Read more [about billing](/billing).
+
 ## Rename Organization
 To change the name of your organization, navigate to it and scroll down to the Rename Organization section:
 
@@ -44,6 +48,7 @@ Note: your organization name must be 3-30 alphanumeric characters or spaces.
 
 Organization admins can:
 * Change the organization name
+* Manage the billing Plan
 * Manage organization admins
 * Change the organization timezone
 * Create & Delete teams
