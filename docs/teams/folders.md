@@ -59,6 +59,13 @@ To delete a folder, click on the trash button and confirm:
 Note: any checklists or templates in the deleted folder do NOT get deleted. They are simply moved into the Uncategorized folder below all other folders.
 
 ## Checklist Folders
+Once you have setup your folders, you can navigate to the Checklists page. On the left, in the blue section, you will see all your folders and checklists. Initially, all checklists will be at the bottom. You can start dragging them one by one and dropping on the different folders. 
+
+![](/assets/images/teams/folders-checklists.png)
+
+Note that you can collapse a folder to hide any of its checklists (in the example above the Backoffice folder is collapsed). Collapsed folders have a downward arrow to the right of their name. Clicking on it will expand back the folder.
 
 ## Template Folders
+Once you have setup your folders, you can navigate to the Templates page. The page sorts the templates by folder. Initially, the templates will be at the bottom of the screen below the folders. Simply drag a template onto the correct folder and drop it. You are free to leave any template uncategorized if you wish to. Here is what the template folders can look like:
 
+![](/assets/images/teams/folders-templates.png)
