@@ -29,7 +29,7 @@ Only team admins can manage folders but they can be used by anyone in the team.
 ## Add a Folder
 To add a folder, navigate to the team and click on the New Folder button:
 
-![](/assets/images/teams/folders.png)
+![](/assets/images/teams/folders-add.png)
 
 On the opened dialog, set a name to your new folder and click on Create button. 
 
