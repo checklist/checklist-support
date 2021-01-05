@@ -60,11 +60,11 @@ To add or remove an admin, navigate to the Organization page and scroll down to 
 
 ![](/assets/images/organizations/organization-admins.png)
 
-You can select any admin of the teams belonging to this organization and make it a Organizational administrator.
+Who can be an admin?
+* The organization owner is always an admin of the organization and cannot be removed
+* Any user who is an admin of one of the organization's teams
 
 You can delete an admin by deselecting it from the drop down or by clicking on the X next to its name. 
-
-Note: the organization owner must always be an admin and cannot be removed from the list of admins.
 
 ## Timezone
 When the organization is first created, it automatically gets the same timezone of its owning user. Any teams created under the organization will get the same timezone as the organization when they are created. 
