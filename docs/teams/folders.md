@@ -2,6 +2,7 @@
 layout: default
 title: Folders
 nav_order: 2
+parent: Teams
 ---
 # Folders
 {: .no_toc }
