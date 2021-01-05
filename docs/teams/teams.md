@@ -7,8 +7,6 @@ has_children: true
 # Teams
 {: .no_toc }
 
-
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -24,6 +22,8 @@ has_children: true
 ## Switching teams
 
 ## Team Folders
+
+Read [about team folders](/teams/folders)
 
 ## Rename Team
 
