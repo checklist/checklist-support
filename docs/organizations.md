@@ -40,7 +40,7 @@ Only organization admins can view the organization details or make changes to th
 The organization's plan determines which features and quotas your organization can take advantage of. Read more [about billing](/billing).
 
 ## Rename Organization
-To change the name of your organization, navigate to it and scroll down to the Rename Organization section:
+To change the name of an organization, navigate to it and scroll down to the Rename Organization section:
 
 ![](/assets/images/organizations/organization-rename.png)
 
@@ -70,11 +70,11 @@ You can delete an admin by deselecting it from the drop down or by clicking on t
 ## Timezone
 When the organization is first created, it automatically gets the same timezone of its owning user. Any teams created under the organization will get the same timezone as the organization when they are created. 
 
-To change the timezone of an organization, navigate to the Organization page and scroll down to the Administration section. Then click on the drop down of the timezone selector:
+To change the timezone of an organization, navigate to the Organization page and scroll down to the Administration section. Then, click on the drop down of the timezone selector:
 
 ![](/assets/images/organizations/organization-timezone.png)
 
-You can then scroll up or down to choose your timezone or start typing and select from the autocomplete. 
+You can then scroll up or down to choose your timezone or start typing and selecting from the autocomplete options. 
 
 If you change the organization timezone, the timezones of its teams will NOT change.
 
@@ -87,9 +87,15 @@ Note: deleting an organization is permanent. Please ensure you do not do so acci
 
 You cannot delete the last organization you belong to.
 
-## Adding a team
+## Adding a team to the Organization
 
-See [Teams](/teams) for how to add a team to your organization.
+To add a team, navigate to the organization you wish to add it under and scroll down to the Administration section. Click on the +Team button:
+
+![](/assets/images/teams/team-add.png)
+
+The Create a new Team dialog will open. You can set the name of the new team and click Create to confirm. 
+
+Note: team name can be 3-30 alphanumeric characters. Spaces are allowed.
 
 ## Adding an Organization
 If you need to add a new organization, you can do so by clicking on the +Organization button:

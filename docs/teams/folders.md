@@ -76,8 +76,8 @@ Once you have setup your folders, you can navigate to the Templates page. The pa
 
 Initially, the templates will be at the bottom of the screen below the folders. Simply drag a template onto the correct folder and drop it. You are free to leave any template uncategorized if you wish to. 
 
+You can also reorder templates within a folder by dragging it up or down within the desired folder.
+
 Here is what the template folders can look like:
 
 ![](/assets/images/teams/folders-templates.png)
-
-You can also reorder templates within a folder by dragging it up or down within the desired folder.
