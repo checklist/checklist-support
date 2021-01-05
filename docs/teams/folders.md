@@ -54,7 +54,7 @@ You can drag it up or down. Once you reorder a folder it will apply to the whole
 ## Delete Folder
 To delete a folder, click on the trash button and confirm:
 
-![](/assets/images/teams/folders-reorder.png)
+![](/assets/images/teams/folders-delete.png)
 
 Note: any checklists or templates in the deleted folder do NOT get deleted. They are simply moved into the Uncategorized folder below all other folders.
 
