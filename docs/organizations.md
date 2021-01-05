@@ -7,6 +7,7 @@ nav_order: 3
 {: .no_toc }
 
 
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -24,7 +25,7 @@ An organization can have 1 or more teams in it. For example, you can have a mark
 
 You can still use Checklist by yourself without any sharing.
 
-## Viewing the Organization
+## Viewing an Organization
 To view your organization, click on the Teams button on the main navigation of the app (on the left of the screen):
 
 ![](/assets/images/organizations/organization-navigate.png)

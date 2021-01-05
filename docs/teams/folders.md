@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Teams
-nav_order: 3
+title: Folders
+nav_order: 2
 ---
-# Organization
+# Folders
 {: .no_toc }
+
 
 
 <details open markdown="block">
@@ -16,8 +17,13 @@ nav_order: 3
 {:toc}
 </details>
 
-# Teams
 
-## Managing Team members
+## Add a Folder
 
-## Switching teams
+## Rename Folder
+
+## Reorder Folder
+
+## Delete Folder
+
+
