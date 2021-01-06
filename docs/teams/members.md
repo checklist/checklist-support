@@ -18,9 +18,9 @@ parent: Teams
 
 Invite colleagues, customers, suppliers, friends and family to collaborate with you on getting things done! 
 
-Membership is always within the context of a Team. 
+Membership is always within the context of a Team (and not organization). 
 
-Once you have invited a user, and they have accepted, you can fine tune their access to your team resources by giving them different roles (see below).
+Once you have invited a user and they have accepted, you can fine tune their access to team resources by assigning them 1 or more roles (see [#understanding-roles](below)).
 
 ## Inviting a Member
 To invite someone to be a memebr of a team, navigate to that team and scroll down to the "Invite a member" section:
