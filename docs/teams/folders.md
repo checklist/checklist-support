@@ -81,3 +81,6 @@ You can also reorder templates within a folder by dragging it up or down within 
 Here is what the template folders can look like:
 
 ![](/assets/images/teams/folders-templates.png)
+
+
+Any checklist generated from a template will be automatically placed in the same folder as the template.

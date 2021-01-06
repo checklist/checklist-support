@@ -28,11 +28,11 @@ To view your teams, click on the Teams button from the main menu (on the left of
 This will open the current team you are working on in the main section of the page. 
 ## Switching teams
 
-If you wish to switch your work to a different eam, follow the steps above to view a team and then, from the blue left section, click on the team you wish to switch to. You can then simply click on any of the main navigation buttons (left): Dashboard, Checklists, Templates and Automations.
+If you wish to switch your work to a different team, follow the steps above to view a team and then, from the blue left section, click on the team you wish to switch to. You can then simply click on any of the main navigation buttons (left): Dashboard, Checklists, Templates and Automations.
 
 ## Team Folders
 
-Read [about team folders](/teams/folders)
+Read [about team folders](/teams/folders/)
 
 ## Rename Team
 To change the name of a team, navigate to it and scroll down to the Adminstration section:
