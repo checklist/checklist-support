@@ -23,34 +23,34 @@ Membership is always within the context of a Team (and not organization).
 Once you have invited a user and they have accepted, you can fine tune their access to team resources by assigning them 1 or more roles (see [#understanding-roles](below)).
 
 ## Inviting a Member
-To invite someone to be a memebr of a team, navigate to that team and scroll down to the "Invite a member" section:
+To invite someone to be team member, navigate to that team and scroll down to the "Invite a member" section:
 
 ![](/assets/images/teams/members-invite.png)
 
-Enter the email address of the person you wish to invite and hit the Invite button. We will send an invitation email to that person asking them to confirm. If they do not already have a Checklist account, they will be asked to create one. 
+Enter the email address of the person you wish to invite and hit the "Invite" button. We will send an invitation email to that person asking them to confirm. If they do not already have a Checklist account, they will be asked to first create one. 
 
-Once confirmed, they will be shown on your 
+Once confirmed, they will be added to the team and shown on your team page.
 
 ## Viewing Members
-To view your team members, navigate to the Team page and scroll down until you reach the Team Members section:
+To view team members, navigate to the Team page and scroll down until you reach the "Team Members" section:
 
 ![](/assets/images/teams/members-view.png)
 
-All team members, including those who are pending will show up in the table. 
+All team members, including those who are pending, will be shown in the table. Member who are still pending will only show their email address as they have not confirmed yet.
 
 If you are a team admin, you are also able to manage the memebrs.
 
 ## Removing a Member
-Team admins can remove members from the team. There must be at least one ADMIN member left. If an admin wished to remove themselves from the team, and they are the only admin, they must first make another user into an admin.
+Team admins can remove members from the team. There must be at least one ADMIN member left. If an admin wished to remove themselves from the team, and they are currently the only admin, they must first make another user into an admin. They can then remove themselves.
 
 An organization owner can always act as a team admin.
 
 Non-admin user may remove themselves from the team even if they are not admins. They cannot perform any other member management action.
 
 ## Updating Member Roles
-To manage the roles of a specific member, navigate to the Team page and scroll down to the Team Members section. On the row of the member you wish to change, click on the existing roles to open the roles dropdown:
+To manage the roles of a specific member, navigate to the Team page and scroll down to the "Team Members" section. On the row of the member you wish to manage, click on the existing roles to open the roles dropdown:
 
-![](/assets/images/teams/members-view.png)
+![](/assets/images/teams/members-roles.png)
 
 Check or an uncheck the roles you wish to change. When ready, click anywhere on the screen (or hit Esc) to close the dropdown.
 
@@ -61,9 +61,9 @@ Below is an explanation of each role. Please note that the roles are cummulative
 
 ### Admin
 Team admins can:
-* manage team name
+* manage the team name
 * manage members (invite, remove, update roles)
-* update team timezone
+* update the team timezone
 
 Only organization admins can delete a team.
 
