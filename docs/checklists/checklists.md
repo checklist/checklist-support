@@ -2,6 +2,7 @@
 layout: default
 title: Checklists
 nav_order: 4
+has_children: true
 ---
 # Checklist
 {: .no_toc }
