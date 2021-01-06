@@ -59,6 +59,8 @@ You must be an admin in order to change member roles. You cannot change the role
 ## Understanding Roles
 Below is an explanation of each role. Please note that the roles are cummulative. E.g. an editor can edit templates but cannot trigger (run) them unless they also have the runner role.
 
+Users may have no roles and are then just a team member. They can create checklists and work with them normally.
+
 ### Admin
 Team admins can:
 * manage the team name
@@ -79,9 +81,8 @@ Team runners are responsible for running (triggering) templates manually. They c
 * From team Dashboard page view all team templates which are marked with a star
 * From the team Dashboard run any "star"ed template (trigger)
 
-### Viewer
-
 ### Guest
-
-
+Guests play a special role:
+* They do not have access to the list of Team members (i.e they cannot see who is on the team)
+* They cannot have any other role other than guest
 
