@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Team Members
-nav_order: 3
-parent: Teams
+title: Checklist Members
+nav_order: 1
+parent: Checklists
 ---
-# Team Members
+# Checklist Members
 {: .no_toc }
 
 <details open markdown="block">
