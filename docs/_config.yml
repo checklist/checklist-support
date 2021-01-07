@@ -1,7 +1,7 @@
 # https://github.com/pmarsceill/just-the-docs
 
-# remote_theme: pmarsceill/just-the-docs
-theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
+# theme: "just-the-docs"
 title: "Checklist Documentation"
 logo: "https://media.checklist.com/v3/images/checklist-logo.svg"
 
