@@ -85,4 +85,3 @@ Team runners are responsible for running (triggering) templates manually. They c
 Guests play a special role:
 * They do not have access to the list of Team members (i.e they cannot see who is on the team)
 * They cannot have any other role other than guest
-
