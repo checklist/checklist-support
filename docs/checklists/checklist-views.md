@@ -31,8 +31,23 @@ Each task (and the checklist itself) has:
 Below is the list of currently available Views. We are working on additional views, so please [let us know](https://checklist.com/feedback){:target="_blank"} if you wish to have any other ones.
 
 ### Checklist View
+The Checklist View is the simplest view, yet it is very powerful. It provides you with a To Do like view to your checklist:
+
+![](/assets/images/checklists/checklist-checklist-view.png)
+
+Read move about the [Checklist View](/checklists/views/checklist-view).
 
 ### Table View
+The Table view allows you add additional columns to your checklist and display them in a table format. You can add, remove, hide and customize the type of columns per checklist:
+
+![](/assets/images/checklists/checklist-table-view.png)
+
+Read move about the [Table View](/checklists/views/table-view).
 
 ### Play View
+The Play View is used together with a checklist template. It allows you to create a set of questions that need to be followed in order to complete the checklist. Those questions can be as simple as ticking off a checklist or move complex like answering text questions, setting a date or uploading a file.
+
+![](/assets/images/checklists/checklist-play-view.png)
+
+Read move about the [Play View](/checklists/views/play-view).
 
