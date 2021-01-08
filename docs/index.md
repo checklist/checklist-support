@@ -65,7 +65,7 @@ Go to: Managing Running Checklists
 
 Now that you have a good idea of how Checklist Pro works you can either:
 
-(https://app2.checklist.com)[Try it out]
+[Try it out](https://app2.checklist.com){:target="_blank"}
 
 or read the detailed documentation, starting with Setting up your Organization
 

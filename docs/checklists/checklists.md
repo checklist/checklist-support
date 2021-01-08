@@ -17,7 +17,7 @@ has_children: true
 {:toc}
 </details>
 
-Make page:
+Make page for:
 ## Checklist structure
 ## Fields
 
@@ -38,7 +38,7 @@ Note that the checklist name must be 1-256 characters long.
 Once the checklist is created, the app will navigate to it.
 
 ### Create a checklist from a template
-If you wish to create a checklist from a template, click on the "Browse Checklist Templates". This will open the [Checklist.com](https://checklist.com/templates) website where you can browse and search our database of checklist templates and choose any of them to create your checklist from.
+If you wish to create a checklist from a template, click on the "Browse Checklist Templates". This will open the [Checklist.com](https://checklist.com/templates){:target="_blank"} website where you can browse and search our database of checklist templates and choose any of them to create your checklist from.
 
 ## The Checklist Page
 A new empty checklist opens with the Checklist view and has now tasks in it:

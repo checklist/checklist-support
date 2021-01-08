@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Folders
+title: Team Folders
 nav_order: 2
 parent: Teams
 ---
-# Folders
+# Team Folders
 {: .no_toc }
 
 <details open markdown="block">

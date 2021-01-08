@@ -21,12 +21,12 @@ A Checklist Account allows you to:
 * Automatically backup all your checklists & templates to the cloud
 * Automatically sync between your devices
 * Share your data with colleagues, friends and family (when you ask)
-* And [many more features](https://checklist.com/features)
+* And [many more features](https://checklist.com/features){:target="_blank"}
 
 The account is free and requires a simple registration and email confirmation. Once registered, we will automatically create for you a free checklist organization with a free team. 
 
 ## Signing In
-To sign in visit [https://app2.checklist.com](https://app2.checklist.com).
+To sign in visit [https://app2.checklist.com](https://app2.checklist.com){:target="_blank"}.
 
 ![](/assets/images/account/signin.png)
 
@@ -54,10 +54,10 @@ We use names when emailing you, sending invites to new contacts or assigning tas
 
 ![](/assets/images/account/login.png)
 
-Hit Register to receive a confirmation link via email. If you have not received our email, please check your spam folder (and add do-not-reply@checklist.com to your contacts). Once you click on the confirmation link, your account will be confirmed and you can login to your account at [https://app2.checklist.com](https://app2.checklist.com).
+Hit Register to receive a confirmation link via email. If you have not received our email, please check your spam folder (and add do-not-reply@checklist.com to your contacts). Once you click on the confirmation link, your account will be confirmed and you can login to your account at [https://app2.checklist.com](https://app2.checklist.com){:target="_blank"}.
 
 ## Reset Password
-If you forgot your password, you can easily reset it by visiting [Password reset](https://app2.checklist.com/password-forgotten) page and entering your email address. You can also click the Forgot Password link on the login page after entering your email:
+If you forgot your password, you can easily reset it by visiting [Password reset](https://app2.checklist.com/password-forgotten){:target="_blank"} page and entering your email address. You can also click the Forgot Password link on the login page after entering your email:
 
 ![](/assets/images/account/login-forgot-password.png)
 
@@ -65,6 +65,6 @@ In either case, we will email you a password reset link. If you do not receive t
 
 Once you click on the link, enter a new password and hit the Reset button:
 
-![](/assets/images/account/reset-password.png)
+![](/assets/images/account/password-reset.png)
 
 You can then login with your email and the new password.

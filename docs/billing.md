@@ -3,9 +3,10 @@ layout: default
 title: Billing
 nav_order: 10
 ---
-# Organization
-{: .no_toc }
 
+# Billing
+
+{: .no_toc }
 
 <details open markdown="block">
   <summary>
