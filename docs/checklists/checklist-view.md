@@ -203,6 +203,10 @@ By default, the Checklist View shows you all the tasks the checklsit has. If you
 
 ![](/assets/images/checklists/checklist-filter-menu.png)
 
+On mobile, you need to click on the Sort/ Filter button to reveal the menu:
+
+![](/assets/images/checklists/checklist-sort-filter-menu-mobile.png)
+
 The Filter menu has the following options:
 
 ![](/assets/images/checklists/checklist-filter-menu-open.png)
@@ -233,6 +237,10 @@ Note: Manual reordering is disabled whenever you are using a Filter or have set 
 If you wish to sort tasks automaticaly, you can use the Sort menu:
 
 ![](/assets/images/checklists/checklist-sort-menu.png)
+
+On mobile, you need to click on the Sort/ Filter button to reveal the menu:
+
+![](/assets/images/checklists/checklist-sort-filter-menu-mobile.png)
 
 The Sort menu has the following options:
 
