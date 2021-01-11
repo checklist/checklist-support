@@ -25,13 +25,13 @@ The Table view allows you add additional columns to your checklist and display t
 ## Adding Tasks
 Adding tasks in the Table view is similar to [Adding tasks in Checklist View](/checklists/checklist-view/#adding-tasks)
 
-## Editing a task name
-To change the task (i.e. its name), simply click on it to end "Edit Mode":
+## Editing Task name
+To change the task (i.e. its name), simply click on it to enter "Edit Mode":
 
 ![](/assets/images/checklists/checklist-table-view-task-edit.png)
 
 ## Task Notes
-To further elborate on a task, you can add Task Notes. To set new notes, click on the empty "Notes". To edit existing notes, click on them. 
+To further elborate on a task, you can add to it Notes. To set new notes, click on the empty "Notes". To edit existing notes, click on them. 
 
 ![](/assets/images/checklists/checklist-table-view-task-notes.png)
 
@@ -39,7 +39,7 @@ To further elborate on a task, you can add Task Notes. To set new notes, click o
 
 ![](/assets/images/checklists/checklist-table-view-task-notes-open.png)
 
-Enter your notes or changes and click Save.
+Enter your notes or make the desired changes and click Save.
 
 ## Deleting Tasks
 To delete a task click on the Delete button (Trashcan) on the task itself:
@@ -47,7 +47,7 @@ To delete a task click on the Delete button (Trashcan) on the task itself:
 ![](/assets/images/checklists/checklist-table-view-task-delete.png)
 
 ## Columns
-The biggest different between Checklist and Table views are "Columns". Columns allow you to add an unlimited number of "fields" (columns) to each task. This means that each task can include more data.
+The biggest different between Checklist and Table views are "Columns". Columns allow you to add an unlimited number of "fields" (columns) to each task. This means that each task can include more data. Once you add a column, it is available to all tasks on this checklist (even sub or sub sub tasks).
 
 By default, the following fields are created for each checklist:
 * Assign
@@ -55,7 +55,7 @@ By default, the following fields are created for each checklist:
 * Attachments
 * Priority
 
-Depending on your plan, you can add more fields or edit existing ones.
+Depending on your organization billing plan, you can add more fields or edit existing ones.
 
 ### Managing Columns
 To manage your checklist columns, click on the Columns button:
@@ -67,9 +67,9 @@ The Columns Management dialog opens:
 ![](/assets/images/checklists/checklist-table-view-columns.png)
 
 The dialog shows you which columns have been defined for this checklist. Each columns has:
-* a checkbox - this determines whether to show (checked) or hide (unchecked) the column in the table. 
+* a checkbox - this determines whether to show (checked) or hide (unchecked) the column in the table itself 
 * name - the name of the columns
-* edit button - use it to make changes to the column
+* edit button (pencil) - use it to make changes to the column
 
 If you wish to add a column, hit the Add Column button.
 
@@ -79,15 +79,15 @@ The Add/ Edit Column dialog:
 ![](/assets/images/checklists/checklist-table-view-column-edit.png)
 
 The dialog includes:
-* name - 1-20 alphanumeric characters ( - _ spaces are allowed)
-* type - the column type - see below
+* name - 1-20 alphanumeric characters ( '-' '_' and spaces are allowed)
+* type - the column type - [see below](#column-types)
 * key - this is automatically generated from the column name. Once set, cannot be changed. 
 * description - this is shown as a tooltip with mouse over the column name
-* options - only applicable if the type chosen is Choice. See below.
+* options - only applicable for type Choice. [See below](#choice-type).
 
 ### Delete a column
 To delete a column:
-* open the columns dialog
+* open the Columns dropdown by clicking on the Columns button
 * click on the Pencil next to the column you wish to delete
 * the Edit Column dialog opens
 * click on Delete button at the bottom of the dialog
@@ -150,4 +150,4 @@ Depending on your preference, you can increase or decrease the density (how much
 
 ![](/assets/images/checklists/checklist-table-view-density.png)
 
-The density is stored on your browser and kept between navigation and session. It is not saved to the cloud and therefore not shared with others.
+The density is stored on your browser and kept between navigation and sessions. It is not saved to the cloud and therefore not shared with others.

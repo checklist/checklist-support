@@ -79,6 +79,8 @@ At the top you can see who already are members of the checklist. Owners are mark
 
 Below it you will find the permissions of the checklist followed by a drop down to add more members from the team.
 
+Note: if you are not an owner of a checklist, you will not see the Checklist Members button. To remove yourself from a checklist, simply click on the Delete Checklist button from the Checklist Menu.
+
 ## Adding members
 To add a member to the checklist, you must be a checklist owner. Open the Checklist Members dialog and click on the "Add a Checklist Member" drop down to see which team members are not yet members and can be added:
 
