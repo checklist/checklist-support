@@ -74,9 +74,16 @@ The dialog shows you which columns have been defined for this checklist. Each co
 If you wish to add a column, hit the Add Column button.
 
 ### Add / Edit a column
-
+The Add/ Edit Column dialog:
 
 ![](/assets/images/checklists/checklist-table-view-column-edit.png)
+
+The dialog includes:
+* name - 1-20 alphanumeric characters ( - _ spaces are allowed)
+* type - the column type - see below
+* key - this is automatically generated from the column name. Once set, cannot be changed. 
+* description - this is shown as a tooltip with mouse over the column name
+* options - only applicable if the type chosen is Choice. See below.
 
 ### Delete a column
 To delete a column:
@@ -107,6 +114,29 @@ To change a column type:
 
 ![](/assets/images/checklists/checklist-table-view-column-types.png)
 
+### Choice Type
+The Choice Type allows users to choose from a number of options. The Priority column is an example of a column using the Choice Type:
+
+![](/assets/images/checklists/checklist-table-view-priority-open.png)
+
+The column is of Choice type with the following options:
+* low
+* medium
+* high
+
+If you try to edit the column you will see at the bottom of the Column Edit dialog the 3 options:
+
+![](/assets/images/checklists/checklist-types-choice-menu.png)
+
+You can:
+* click on the option name to edit it
+* click on the Trash button to delete an option
+* click on the + Add Option button to add a new option
+* drag and drop an option to reorder it
+* click on the color section of an Optin to get the color picker:
+
+![](/assets/images/checklists/checklist-types-option-color-picker.png)
+
 ## Subtasks
 Subtasks on Table view is similar to [Checklist View SubTasks](/checklists/checklist-view/#subtasks)
 
@@ -114,7 +144,6 @@ Subtasks on Table view is similar to [Checklist View SubTasks](/checklists/check
 If you wish to change the order of tasks, you can do so by dragging the task and dropping it at the desired new location:
 
 ![](/assets/images/checklists/checklist-table-view-dnd.png)
-
 
 ## Density
 Depending on your preference, you can increase or decrease the density (how much spacing between table row). Use the toggle below the table:
