@@ -48,7 +48,7 @@ Each task is placed on its own card. The cards can be "opened" by clicking on th
 
 Tasks which are not marked as required can also be marked as completed directly via their checkbox.
 
-Tasks which are marked as required type cannot be manually checked/ unchecked. The must fill out the answer according to its type.
+Tasks which are marked as "required" (and are not of type Check) cannot be manually checked/ unchecked. The user must fill out the answer according to its type.
 
 ## Subtasks
 It is possible to group a set of tasks together as subtasks (just like in other views). Subtasks are indented to the right. Sub-subtasks are indendent further and so on.
