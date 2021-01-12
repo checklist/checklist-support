@@ -31,7 +31,7 @@ To change the task (i.e. its name), simply click on it to enter "Edit Mode":
 ![](/assets/images/checklists/checklist-table-view-task-edit.png)
 
 ## Task Notes
-To further elborate on a task, you can add to it Notes. To set new notes, click on the empty "Notes". To edit existing notes, click on them. 
+To further elaborate on a task, you can add to it Notes. To set new notes, click on the empty "Notes". To edit existing notes, click on them. 
 
 ![](/assets/images/checklists/checklist-table-view-task-notes.png)
 
@@ -47,7 +47,7 @@ To delete a task click on the Delete button (Trashcan) on the task itself:
 ![](/assets/images/checklists/checklist-table-view-task-delete.png)
 
 ## Columns
-The biggest different between Checklist and Table views are "Columns". Columns allow you to add an unlimited number of "fields" (columns) to each task. This means that each task can include more data. Once you add a column, it is available to all tasks on this checklist (even sub or sub sub tasks).
+The biggest difference between Checklist and Table views are "Columns". Columns allow you to add an unlimited number of "fields" (columns) to each task. This means that each task can include more data. Once you add a column, it is available to all tasks on this checklist (even sub or sub sub tasks).
 
 By default, the following fields are created for each checklist:
 * Assign
@@ -133,7 +133,7 @@ You can:
 * click on the Trash button to delete an option
 * click on the + Add Option button to add a new option
 * drag and drop an option to reorder it
-* click on the color section of an Optin to get the color picker:
+* click on the color section of an Option to get the color picker:
 
 ![](/assets/images/checklists/checklist-types-option-color-picker.png)
 

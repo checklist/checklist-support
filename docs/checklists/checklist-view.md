@@ -96,7 +96,7 @@ Sometimes a task can (or should) be broken into a number of subtasks. Those subt
 
 To add a subtask to a parent task:
 * select the parent task by clicking on it
-* add the subtask by using the Add Task barr (the subtask will be added as a task just below the parent task)
+* add the subtask by using the Add Task bar (the subtask will be added as a task just below the parent task)
 * from the Task menu of the subtask click on the "subtask" button:
 
 ![](/assets/images/checklists/checklist-task-subtask-menu.png)
@@ -190,7 +190,7 @@ The Attach Dialog will open:
 
 You can either drag and drop a file on the drop zone or click on the dropzone to open the file navigator to file the file to attach. Once selected, the file will be uploaded to the cloud and you will see it below the dropzone. You can click on the link of the uploaded file to open it in a new tab. 
 
-To delete an already uploaed attachment, click on the Trash buton.
+To delete an already uploaded attachment, click on the Trash buton.
 
 Click the Close button to close the dialog. If a task has an attachment, it will be shown on it:
 
@@ -199,7 +199,7 @@ Click the Close button to close the dialog. If a task has an attachment, it will
 If you want to view your attachment, add new attachment or delete an existing attachment, click on the Attach icon or click Attach from the task menu.
 
 ## Filtering Tasks
-By default, the Checklist View shows you all the tasks the checklsit has. If you wish to filter which tasks should be shown, you can use the Filter menu:
+By default, the Checklist View shows you all the tasks the checklist has. If you wish to filter which tasks should be shown, you can use the Filter menu:
 
 ![](/assets/images/checklists/checklist-filter-menu.png)
 
