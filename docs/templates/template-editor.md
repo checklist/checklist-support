@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Templates
-nav_order: 5
+title: Template Editor
+nav_order: 1
+parent: Templates
 ---
-# Templates
+# Template Editor
 {: .no_toc }
-
 
 <details open markdown="block">
   <summary>
@@ -16,12 +16,3 @@ nav_order: 5
 {:toc}
 </details>
 
-## Creating Templates
-
-## Editing templates
-
-## Running Templates
-
-## Managing templates
-
-## Template Scheduling

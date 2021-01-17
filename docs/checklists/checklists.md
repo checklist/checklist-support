@@ -7,7 +7,6 @@ has_children: true
 # Checklist
 {: .no_toc }
 
-
 <details open markdown="block">
   <summary>
     Table of contents
