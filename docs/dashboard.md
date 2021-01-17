@@ -15,11 +15,13 @@ nav_order: 7
 {:toc}
 </details>
 
-The Dashboard is the first item in the main Checklist menu. It is supposed to give you an overview of your checklists (and what's important). 
+The Dashboard is the first item in the main Checklist menu. It is meant to give you an overview of your checklists (and what's important). 
 
 By default, when you login, we direct you to the Checklists page. If you wish to have the Dashboard as your default page, you can set it in the Account Preferences page.
 
 Currently, the following widgets are available on the dashboard:
+
+![](/assets/images/dashboard/dashboard.png)
 
 ## Run Templates
 This widget is only available to users with the Runner role. Any templates marked as Favorite (Star) will be shown here for Runners. 
