@@ -42,6 +42,8 @@ The Templates page will open showing all your existing templates:
 
 Just like checklists, your templates can be sorted into your team folders. Any template without a folder will be placed at the end in the "No Folder" section. You can easily re-order a template by dragging the "dragger" on its left and dropping it onto any folder. You can also re-order within a folder by dragging up or down.
 
+Important note: Managing templates can only be performed by team users with the Editor role. Other users will not have access to the templates or the template editor.
+
 ## Creating Templates
 To create a new template, click on the New Template button. The Create a new Template dialog will open:
 
@@ -88,8 +90,34 @@ When you need to Run a template on a regular basis, you can easily Schedule it. 
 
 To schedule a regular Run, click on the Automation button of the template:
 
-![](/assets/images/templates/templates-run-button.png)
+![](/assets/images/templates/templates-schedule-button.png)
 
 This will open the Automations page with the already existing automations of this template where you can also create a new schedule. 
 
 Read more about [checklist automation](/automation).
+
+## Deleting Templates
+
+To delete a template, click on the Trashcan button next to its name:
+
+![](/assets/images/templates/templates-delete-button.png)
+
+The Delete Template confirmation dialog will open. Click Delete to confirm.
+
+## Duplicating a Template
+If you want to use an existing template as the starting point for a new template, you can easily duplicate the existing template. Click on the Duplicate button of the existing template:
+
+![](/assets/images/templates/templates-duplicate-button.png)
+
+The Duplicate A template dialog will open:
+
+![](/assets/images/templates/templates-duplicate-dialog.png)
+
+You can rename the new template and click Duplicate to make the copy. The newly created template will be in the same folder as the original template.
+
+## Favorite a Template
+You can mark a template as a Favorite using the Star:
+
+![](/assets/images/templates/templates-favorite-button.png)
+
+Templates marked as Favorite can be triggered by team users with the RUNNER role. The template will be accessible to them from the [Dashboard page](/dashboard).
