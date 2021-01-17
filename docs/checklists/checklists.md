@@ -60,7 +60,7 @@ The Checklist status can be open or completed (unchecked or checked respectively
 
 ![](/assets/images/checklists/checklist-page-status.png)
 
-The status will automtically get updated based on the status of the checklists tasks. Read more about  [Checklist Propagation](/checklist/propagation).
+The status will automtically get updated based on the status of the checklists tasks. Read more about  [Checklist Propagation](/checklists/play-view/#propagation).
 
 If you want to change the status yourself, you can simply click on the checkbox itself:
 * if the checklist was open, the checklist and all tasks and subtasks will be marked as completed
