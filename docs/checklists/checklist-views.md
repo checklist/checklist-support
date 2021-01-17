@@ -33,6 +33,24 @@ Each task (and the checklist itself) has:
 
 Below is the list of currently available Views. We are working on additional views, so please [let us know](https://checklist.com/feedback){:target="\_blank"} if you wish to have any other ones.
 
+## Switching Views
+At the top of the Checklist Page is the View Selector:
+
+![](/assets/images/checklists/checklist-page-view-selector.png)
+
+Clicking on it will open the following menu:
+
+![](/assets/images/checklists/checklists-view-selector-open.png)
+
+You can do any of the following:
+* click on the TEXT of the view name (Checklist, Table or Play) to switch to that view
+* check a view to add it to the available views (for non owners)
+* uncheck a view to remove it from available views
+* click on the radio option to choose the default view (to be loaded by default). Note that you cannot select an option if it has not been enabled
+* click again on the selector or anywhere outside to close the menu
+
+Note: the View Selector is for Checklist Owners and is not available to other users. They will get the default view.
+
 ### Checklist View
 
 The Checklist View is the simplest view, yet it is very powerful. It provides you with a To Do like view to your checklist:
