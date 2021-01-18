@@ -2,6 +2,7 @@
 layout: default
 title: Account
 nav_order: 2
+has_children: true
 ---
 # Account
 {: .no_toc }
@@ -68,3 +69,15 @@ Once you click on the link, enter a new password and hit the Reset button:
 ![](/assets/images/account/password-reset.png)
 
 You can then login with your email and the new password.
+
+## Account Export
+If you wish to export your account details:
+* navigate to the Account page
+* click on the Security &amp; Usage tab
+* scroll down to the Export My Details section:
+
+![](/assets/images/account/user-export.png)
+
+Click on the Export button to export your data in compliance with GDPR. A new tab will open with all of your user data in JSON format which is an internet portable format. You can click Save in your browser window to keep the fild for your reference and usage.
+
+Note: if you wish to export Team data such as templates and checklists, head over to [Team Import/ Export](/teams/import-export/)
