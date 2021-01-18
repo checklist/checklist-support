@@ -19,7 +19,7 @@ parent: Teams
 ## Team Import
 To quickly get started with Checklist.com, use our Import feature. We support a number of productivty providers from which you can migrate your data. 
 
-In addition, should you need to import Checklist.com you have previously imported (e.g. for backup or re-use), you can also use the Import feature.
+You can also use the Import feature to import a previously exported Checklist.com data file (e.g. for backup or re-use).
 
 To import data to your team, go to the Team page and scroll down to the Import section:
 

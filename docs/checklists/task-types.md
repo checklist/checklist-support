@@ -41,7 +41,7 @@ The Choice type allows you to select an option from 2 or move options. By defaul
 
 ![](/assets/images/types/type-choice.png)
 
-In the Table View columns management, or the Template Task Details pane you can edit the different option. See how to manage the [Choice Options](/checklists/table-view/#choice-type)
+In the Table View columns management, or the Template Task Details pane you can edit the different options. See how to manage the [Choice Options](/checklists/table-view/#choice-type)
 
 ## Text
 The Text type allows you to enter any text in one line:
