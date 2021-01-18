@@ -113,7 +113,9 @@ The Duplicate A template dialog will open:
 
 ![](/assets/images/templates/templates-duplicate-dialog.png)
 
-You can rename the new template and click Duplicate to make the copy. The newly created template will be in the same folder as the original template.
+You can rename the new template as well as decide if you want to duplicate any existing template recieps. Click Duplicate to make the copy. 
+
+The newly created template will be in the same folder as the original template.
 
 ## Favorite a Template
 You can mark a template as a Favorite using the Star:
