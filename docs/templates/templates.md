@@ -94,7 +94,7 @@ To schedule a regular Run, click on the Automation button of the template:
 
 This will open the Automations page with the already existing automations of this template where you can also create a new schedule. 
 
-Read more about [checklist automation](/automation).
+Read more about [Template Automation](/automation/#template-automation).
 
 ## Deleting Templates
 
