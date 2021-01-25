@@ -86,3 +86,5 @@ You can export in the following formats:
 * JSON (without attachments)
 
 We will create the export and zip it into one file and then send a link to this file (together with the optional message) to the email addresses provided. 
+
+Note: only PRO accounts can select an email and a message. Other users will get the email to their own mailbox.
