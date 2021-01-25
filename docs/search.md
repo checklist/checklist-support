@@ -82,8 +82,8 @@ If you wish to export the checklists (as well as any attachments), click on the 
 You can export in the following formats:
 * CSV - comma separated files. Each checklist will be in a separate file
 * PDF - each checklist will be in a separate PDF document
-* JSON (with attachments)
-* JSON (without attachments)
+* JSON (with attachments) - not available for FREE plan
+* JSON (without attachments) - not available for FREE plan
 
 We will create the export and zip it into one file and then send a link to this file (together with the optional message) to the email addresses provided. 
 
