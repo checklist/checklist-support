@@ -57,7 +57,7 @@ Once you click on search, Checklist performs a search in our database and return
 
 At the bottom of the table you can see a pagination widget:
 * Rows per Page: you can set how many search results to see at a time
-* Pages. you can see which page you are on (out of hwo many)
+* Pages. you can see which page you are on (out of how many)
 * Pagination - use the arrows to paginate back and forth between pages
 
 ## Search Results Actions

@@ -16,9 +16,7 @@ has_children: true
 {:toc}
 </details>
 
-Make page for:
-## Checklist structure
-## Fields
+
 
 ## Creating checklists
 To create a new checklist, navigate to the Checklists page and click on the New Checklist button:
