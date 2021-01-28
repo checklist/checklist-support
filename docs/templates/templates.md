@@ -18,14 +18,18 @@ has_children: true
 </details>
 
 
-Templates can hugely increase your productivy. Why keep re-inventing the wheel? Either you, and most probably someone else, has already thought and perfected the checklist for your task at hand. 
+Templates can hugely increase your productivy. Why keep re-inventing the wheel? Either you, and most probably someone else, has already thought and perfected the checklist for your task at hand. Businesses can use templates to mirror and run the processes. Advantages of using checklist templates:
+* a simple and effective way to document your business processes
+* can be triggered multiple times and assigned to team members
+* can be scheduled to run in the future and at regular schedules
+* can be used to track current and past progress
 
 ## Public Templates
-Instead of starting with a blank page, browse our [checklist templates](https://checklist.com/templates){:target="_blank"} to find the right one. 
+Instead of starting with a blank page, browse our [checklist templates](https://checklist.com/templates){:target="_blank"} to find the right one. You can then save the template as a checklist and start working with it. 
 
 ## Team Templates
 
-Of course not every organization is the same and you can create your own template from scratch (or use a public template) and make it available to your entire team. This is where Checklist shines, again:
+Of course not every organization is the same and you can create your own templates from scratch (or use a public template) and make it available to your entire team. This is where Checklist shines, again:
 * you can "run" these templates to create a checklist with a click of a button
 * you can "schedule" these templates to be run (e.g. daily, weekly)
 * you can automatically assign the created checklists to the entire team or specific users
@@ -83,7 +87,7 @@ Click on the Run button to create the checklist. The checklist is created and yo
 
 ![](/assets/images/templates/templates-run-confirm.png)
 
-Click on the Play button on the confirmation to navigate to the created checklist and start using it.
+Click on the View button on the confirmation to navigate to the created checklist and start using it.
 
 ## Scheduling Templates
 When you need to Run a template on a regular basis, you can easily Schedule it. For example, if you need a "Daily Opening Checklist" for your store. Or a "Weekly Corona Checks" checklist for compliance and staying healthy.

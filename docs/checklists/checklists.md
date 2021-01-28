@@ -58,14 +58,14 @@ The Checklist status can be open or completed (unchecked or checked respectively
 
 ![](/assets/images/checklists/checklist-page-status.png)
 
-The status will automtically get updated based on the status of the checklists tasks. Read more about  [Checklist Propagation](/checklists/play-view/#propagation).
+The status will automtically get updated based on the status of the checklists tasks. Read more about  [Checklist Propagation](/checklists/form-view/#propagation).
 
 If you want to change the status yourself, you can simply click on the checkbox itself:
 * if the checklist was open, the checklist and all tasks and subtasks will be marked as completed
 * if the checklist was completed, the checklist and all tasks and subtasks will be marked as open
 
 ## Checklist View Selector
-Your checklist can be viewed in any of our Viewers (e.g. Checklist, Table, Play). You can use the Checklist View Selector to choose which view you wish to use:
+Your checklist can be viewed in any of our Viewers (e.g. Checklist, Table, Form). You can use the Checklist View Selector to choose which view you wish to use:
 
 ![](/assets/images/checklists/checklist-page-view-selector.png)
 

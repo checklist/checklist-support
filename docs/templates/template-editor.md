@@ -80,7 +80,7 @@ Sharing is on when the toggle is orange (and to the right) and off when grey (an
 You can set which views will be available for users of the checklists created. This is similar to the [View Selector](/checklists/checklists/#checklist-view-selector) of the Checklist Page.
 
 #### Propagation
-Propagation refers to how parent and child tasks should behave when they are completed. Read more about [task propagation](/checklists/play-view/#propagation). These two setting control the setting of checklists created from this template.
+Propagation refers to how parent and child tasks should behave when they are completed. Read more about [task propagation](/checklists/form-view/#propagation). These two setting control the setting of checklists created from this template.
 
 ### Task Details
 After selecting a task, the Task Details are shown in the Details Pane:

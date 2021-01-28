@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Play View
+title: Form View
 nav_order: 3
 parent: Checklist Views
 grand_parent: Checklists
 ---
-# Play View
+# Form View
 {: .no_toc }
 
 
@@ -18,22 +18,22 @@ grand_parent: Checklists
 {:toc}
 </details>
 
-The Checklist Play lets users "play" checklists: easily move from one task to the next while checking off, selecting options or entering data for requested field types:
+The Checklist Form lets users "play" checklists: easily move from one task to the next while checking off, selecting options or entering data for requested field types:
 
-![](/assets/images/checklists/checklist-play-view.png)
+![](/assets/images/checklists/checklist-form-view.png)
 
-The Play View is used together with a checklist template. You can use it ONLY on checklists that were created from templates. 
+The Form View is used together with a checklist template. You can use it ONLY on checklists that were created from templates. 
 
 Learn more [about templates](/templates).
 
-Checklist owners can set which view is available per checklist. By default, Play will not be set for standard checklists as it is only applicable to those created from templates. 
+Checklist owners can set which view is available per checklist. By default, the Form view will not be set for standard checklists as it is only applicable to those created from templates. 
 
-Members who are not owners will not see the View Selector widget and the Play View will load for them by default.
+Members who are not owners will not see the View Selector widget and the Form View will load for them by default.
 
 ## Tasks
 Each task is placed on its own card. The cards can be "opened" by clicking on the down arrow at the top right of the card:
 
-![](/assets/images/checklists/checklist-play-view-card-open.png)
+![](/assets/images/checklists/checklist-form-view-card-open.png)
 
 1. Task Status
 2. Task Name. If the task is marked as required, an asterisk (*) will be shown after it

@@ -7,66 +7,22 @@ has_toc: true
 # Welcome to Checklist
 {:toc}
 
-## Getting started with Checklist Pro
+From simple To Do checklists to more complex repeatable business processes you can use Checklist to stay on track. Work alone, within a team, company friends or family. Sync your work across devices. Integrate your checklists with 3rd party software. A Checklist for Life. And Business.
 
-From regular inspections to repeatable processes, teams use Checklist Pro to stay on track. 
+At the core of Checklist is of course the checklist: a list of tasks (with optional sub tasks). Each task has a name and status (open/ complete). You can also add addtional fields like due date, notes, assignee or anything else you wish. Unlike other apps, you can choose how you wish to view those checklists: as a list, in a table or as a form which needs to be complated & checked.
 
-Go to: Checklist Pro
+Your checklists are always synchronized between your devices and anyone else who has access to them. Not only does this let you collaborate with others but it also provides you with an automatic backup of your work. Needless to say that you can access your checklists from both desktop and mobile browsers.
 
-## Advantages
+Have you heard the phrase: "don't re-invent the checklist"? In most cases, someone else has already thought of the checklist you are about to start. So give yourself a headstart: use our database of thousands of checklist templates to kickstart your next checklist. And if there is a checklist you think you will be using repeatedly, you can make it into a template yourself. You can then share it with your team or with the whole Checklist community by publishing it.
 
-* Checklist Pro offers your organization:
-* Easily create simple to follow checklists to map your business processes
-* Work with multiple teams to share workload
-* "Play" your checklists on web, Android or iOS apps
-* Track progress across the organization
-* In this document we will show the basics of using Checklist Pro and provide links to the full documentation for more details. Please contact us if you have any questions.
+Everyone who joins Checklist gets their own organization and team. If you work alone or with family or friends, you can stick to your team. But if you want to take Checklist further and use it within your company, you can easily do so by inviting your colleagues, customers and suppliers. You can have multiple teams setup. Get everyone on the same checklist!
 
-## Checklist Templates
-Map your business processes into simple checklists your team can easily follow. Checklists can be used for
+Incraese your productivty and boost your checklists with Automation. Automate repetitive tasks: e.g. trigger daily checklists, assign tasks automatically or send an email when a checklist completes. You can also integrate with thousands of 3rd party applications (to/ from Checklist).
 
-* documenting the process for training purposes 
-* "running/ executing" the process
-The Template Editor is used to create, edit and preview the templates:
+## How to Read
+You can follow the steps as shown in the menu to the left and read page by page or just to the section you are interested in.
 
+## Question & Feedback
+We are always interested to hear from you. Whether we got something wrong, you have a question or you simply want to give us a high five. 
 
-Templates can be stored in multiple folders (e.g. Daily, Weekly, Audits, Inspections) for easy access. 
-
-Go to: Checklist Templates, Template Editor or Template Folders
-
-## Organization & Teams
-
-Checklist Pro is geared towards working within an organization. You can easily map your organization into 1 or more teams. Each team can share its templates and checklists. Checklists can be assigned to the whole team or to specific members. Team examples may include Sales, Operations, Finance, SEO, Front Office etc.
-
-Each member can have zero or more membership levels (e.g Admin, Editor, Runner). 
-
-Go to: Managing your Organization Teams or Managing Team Members. 
-
-## Triggering & Scheduling templates
-You can Trigger your checklist templates ad-hoc or schedule them for later. 
-
-Triggering can be accomplished from the team Dashboard:
-
-Scheduled templates can be set to be repeated daily, weekly, monthly etc. and you can choose a starting date and an optional end date. Scheduling is part of the template and can be set in the template editor:
-
-When triggering a template you can assign it to the whole team or specific users. You can even add notes & media for clarification/ further instructions.
-
-Go to: Triggering or Scheduling
-
-## Working with Checklists
-As soon as a checklist is triggered (ad-hoc or scheduled) their assignees will receive a notification and it will show up in their app (web, Android or iOS). They can then start working of it checking tasks and collecting data where required: 
-
-Go to: Checklist Player
-
-## Monitoring your Business
-Checklist Pro offers a central Dashboard where you can see all the team's running checklists (and their status). Drill into each one to see any issues that require your attention:
-
-Go to: Managing Running Checklists
-
-Now that you have a good idea of how Checklist Pro works you can either:
-
-[Try it out](https://app2.checklist.com){:target="_blank"}
-
-or read the detailed documentation, starting with Setting up your Organization
-
-
+[Contact us](https://checklist.com/contact){:target="_blank"}. Just remember to provide us with as much detail as possible so that we can provide you with a good response.

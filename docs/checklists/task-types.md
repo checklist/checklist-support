@@ -18,19 +18,19 @@ parent: Checklists
 
 Task types let you go beyond a simple checkbox for each task. You can also have additional fields of different types. Task types can be set:
 * Per checklist. In the Table view you can define multiple columns each of its own type. Then, each task of the checklist gets a column (field) of the defined type.
-* Per checklist task. In the Play view each task has its own type.
+* Per checklist task. In the Form view each task has its own type.
 * Per template task. When creating a checklist template, you can set a type for each task.
 
 Types (whether columns or fields) are optional: you do not have to set them if you don't need them.
 
-Note: when using the Play view we are actually adding a column (field) called "answer". That way, you can easily switch from Play to Table view and see all your "answers" in one simply column.
+Note: when using the Form view we are actually adding a column (field) called "answer". That way, you can easily switch from Form to Table view and see all your "answers" in one simply column.
 
-The following describes each of the Task Types. To illustrate their usage, we have used their Play View format. The Table format is different but the concept is the same.
+The following describes each of the Task Types. To illustrate their usage, we have used their Form View format. The Table format is different but the concept is the same.
 
 ## Check
 A Check is the simplest type. Check or uncheck (open or completed respectively).
 
-When used in the Play view only the standard checkbox of the task is displayed:
+When used in the Form view only the standard checkbox of the task is displayed:
 
 ![](/assets/images/types/type-check.png)
 
