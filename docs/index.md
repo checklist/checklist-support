@@ -15,8 +15,6 @@ Your checklists are always synchronized between your devices and anyone else who
 
 Have you heard the phrase: "don't re-invent the checklist"? In most cases, someone else has already thought of the checklist you are about to start. So give yourself a headstart: use our database of thousands of checklist templates to kickstart your next checklist. And if there is a checklist you think you will be using repeatedly, you can make it into a template yourself. You can then share it with your team or with the whole Checklist community by publishing it.
 
-Everyone who joins Checklist gets their own organization and team. If you work alone or with family or friends, you can stick to your team. But if you want to take Checklist further and use it within your company, you can easily do so by inviting your colleagues, customers and suppliers. You can have multiple teams setup. Get everyone on the same checklist!
-
 Increase your productivty and boost your checklists with Automation. Automate repetitive tasks: e.g. trigger daily checklists, assign tasks automatically or send an email when a checklist completes. You can also integrate with thousands of 3rd party applications (to/ from Checklist).
 
 ## How to Read
