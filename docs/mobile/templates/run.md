@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Template Run
+parent: Checklist Mobile App
 has_children: false
 nav_order: 9
 has_toc: false
