@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Play View
+parent: Checklist Mobile App
 has_children: false
 nav_order: 7
 has_toc: false
