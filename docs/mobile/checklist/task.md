@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Checklist View
+title: The Task
 parent: Checklist Mobile App
-nav_order: 1
+nav_order: 2
 has_children: false
 ---
-# Checklist
+# Checklist - Sort & Filter for Mobile
 {: .no_toc }
 
 <details open markdown="block">
@@ -18,6 +18,4 @@ has_children: false
 </details>
 
 
-
-## Creating checklists
-To create a new checklist, navigate to the Checklists page and click on the New Checklist button:
+Tasks are the main building blocks of a Checklist

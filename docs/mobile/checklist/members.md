@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Checklist View
+title: Checklist Members
 parent: Checklist Mobile App
 nav_order: 1
 has_children: false
 ---
-# Checklist
+# Checklist Members
 {: .no_toc }
 
 <details open markdown="block">
@@ -18,6 +18,4 @@ has_children: false
 </details>
 
 
-
-## Creating checklists
-To create a new checklist, navigate to the Checklists page and click on the New Checklist button:
+Each checklist has at least one owner. You can add additional members to a checklist.

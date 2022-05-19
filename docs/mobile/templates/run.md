@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Sort & Filter
-parent: Checklist Mobile App
-nav_order: 2
+title: Template Run
 has_children: false
+nav_order: 9
+has_toc: false
 ---
-# Checklist - Sort & Filter for Mobile
+# Template Run
 {: .no_toc }
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -17,5 +16,4 @@ has_children: false
 {:toc}
 </details>
 
-
-The Sort & Filter menu allows you just that.
+Running a template creates a checklist which you (or anyone you assign it to) can use.

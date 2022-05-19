@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Sort & Filter
-parent: Checklist Mobile App
-nav_order: 2
+title: Team Manage
 has_children: false
+nav_order: 9
+has_toc: false
 ---
-# Checklist - Sort & Filter for Mobile
+# Team Manage
 {: .no_toc }
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -17,5 +16,4 @@ has_children: false
 {:toc}
 </details>
 
-
-The Sort & Filter menu allows you just that.
+This Team page allows you to manage your team. You must be a Team Administrator in order to have access to this page.
