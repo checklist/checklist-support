@@ -2,6 +2,7 @@
 layout: default
 title: Checklist Mobile App
 has_children: true
+nav_order: 8
 ---
 # Welcome to Checklist
 {: .no_toc }

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Checklists
-nav_order: 4
+title: Checklist Mobile
+parent: Checklist Mobile App
+nav_order: 1
 has_children: true
 ---
 # Checklist
