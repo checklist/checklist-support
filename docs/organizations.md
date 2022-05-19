@@ -6,8 +6,6 @@ nav_order: 3
 # Organizations
 {: .no_toc }
 
-
-
 <details open markdown="block">
   <summary>
     Table of contents
