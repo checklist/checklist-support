@@ -6,15 +6,7 @@ has_children: false
 nav_order: 7
 has_toc: false
 ---
-# Checklist Play View
-{: .no_toc }
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
-The Play (or Form) views allow you to use Checklist as part of a business process. E.g. audit checklist.
+# Checklist Dashboard
+
+The Dashboard allows you to see your checklists from a bird's eye view. It surfaces all the important information as allows you quick access to running templates.

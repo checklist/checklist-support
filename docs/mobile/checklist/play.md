@@ -5,17 +5,7 @@ parent: Checklist Mobile App
 nav_order: 8
 has_children: false
 ---
-# Checklist - Sort & Filter for Mobile
-{: .no_toc }
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+# Play/ Sort View
 
-
-Tasks are the main building blocks of a Checklist
+The Play/ Form view allows you to run a business process as a checklist. For example an audit checklist.

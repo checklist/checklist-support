@@ -6,15 +6,6 @@ nav_order: 9
 has_toc: false
 ---
 # Welcome to Checklist
-{: .no_toc }
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 At the core of Checklist is of course the checklist: a list of tasks (with optional sub tasks). Each task has a name and status (open/ complete). You can also add addtional fields like due date, notes, assignee or anything else you wish.
 
