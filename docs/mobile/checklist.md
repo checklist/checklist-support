@@ -3,7 +3,7 @@ layout: default
 title: Checklist Mobile
 parent: Checklist Mobile App
 nav_order: 1
-has_children: true
+has_children: false
 ---
 # Checklist
 {: .no_toc }
