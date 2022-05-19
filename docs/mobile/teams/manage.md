@@ -3,7 +3,7 @@ layout: default
 title: Team Manage
 parent: Checklist Mobile App
 has_children: false
-nav_order: 9
+nav_order: 6
 has_toc: false
 ---
 # Team Manage

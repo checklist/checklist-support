@@ -2,7 +2,7 @@
 layout: default
 title: Checklist Members
 parent: Checklist Mobile App
-nav_order: 1
+nav_order: 4
 has_children: false
 ---
 # Checklist Members

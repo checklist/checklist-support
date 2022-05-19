@@ -3,7 +3,7 @@ layout: default
 title: Template Run
 parent: Checklist Mobile App
 has_children: false
-nav_order: 9
+nav_order: 5
 has_toc: false
 ---
 # Template Run

@@ -2,7 +2,7 @@
 layout: default
 title: Play View
 has_children: false
-nav_order: 9
+nav_order: 7
 has_toc: false
 ---
 # Checklist Play View
