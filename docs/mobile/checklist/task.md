@@ -19,15 +19,9 @@ Tasks are the main building blocks of a Checklist. Read more about [tasks in Che
 {:toc}
 </details>
 
-## Status
-You can control the status of a task using its checkbox: check (completed) and uncheck (open). Note that once a task and all its siblings (i.e. on the same level) are completed, it parent task is also marked as completed. This goes up all the way to the checklist. If any subtask is open, then its parent task must also be open. Changing the status of a task will make all its children have the same status.
+To make changes to a task you can: check the checkbox, click to edit the task name or trigger additional actions by opening the task menu or swiping the task.
 
-## Name
-Click on the task name to start editing it. Hit 'done' to save. Note that it is not possible to have "new lines" in task names. This allows for easy editing. If you want text with paragraphs, enter it in the task notes.
-
-## Swipe
-
-You can swipe tasks left or right to reveal more actions:
+Swipe: You can swipe tasks left or right to reveal more actions:
 
 ![Checklist Task Swipe](/assets/images/mobile/checklist-task-swipe.png)
 
@@ -35,49 +29,58 @@ To clarify what we mean by swipe directions:
 * Swipe Right: swipe from left TO right
 * Swipe Left:  swipe from right TO left
 
-### Delete task
+
+Task menu: additional actions on a task can be perfomed by clicking on the task menu button. That is the button with 3 horizontal (on iOS) or vertical (on Android) dots. This will open the task menu. The actual options available depends on the checklist type and your permissions:
+
+![Checklist Task Menu](/assets/images/mobile/task-menu.png)
+
+
+The following task actions are available:
+
+## Status
+You can control the status of a task using its checkbox: check (completed) and uncheck (open). Note that once a task and all its siblings (i.e. on the same level) are completed, it parent task is also marked as completed. This goes up all the way to the checklist. If any subtask is open, then its parent task must also be open. Changing the status of a task will make all its children have the same status.
+
+## Name
+Click on the task name to start editing it. Hit 'done' to save. Note that it is not possible to have "new lines" in task names. This allows for easy editing. If you want text with paragraphs, enter it in the task notes.
+
+## Delete task
 To delete a task, left swipe it and click on the red Trash button. The task (and any of its subtasks) is immediately deleted.
 
-### Subtask
+## Subtask
 You can have (virtually) unlimited levels to your checklist using subtasks. Subtasks are useful in breaking down a task into smaller subtasks. 
 
 To make a task into a subtask of the task above it, right swipe it and click on the > (subtask) button. The subtask (and any of its children) will be indented to the right.
 
-### UnSubtask
+## UnSubtask
 To reverse a subtask action, left swipe the task and click on the < (unsubtask) button. This will also affect any of its own subtasks.
 
-### Zoom
+## Zoom
 Sometimes it is more productive to zoom on just a subtask (and any of its children). Here's how:
 
 Right swipe the task and click on the Zoom button (Green magnifying glass). While in zoom mode, you can then add more children to the task. You can further zoom or simply zoom out by swiping right again on the zoomed task and clicking on the unzoom button:
 
 ![Checklist Task Zoom](/assets/images/mobile/checklist-zoom-subtask.png)
 
-## Task Menu
-Additional actions on a task can be perfomed by clicking on the task menu button. That is the button with 3 horizontal (on iOS) or vertical (on Android) dots. This will open the task menu. The actual options available depends on the checklist type and your permissions:
-
-![Checklist Task Menu](/assets/images/mobile/task-menu.png)
-
-### Task Priority
+## Task Priority
 You can mark a task priority as: Low, Medium or High. Once selected, this priority is shown with a colored ! on the task itself (tip: click on the ! to change it directly without having to open the task menu):
 
 ![Checklist Task Priority](/assets/images/mobile/task-priority.png)
 
-### Task Notes
+## Task Notes
 Additional task notes can be added by clicking on the Notes option from the Task Menu. This will open the Notes dialog where you can enter your notes:
 
 ![Checklist Task Notes](/assets/images/mobile/task-notes.png)
 
 Tip: Click directly on the task notes for a shortcut to edit them.
 
-### Assign Task
+## Assign Task
 Checklists that are shared with more than one user can have their tasks assigned to user(s) or the whole team (if the checklist is shared with the whole team). Clicking on the Assign option opens its menu:
 
 ![Checklist Task Assign](/assets/images/mobile/task-assign.png)
 
 Tip: click on the assignee Avatar on the task for a shortcut to opening the Assign menu.
 
-### Due Date
+## Due Date
 To set a due date (or time) for a task, select the Due Date option from the Task menu. This will open the Due Date Menu:
 
 ![Checklist Task Due Date](/assets/images/mobile/task-due-date.png)
@@ -88,7 +91,7 @@ Note: if you open the due date for a task which already has a set due date, you 
 
 Tip: click on the task due date icon to directly open the Due Date menu (without having to go through the Task Menu).
 
-### Attachments
+## Attachments
 You can add one or more attachment to a task. Click on the Attach option on the Task Menu to open the Attachments menu:
 
 ![Checklist Task Attachments](/assets/images/mobile/task-attachments.png)
