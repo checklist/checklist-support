@@ -22,9 +22,14 @@ Click on the task name to start editing it. Hit 'done' to save.
 
 You can swipe tasks left or right to reveal more actions:
 
-![Checklist Task Swipe](/assets/images/mobile/checklists/checklist-task-swipe.png)
+![Checklist Task Swipe](/assets/images/mobile/checklist-task-swipe.png)
+
+Right swipe - swipe from left TO right
+Left swipe - swipe from right TO left
 
 ### Zoom
-Swipe the task right and click on the Zoom button (Green magnifying glass) to view the task and any subtasks it may have. You can then 
+Swipe the task right and click on the Zoom button (Green magnifying glass) to view the task and any subtasks it may have. You can then add more subtasks. You can further zoom or simple zoom out by swiping right again on the zoomed task and clicking on the unzoom button:
+
+![Checklist Task Unzoom](/assets/images/mobile/checklist-zoom-subtask.png)
 
 
