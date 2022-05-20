@@ -10,7 +10,7 @@ has_toc: false
 
 When you register we create an organization and a team within it for you. If you are using Checklist for personal use you might need to manage this and can ignore this section. However, if you want to manage multiple checklists within different teams or organization, then please read on.
 
-This Team page allows you to switch between your active Teams (if you have more than one) as well as manage teams you are an admin of:
+Open the Navigation drawer (slide from the left of your phone screen or click on the Open arrow >. Then click on the Teams button to bring up the Teams page which allows you to switch between your active Team (if you have more than one) as well as manage teams you are an admin of:
 
 ![Checklist Teams](/assets/images/mobile/teams.png)
 
