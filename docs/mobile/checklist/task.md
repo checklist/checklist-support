@@ -10,8 +10,14 @@ has_children: false
 
 Tasks are the main building blocks of a Checklist. Read more about [tasks in Checklist](/checklists/task-types/).
 
-
-The following actions are available:
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Status
 You can control the status of a task using its checkbox: check (completed) and uncheck (open). Note that once a task and all its siblings (i.e. on the same level) are completed, it parent task is also marked as completed. This goes up all the way to the checklist. If any subtask is open, then its parent task must also be open. Changing the status of a task will make all its children have the same status.
