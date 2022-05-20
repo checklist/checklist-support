@@ -8,5 +8,10 @@ has_toc: false
 ---
 
 # Template Run
+The true power of Checklist is in its ability to re-use previously created checklist templates over and over. Don't re-invent the wheel!
 
-Running a template creates a checklist which you (or anyone you assign it to) can use.
+"Running" a template creates a checklist which you (or anyone you assign it to) can use. It is mostly used in a business environment where you want to follow a particular business process. For example store opening checklist or [hotel cleaning checklist](https://checklist.com/hotel-cleaning-checklist). But you can also use it in a personal setting such as a [Travel Packing Checklist](https://checklist.com/travel-checklist). Visit our [checklist templates](https://checklist.com/templates) to see more examples.
+
+
+
+![Template Run Dialog](/assets/images/mobile/template-run.png)
