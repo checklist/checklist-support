@@ -60,14 +60,33 @@ You can mark a task priority as: Low, Medium or High. Once selected, this priori
 ### Task Notes
 Additional task notes can be added by clicking on the Notes option from the Task Menu. This will open the Notes dialog where you can enter your notes:
 
-![Checklist Task Priority](/assets/images/mobile/task-notes.png)
+![Checklist Task Notes](/assets/images/mobile/task-notes.png)
 
 Tip: Click directly on the task notes for a shortcut to edit them.
 
 ### Assign Task
+Checklists that are shared with more than one user can have their tasks assigned to user(s) or the whole team (if the checklist is shared with the whole team). Clicking on the Assign option opens its menu:
 
+![Checklist Task Assign](/assets/images/mobile/task-assign.png)
 
+Tip: click on the assignee Avatar on the task for a shortcut to opening the Assign menu.
 
+### Due Date
+To set a due date (or time) for a task, select the Due Date option from the Task menu. This will open the Due Date Menu:
 
+![Checklist Task Due Date](/assets/images/mobile/task-due-date.png)
 
+You can select any of the standard options: Now, +1 Hour, Tomorrow, +1 Week, +1 Month. The Custom option will open a Date & Time picker for finer granularity. You can also delete an existing due date by clicking on the Clear option.
 
+Note: if you open the due date for a task which already has a set due date, you can see it at the top of the Due Date Menu.
+
+Tip: click on the task due date icon to directly open the Due Date menu (without having to go through the Task Menu).
+
+### Attachments
+You can add one or more attachment to a task. Click on the Attach option on the Task Menu to open the Attachments menu:
+
+![Checklist Task Attachments](/assets/images/mobile/task-attachments.png)
+
+You can view any existing attachments by clicking on them. You can delete them by clicking on the Trash button to the right of the attachment. To add a new attachment you can either pick an existing file from your phone or take a picture using your phone camera. Once added, the attachment file will be available from the Attachments menu. 
+
+Tip: Directly clicking on the Attachment icon of a task will open the first attachment (if more than one) of the task bypassing the Attachments menu. 
