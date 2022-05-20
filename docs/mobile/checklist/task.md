@@ -100,3 +100,6 @@ You can add one or more attachment to a task. Click on the Attach option on the 
 You can view any existing attachments by clicking on them. You can delete them by clicking on the Trash button to the right of the attachment. To add a new attachment you can either pick an existing file from your phone or take a picture using your phone camera. Once added, the attachment file will be available from the Attachments menu. 
 
 Tip: Directly clicking on the Attachment icon of a task will open the first attachment (if more than one) of the task bypassing the Attachments menu. 
+
+## Re-Order
+To re-order tasks, long press the Task Menu button and then drag the task up or down to the new desired place. Note that if the task being dragged has any subtasks, those will be hidden while dragging and then be revealed again once the task is dropped.
