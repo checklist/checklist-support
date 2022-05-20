@@ -10,13 +10,14 @@ has_children: false
 
 Tasks are the main building blocks of a Checklist. Read more about [tasks in Checklist](/checklists/task-types/).
 
-The following actions are available on the Task:
+
+The following actions are available:
 
 ## Status
-You can check (completed) and uncheck (open) using the checkbox
+You can control the status of a task using its checkbox: check (completed) and uncheck (open). Note that once a task and all its siblings (i.e. on the same level) are completed, it parent task is also marked as completed. This goes up all the way to the checklist. If any subtask is open, then its parent task must also be open. Changing the status of a task will make all its children have the same status.
 
 ## Name
-Click on the task name to start editing it. Hit 'done' to save.
+Click on the task name to start editing it. Hit 'done' to save. Note that it is not possible to have "new lines" in task names. This allows for easy editing. If you want text with paragraphs, enter it in the task notes.
 
 ## Swipe
 
@@ -24,8 +25,11 @@ You can swipe tasks left or right to reveal more actions:
 
 ![Checklist Task Swipe](/assets/images/mobile/checklist-task-swipe.png)
 
-Right swipe - swipe from left TO right
-Left swipe - swipe from right TO left
+To clarify what we mean by swipe directions:
+| Name | Swipe direction | 
+|:-----|:----------------|
+|Right | swipe from left TO right |
+|Left  | swipe from right TO left |
 
 ### Delete task
 To delete a task, left swipe it and click on the red Trash button. The task (and any of its subtasks) is immediately deleted.
