@@ -2,7 +2,7 @@
 layout: default
 title: Account
 nav_order: 2
-has_children: true
+has_children: false
 ---
 # Account
 {: .no_toc }

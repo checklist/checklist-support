@@ -9,6 +9,7 @@ has_children: false
 # The Task
 {: .no_toc }
 
+
 Tasks are the main building blocks of a Checklist. Read more about [tasks in Checklist](/checklists/task-types/).
 
 <details open markdown="block">
