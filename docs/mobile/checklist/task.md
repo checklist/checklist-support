@@ -45,7 +45,7 @@ You can control the status of a task using its checkbox: check (completed) and u
 ## Name
 Click on the task name to start editing it. Hit 'done' to save. Note that it is not possible to have "new lines" in task names. This allows for easy editing. If you want text with paragraphs, enter it in the task notes.
 
-## Delete task
+## Delete
 To delete a task, left swipe it and click on the red Trash button. The task (and any of its subtasks) is immediately deleted.
 
 ## Subtask
@@ -63,19 +63,19 @@ Right swipe the task and click on the Zoom button (Green magnifying glass). Whil
 
 ![Checklist Task Zoom](/assets/images/mobile/checklist-zoom-subtask.png)
 
-## Task Priority
+## Priority
 You can mark a task priority as: Low, Medium or High. Once selected, this priority is shown with a colored ! on the task itself (tip: click on the ! to change it directly without having to open the task menu):
 
 ![Checklist Task Priority](/assets/images/mobile/task-priority.png)
 
-## Task Notes
+## Notes
 Additional task notes can be added by clicking on the Notes option from the Task Menu. This will open the Notes dialog where you can enter your notes:
 
 ![Checklist Task Notes](/assets/images/mobile/task-notes.png)
 
 Tip: Click directly on the task notes for a shortcut to edit them.
 
-## Assign Task
+## Assign
 Checklists that are shared with more than one user can have their tasks assigned to user(s) or the whole team (if the checklist is shared with the whole team). Clicking on the Assign option opens its menu:
 
 ![Checklist Task Assign](/assets/images/mobile/task-assign.png)
