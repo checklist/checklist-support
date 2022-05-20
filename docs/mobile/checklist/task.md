@@ -27,9 +27,29 @@ You can swipe tasks left or right to reveal more actions:
 Right swipe - swipe from left TO right
 Left swipe - swipe from right TO left
 
+### Delete task
+To delete a task, left swipe it and click on the red Trash button. The task (and any of its subtasks) is immediately deleted.
+
+### Subtask
+To make a task into a subtask of the task above it, right swipe it and click on the > (subtask) button. The subtask will be indented to the right.
+
+## UnSubtask
+To reverse a subtask action, left swipe the task and click on the < (unsubtask) button.
+
 ### Zoom
 Swipe the task right and click on the Zoom button (Green magnifying glass) to view the task and any subtasks it may have. You can then add more subtasks. You can further zoom or simple zoom out by swiping right again on the zoomed task and clicking on the unzoom button:
 
 ![Checklist Task Unzoom](/assets/images/mobile/checklist-zoom-subtask.png)
+
+## Task Menu
+Additional actions can be perfomed by clicking on the task menu button. That is the button with 3 horizontal (on ios) or vertical (on Android) dots. This will open the task menu. The actual options available depends on the checklist type and your permissions:
+
+![Checklist Task Menu](/assets/images/mobile/task-menu.png)
+
+### 
+
+
+
+
 
 
