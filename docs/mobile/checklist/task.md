@@ -26,31 +26,45 @@ You can swipe tasks left or right to reveal more actions:
 ![Checklist Task Swipe](/assets/images/mobile/checklist-task-swipe.png)
 
 To clarify what we mean by swipe directions:
-| Name | Swipe direction | 
-|:-----|:----------------|
-|Right | swipe from left TO right |
-|Left  | swipe from right TO left |
+* Swipe Right: swipe from left TO right
+* Swipe Left:  swipe from right TO left
 
 ### Delete task
 To delete a task, left swipe it and click on the red Trash button. The task (and any of its subtasks) is immediately deleted.
 
 ### Subtask
-To make a task into a subtask of the task above it, right swipe it and click on the > (subtask) button. The subtask will be indented to the right.
+You can have (virtually) unlimited levels to your checklist using subtasks. Subtasks are useful in breaking down a task into smaller subtasks. 
 
-## UnSubtask
-To reverse a subtask action, left swipe the task and click on the < (unsubtask) button.
+To make a task into a subtask of the task above it, right swipe it and click on the > (subtask) button. The subtask (and any of its children) will be indented to the right.
+
+### UnSubtask
+To reverse a subtask action, left swipe the task and click on the < (unsubtask) button. This will also affect any of its own subtasks.
 
 ### Zoom
-Swipe the task right and click on the Zoom button (Green magnifying glass) to view the task and any subtasks it may have. You can then add more subtasks. You can further zoom or simple zoom out by swiping right again on the zoomed task and clicking on the unzoom button:
+Sometimes it is more productive to zoom on just a subtask (and any of its children). Here's how:
 
-![Checklist Task Unzoom](/assets/images/mobile/checklist-zoom-subtask.png)
+Right swipe the task and click on the Zoom button (Green magnifying glass). While in zoom mode, you can then add more children to the task. You can further zoom or simply zoom out by swiping right again on the zoomed task and clicking on the unzoom button:
+
+![Checklist Task Zoom](/assets/images/mobile/checklist-zoom-subtask.png)
 
 ## Task Menu
-Additional actions can be perfomed by clicking on the task menu button. That is the button with 3 horizontal (on ios) or vertical (on Android) dots. This will open the task menu. The actual options available depends on the checklist type and your permissions:
+Additional actions on a task can be perfomed by clicking on the task menu button. That is the button with 3 horizontal (on iOS) or vertical (on Android) dots. This will open the task menu. The actual options available depends on the checklist type and your permissions:
 
 ![Checklist Task Menu](/assets/images/mobile/task-menu.png)
 
-### 
+### Task Priority
+You can mark a task priority as: Low, Medium or High. Once selected, this priority is shown with a colored ! on the task itself (tip: click on the ! to change it directly without having to open the task menu):
+
+![Checklist Task Priority](/assets/images/mobile/task-priority.png)
+
+### Task Notes
+Additional task notes can be added by clicking on the Notes option from the Task Menu. This will open the Notes dialog where you can enter your notes:
+
+![Checklist Task Priority](/assets/images/mobile/task-notes.png)
+
+Tip: Click directly on the task notes for a shortcut to edit them.
+
+### Assign Task
 
 
 
