@@ -9,7 +9,7 @@ has_toc: false
 
 # Mobile Dashboard
 
-The Dashboard allows you to see your checklists from a bird's eye view. It surfaces all the important information and let's you run templates.
+The Dashboard allows you to see your checklists from a bird's eye view. It surfaces all the important information as well as let you run templates.
 
 To view the Dashboard, open the app drawer (swipe the screen from left to right or click on the > arrow on the top left) and click on the first button (top left). The Dashboard will be shown:
 
@@ -23,10 +23,10 @@ Templates can be "run" to create repeatable checklists from them. Click on a tem
 Note: to view the Run Template Widget you must have the Runner role. Templates that are marked as Favorite (star) will be shown.
 
 ## Today's Checklists
-Any checklists created today will be shown here.
+Checklists created today will be shown here.
 
 ## Yesterday's Checklists
-Any checklists created yesterday will be shown here.
+Checklists created yesterday will be shown here.
 
 ## Priority tasks
 Tasks that are marked as priority (from High to Low) will be shown here. Maximum 10 tasks. Completed tasks are not shown.
