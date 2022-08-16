@@ -119,14 +119,14 @@ E.g. if you have an Office Opening template which is triggered daily at 09:30 an
 
 To set a due date, focus on the task and click on the 'set due date' link:
 
-![](/assets/images/templates/templates-task-due-date.png)
+![](/assets/images/templates/template-task-due-date.png)
 
 This will open the due date settings:
 
-![](/assets/images/templates/templates-task-due-date-edit.png)
+![](/assets/images/templates/template-task-due-date-edit.png)
 
 You can select from the days, hours or minutes drop downs and then click Save to confirm. You can use multiple selections (e.g. for 2 hours and 30 minutes). You can see your selection:
 
-![](/assets/images/templates/templates-task-due-date-saved.png)
+![](/assets/images/templates/template-task-due-date-saved.png)
 
 Next time you trigger the template, the due date for the task will be automatically set from the time of template triggering.
