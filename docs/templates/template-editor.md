@@ -111,3 +111,22 @@ Note: if when creating the checklist (run) the user no longer has access to the 
 
 #### Task Options
 This is applicable for tasks where the Choice type was selected. You can add, edit, remove and reorder the different options. See more about the [Choice Type](/checklists/task-types/#choice).
+
+#### Due Date
+Just like checklist tasks, you can also set a due date for template tasks. Unline checklists though, you cannot set a specific time as that is not known when editing the template (remember that you will trigger the template manually or automatically and only then will the template turn into a checklist). Therefore, we set a relative due date. That is relative to the time we will actually trigger the template. This can be in minutes, hours or days.
+
+E.g. if you have an Office Opening template which is triggered daily at 09:30 and is assigned to the office manager. The first task on the template may be "open doors" and you can set a due date of 15 minutes. If the office manager does not check the task by 09:45, a notification will be issued.
+
+To set a due date, focus on the task and click on the 'set due date' link:
+
+![](/assets/images/templates/templates-task-due-date.png)
+
+This will open the due date settings:
+
+![](/assets/images/templates/templates-task-due-date-edit.png)
+
+You can select from the days, hours or minutes drop downs and then click Save to confirm. You can use multiple selections (e.g. for 2 hours and 30 minutes). You can see your selection:
+
+![](/assets/images/templates/templates-task-due-date-saved.png)
+
+Next time you trigger the template, the due date for the task will be automatically set from the time of template triggering.
