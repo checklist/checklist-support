@@ -132,12 +132,12 @@ You can select from the days, hours or minutes drop downs and then click Save to
 Next time you trigger the template, the due date for the task will be automatically set from the time of template triggering.
 
 #### Due Date Alarm
-If a due date has passed and the task is not yet completed, then the person assigned to it (usually the same as the checklist assignee) receieves a notification. In some cases, you may wish a manager will receive an alarm notification that the task has not been completed. This is in addtion to the assignee. An example can be a store opening checklist when the first task has not been completed indicating the possibility that no one came to open the store. 
+If a due date has passed and the task is not yet completed, then the person assigned to it (usually the same as the checklist assignee) receives a notification. In some cases, you may wish for a manager to receive an alarm notification that the task has not been completed (this is in addtion to the assignee). An example can be a store opening checklist when the first task has not been completed indicating the possibility that no one came to open the store. 
 
 To add an alarm notification, click to set alarm recipients:
 
 ![](/assets/images/templates/template-task-due-date-alarm.png)
 
-You can choose the whole team (always the first option) or someone specific. 
+You can choose the whole team (always the first option) or someone specific. Multiple selections can be made.
 
-Tip: clicking on a checkbox will allow you to select multiple users. Clicking anywhere else on the line will select that person only and close the popup.
+Tip: click on a checkbox to select multiple users. Click anywhere else on the line to select that person only and close the popup.
