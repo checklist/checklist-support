@@ -69,7 +69,7 @@ Your checklist can be viewed in any of our Viewers (e.g. Checklist, Table, Form)
 
 ![](/assets/images/checklists/checklist-page-view-selector.png)
 
-Note that the available viewers may depending on the settings defined by the checklist owne. See [Checklist Views](/checklist/views) for more info.
+Note that the available viewers may depending on the settings defined by the checklist owne. See [Checklist Views](/checklists/checklist-views/) for more info.
 
 ## Checklist Members
 To view and manage the members of a checklist use the Checklist Members button. Read more about [Checklist Members](/checklist/checklist-members).
