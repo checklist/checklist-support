@@ -4,7 +4,9 @@ title: Template Editor
 nav_order: 1
 parent: Templates
 ---
+
 # Template Editor
+
 {: .no_toc }
 
 <details open markdown="block">
@@ -16,119 +18,140 @@ parent: Templates
 {:toc}
 </details>
 
-Use the Template Editor to edit your templates. 
+Use the Template Editor to edit your templates.
 
 You can open the template editor by clicking on the [name of the template](/templates/templates/#editing-templates). The Editor will open:
 
-![](/assets/images/templates/templates-editor.png)
+![](/assets/images/templates/template-editor.png)
 
 The Editor layout consists of the following sections:
+
 1. Template Details
 2. Adding Tasks
 3. Template Tasks
 
 ## 1. Template Details
+
 The top section is the template section:
-![](/assets/images/templates/templates-template.png)
+![](/assets/images/templates/template-editor-template.png)
 
 ### Back
+
 The back arrow button opens the Template page where you can see all your template.
 
 ### Template Name
+
 To update the template name, simply click on it and make your changes. Hit Enter to save or Escape to discard your changes.
 
 ### Task Contents Toggle
+
 This toggle lets you decide if the tasks section should show the contents of each task. Task contents are any notes or media (e.g. YouTube videos) you have as part of a task.
 
 Turn this toggle off if you want to see a condensed view of your template.
 
 ### Template Settings
+
 Click on the Settings (Gear) icon to view and manage the [template settings](/templates/template-settings).
 
 ## 2. Adding Tasks
+
 This section lets you add tasks to your template:
 
-![](/assets/images/templates/templates-editor-add-task.png)
+![](/assets/images/templates/template-editor-add-task.png)
 
-Use the text box to add new tasks to your template. Hitting Enter or clicking on the + button will add the task to the template at the cursor (or at the top of the list if no cursor was set). The cursor will also move to the newly added task. You can continously enter task after task without using the mouse. Click on the X to discard any text you entered. 
+Use the text box to add new tasks to your template. Hitting Enter or clicking on the + button will add the task to the template at the cursor (or at the top of the list if no cursor was set). The cursor will also move to the newly added task. You can continously enter task after task without using the mouse. Click on the X to discard any text you entered.
 
-When editing a long template, when scrolling down, the Add Task section "floats" at the top of the page for easy access. 
+When editing a long template, when scrolling down, the Add Task section "floats" at the top of the page for easy access.
 
 ### Task Type
-The type of task to be added is shown in the widget to the right of "Add new Task". Click widget drop down to open switch the task type. Read more about [Task Types](/checklists/task-types/). 
+
+The type of task to be added is shown in the widget to the right of "Add new Task". Click widget drop down to open switch the task type. Read more about [Task Types](/checklists/task-types/).
 
 If your template type is 'Checklist' then type widget is not shown (as this type has only simple tasks).
 
-Tip: The Task type widget will change according to the type of the currently selected task ([cursor](/templates/template-editor#cursor)). 
+Tip: The Task type widget will change according to the type of the currently selected task ([cursor](/templates/template-editor#cursor)).
 
-## 3. Template Tasks 
-This is the main section of the editor in which you can see the tasks of the template.
+## 3. Template Tasks
+
+This is the main section of the editor where you can see and manage the template's tasks. You can read more about (Task Template)[/templates/template-task].
+
+### Mode
+
+Each task can be in one of 3 modes:
+
+#### Normal
+
+In this mode tasks show their full details:
+
+![](/assets/images/templates/template-editor-task-normal.png)
+
+The following details are shown (when available):
+
+- Name. If the task has a URL set, it will be linkable and open in a new tab)
+- Notes.
+- Type. The task type will be denoted with an icon
+- Required. Required tasks will have a Red left border
+- Media. If you have set any media (e.g. images, videos) they will be shown
+
+Clicking on the task will set the cursor to it and effectively switch it to Edit Mode.
+
+#### Condensed
+
+In this mode only basic details are shown:
+
+![](/assets/images/templates/template-editor-task-condensed.png)
+
+The following details are shown (when available):
+
+- Task name. If the task has a URL set, it will be linkable and open in a new tab)
+- Type. The task type will be denoted with an icon
+- Required. Required tasks will have a Red left border
+
+Clicking on the task will set the cursor to it and effectively switch it to Edit Mode.
+
+#### Edit
+
+When the editor cursor is set to a task it will be displayed in Edit Mode:
+
+![](/assets/images/templates/template-editor-task-edit.png)
+
+Edit mode allows you to make changes to the task and its details. Read more about the (Task Template)[/templates/template-task] features and what they allows you to accomplish.
 
 ### Cursor
 
-* edit the task name by clicking on the name and entering Edit Mode. Make your changes and click Enter, Tab or anywhere outside the textbox to save. Click ESC to discard your changed
-* click anywhere on a task (beyond any of its widgets) to select it. A selected task will have its details open in the Details Pane on the right
-* drag and drop a task to reorder it
-* make a task into a subtask by clicking on the ">" button 
-* making a subtask back into a task (unsubtask) by clicking on the "<" button
-* deleting a task by clicking on the Trashcan button
+The "cursor" points to the current task being edited. The cursor can be set:
 
-### Task Details
-After selecting a task, the Task Details are shown in the Details Pane:
+- by clicking on a task
+- by adding a new task (cursor is set to it)
 
-![](/assets/images/templates/templates-editor-task-details.png)
+Read more about the (Task Template)[/templates/template-task]
 
-You can now view the task details as well as make changes:
+### Actions
 
-#### Task notes
-The task notes will be copied to the checklist task notes. To add/ edit notes: 
-* click on the "Task Notes" placeholder or the existing notes to enter "Edit Mode"
-* enter your notes or change the existing notes
-* if happy with your changes hit Enter, Tab or click with the mouse anywhere outside the textbox and your changes will be saved
-* if unhappy with your changes, hit ESC to discard them
+To the right of the task (when in Edit mode or "mouse over" the task) you can find the Task Actions:
 
-#### Task Type
-You can view and make changes to the current task type via the Type Selector. Read more about [Task Types](/checklists/task-types/).
+#### Delete
 
-#### Required
-If you want to require users to fill out the task answer according to its type, you can require them to do so by toggling the Required widget to on.
+Click the Delete button to delete the task. Note that no confirmation is required.
 
-Note: since the Check type does not have an answer, it is not possible to set it as required.
+#### Duplicate
 
-#### Assign
-You can assign task to specific users in your team or the entire team. When the checklist is created from the template, we will set the task to the assigned user.
+Click on the Duplicate button to create a copy of the task and any subtasks is may have. The copy is placed Below original task.
 
-Note: if when creating the checklist (run) the user no longer has access to the team, the task will not be assigned to any user.
+#### Subtask
 
-#### Task Options
-This is applicable for tasks where the Choice type was selected. You can add, edit, remove and reorder the different options. See more about the [Choice Type](/checklists/task-types/#choice).
+Click on the Subtask button to make the task into a subtask.
 
-#### Due Date
-Just like checklist tasks, you can also set a due date for template tasks. Unline checklists though, you cannot set a specific time as that is not known when editing the template (remember that you will trigger the template manually or automatically and only then will the template turn into a checklist). Therefore, we set a relative due date. That is relative to the time we will actually trigger the template. This can be in minutes, hours or days.
+Note: The button will be disabled if you cannot subtask the task (e.g. it is the first on the list).
 
-E.g. if you have an Office Opening template which is triggered daily at 09:30 and is assigned to the office manager. The first task on the template may be "open doors" and you can set a due date of 15 minutes. If the office manager does not check the task by 09:45, a notification will be issued.
+#### UnSubtask
 
-To set a due date, focus on the task and click on the 'set due date' link:
+Click on the UnSubtask button to unsubtask a subtask (i.e. bring it a level higher).
 
-![](/assets/images/templates/template-task-due-date.png)
+Note: The button will be disabled if you cannot unsubtask the task (e.g. it is a the top level).
 
-This will open the due date settings:
+### Tasks Order
 
-![](/assets/images/templates/template-task-due-date-edit.png)
+Tasks are ordered as you add them below the cursor. You can re-order tasks by dragging them up or down and dropping them at the required position.
 
-You can select from the days, hours or minutes drop downs and then click Save to confirm. You can use multiple selections (e.g. for 2 hours and 30 minutes). You can see your selection:
-
-![](/assets/images/templates/template-task-due-date-saved.png)
-
-Next time you trigger the template, the due date for the task will be automatically set from the time of template triggering.
-
-#### Due Date Alarm
-If a due date has passed and the task is not yet completed, then the person assigned to it (usually the same as the checklist assignee) receives a notification. In some cases, you may wish for a manager to receive an alarm notification that the task has not been completed (this is in addtion to the assignee). An example can be a store opening checklist when the first task has not been completed indicating the possibility that no one came to open the store. 
-
-To add an alarm notification, click to set alarm recipients:
-
-![](/assets/images/templates/template-task-due-date-alarm.png)
-
-You can choose the whole team (always the first option) or someone specific. Multiple selections can be made.
-
-Tip: click on a checkbox to select multiple users. Click anywhere else on the line to select that person only and close the popup.
+Note: while dragging a task with subtasks, the subtasks are hidden as you cannot move a task into its own subtasks.
