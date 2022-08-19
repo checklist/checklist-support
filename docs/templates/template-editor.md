@@ -18,14 +18,14 @@ parent: Templates
 
 Use the Template Editor to edit your templates. 
 
-You open the template editor by clicking on the "pencil" To start editing a template, click on the [Pencil button](/templates/templates/#editing-templates). The Editor will open:
+You can open the template editor by clicking on the [name of the template](/templates/templates/#editing-templates). The Editor will open:
 
 ![](/assets/images/templates/templates-editor.png)
 
 The Editor layout consists of the following sections:
 1. Template Details
 2. Adding Tasks
-3. The Tasks
+3. Template Tasks
 
 ## 1. Template Details
 The top section is the template section:
@@ -56,7 +56,7 @@ Tip: The Task type widget will change according to that of the currently selecte
 
 Note: for long templates, the Add Task section "floats" at the top of the page for easy access. 
 
-## 3. The Tasks 
+## 3. Template Tasks 
 This is the main section of the editor in which you can see the tasks of the template.
 
 
