@@ -18,59 +18,65 @@ parent: Templates
 {:toc}
 </details>
 
-Beyond the Template Task name, there are other field which you can set on a task. Those can be used in different use cases.
+Beyond the Template Task name, there are other fields which you can set on a task. Those can be used in different use cases.
 
 ## Task Name
 
-The task name is a required field. You set it when you create a task. You can make changes to it by clicking on the task name entering into Edit Mode. Make any changes and hit Enter to save them. Click Escape if you want to discard your changes.
+The task name is a required field which is set when a task is created. You can edit the task name by clicking on it and entering Edit Mode. Make any changes and hit Enter to save them. Click Escape if you want to discard your changes.
 
 ## Task Notes
 
-You can add notes to your tasks. These can serve as additional information to the person using the checklist. To add notes, click on the "Click to add task notes" link:
+You can add notes to your tasks. These can serve as additional information to the person using the checklist helping them better accomplish the task at hand. To add notes, click on the "Click to add task notes" link:
 
 ![](/assets/images/templates/template-editor-task-notes.png)
 
 Click Save to confirm and save your notes. Click Cancel to discard your changes.
 
+To make changes to existing notes, simply click them and enter Edit Mode.
+
 ## Link
 
-You can add a link to a task to provide users with additional information to complete the task. Click on the 'Click to add a link' link to enter or edit the task Link:
+You can add a link to a task to provide users with additional information to complete the task. Click on 'Click to add a link' link to enter or edit the task Link:
 
 ![](/assets/images/templates/template-editor-task-url.png)
 
 Enter the URL link and hit Enter to save it. If the link is not a valid URL, Checklist will not allow you to save it. Click Escape to disard your changes.
 
+To edit an existing link, simply click on it to enter Edit Mode.
+
 Once you have a link, and when not in Edit Mode, the task name will be "linkable" allowing you to click on it and open the link in a new tab.
 
-If you are in Normal Mode (i.e. not Condensed) and the url links to supported media type (e.g image, video) the media will be shown between the task name and any notes. For example, in the following (vehicle inspection checklist)[https://checklist.com/vehicle-inspection-checklist] the first task is used to inspect the VIN. We want to show the user an example VIN so that they can enter validate it:
+If you are in Normal Mode (i.e. not Condensed) and the url links to supported media type (e.g image or video) the media will be shown between the task name and any notes. For example, in the following [vehicle inspection checklist](https://checklist.com/vehicle-inspection-checklist){:target="\_blank"} the first task is used to inspect the VIN. We want to show the user an example VIN so that they can do a better job validating it:
 
 ![](/assets/images/templates/template-editor-task-normal.png)
 
 ## Task Type
 
-You can view and make changes to the current task type via the Type Selector:
+You can view and make changes to the current task 'Type' via the Type Selector. Click on the existing Type to open the selector:
 
 ![](/assets/images/templates/template-editor-task-type.png)
 
 Read more about [Task Types](/checklists/task-types/).
 
-If the select task type has additional settings (for example Choice type), those will be displayed in Edit Mode for you to update:
+If the select task type has additional settings (for example the Choice type has options), those will be displayed in Edit Mode for you to update:
 
 ![](/assets/images/templates/template-editor-task-type-choice.png)
 
 ## Required
 
-If you want to require users to fill out the task answer according to its type, you can require them to do so by toggling the Required field to "On".
+If you want to require users to fill out the task answer according to its type, you should toggle the Required field to "On".
 
 Note: since the Check type does not have an answer, it is not possible to set it to Required.
 
 ## Assign
 
-You can assign task to specific users in your team or the entire team. When the checklist is created from the template, the task will be assign to the assigned user(s). To set the Assigned click on 'Click to assign':
+You can assign tasks to specific users in your team or the entire team. When the checklist is created from the template, the task will be assign to the assigned user(s). To set the Assignees click on 'Click to assign':
 
 ![](/assets/images/templates/template-editor-task-assign.png)
 
 Any "checked" contacts will be assigned this task.
+
+Note: Only team Mebers (i.e. not Guests) can be assigned via templates.
 
 Tip: for quick selection and closing of the Assign dialog, click on the person name and not the checkbox.
 
