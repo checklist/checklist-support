@@ -58,13 +58,13 @@ Give your template a name and click Create. The new template will be created and
 Note that the template name can be 1-500 long and contain any characters.
 
 ## Editing templates
-To edit an existing template, open the Templates page and click on the Pencil button on the template you wish to edit:
+To edit an existing template, open the Templates page and click on the Template Name you wish to edit:
 
 ![](/assets/images/templates/templates-editor-button.png)
 
 The Template Editor will open where you can edit your template. 
 
-Read more about how to work with the [template editor](/templates/template-editor/).
+Read more on how to work with the [template editor](/templates/template-editor/).
 
 ## Running Templates
 Running refers to creating a checklist from a template. Another term sometimes used is "trigger". To run your template click on the Run button of the template:

@@ -16,71 +16,56 @@ parent: Templates
 {:toc}
 </details>
 
-The Template Editor is where you can "edit the template" - name, add tasks, reorder tasks and more. To start editing a template, click on the [Pencil button](/templates/templates/#editing-templates). The Editor will open:
+Use the Template Editor to edit your templates. 
+
+You open the template editor by clicking on the "pencil" To start editing a template, click on the [Pencil button](/templates/templates/#editing-templates). The Editor will open:
 
 ![](/assets/images/templates/templates-editor.png)
 
-The Editor layout consists of:
-1. Template Name
-2. Add Task
-3. Tasks
-4. Details Pane
+The Editor layout consists of the following sections:
+1. Template
+2. Adding Tasks
+3. The Tasks
 
-## 1. Template Name
-In this section you can see the name of the template. You can also click on the Pencil to switch the Details Pane to the Template Details ([see below](#template-details)).
+## 1. Template
+The top section is the template section:
+![](/assets/images/templates/templates-template.png)
 
-## 2. Add Tasks
-This section lets you add tasks as well as setting the type of task to be added:
+### Back
+The back button opens the Template page where you can see all your template.
+
+### Template Name
+In this section you can see and update the name of the template. To change the template name, simply click on it.
+
+### Task Contents Toggle
+This toggle lets you decide if the tasks section should show the contents of each task. Task contents are any notes or media (e.g. YouTube videos) you have as part of a task.
+
+### Template Settings
+Click on the Settings (Gear) icon to view and manage the [template settings](/templates/template-settings).
+
+## 2. Adding Tasks
+This section lets you add tasks to your template:
 
 ![](/assets/images/templates/templates-editor-add-task.png)
 
-Start typing the name of the task in the "Add a new task" text box. As you start typing, if you change your mind, you can click the X button to delete the current text you have entered. 
+Start typing the name of the task in the "Add a new task" text box. As you start typing, if you change your mind, you can click the X button to delete the current text you have entered. Hitting Enter or clicking on the + button will add the task to the template at the cursor (or at the top of the list if no cursor was set). The cursor will also move to the newly added task. You can continously enter task after task without using the mouse.
 
-The type of task to be added is shown in the widget to the right. It will automatically switch to the type of the task that is currently selected (if any) in the list of tasks. You can click on the widget to open the different types and select one. Read more about [Task Types](/checklists/task-types/).
+The type of task to be added is shown in the widget to the right of "Add new Task". You can click on the drop down to open the different types and select one. Read more about [Task Types](/checklists/task-types/). Note: if your template type is 'Checklist' then this widget is not shown (as with this type the template has only simple checkboxes).
 
-When you have entered the task name and have the desired type selected either hit Enter on your keyboard or click on the + button to add the task. The task will be added just below the selected task (or at the top of the list if no tasks are selected) and the focus (selection) will move to it. You can continously enter task after task without using the mouse.
+Tip: The Task type widget will change according to that of the currently selected task (cursor). 
 
-Note that on long templates, the Add Task section "floats" at the top of the page for easy access. 
+Note: for long templates, the Add Task section "floats" at the top of the page for easy access. 
 
-## 3. Tasks 
-This is the main section of the editor in which you can see the tasks of the template. You can:
+## 3. The Tasks 
+This is the main section of the editor in which you can see the tasks of the template.
+
+
 * edit the task name by clicking on the name and entering Edit Mode. Make your changes and click Enter, Tab or anywhere outside the textbox to save. Click ESC to discard your changed
 * click anywhere on a task (beyond any of its widgets) to select it. A selected task will have its details open in the Details Pane on the right
 * drag and drop a task to reorder it
 * make a task into a subtask by clicking on the ">" button 
 * making a subtask back into a task (unsubtask) by clicking on the "<" button
 * deleting a task by clicking on the Trashcan button
-
-## 4. Details Pane
-The Details Pane allows you to see 
-* the Template Details - when the template is selected via the Pencil button
-* the Task Details - when a task is selected
-
-### Template Details
-After selecting the template and the Template Details Pane showing, you can view and make changes to the following:
-
-#### Template Name
-Click anywhere on the template name to enter "Edit mode" where you can rename the template. If happy with the change hit Enter, Tab or click anywhere outside the textbox. If you are unhappy and wish to discard your changes, hit ESC.
-
-#### Template Notes
-The template notes will be copied to the checklist notes. If you are manually running a template (i.e not via schedule), you can still make changes to the notes beforehand.
-
-To add/ edit notes:
-* click on the "Template Notes" placeholder or the existing notes to enter "Edit Mode"
-* enter your notes or change the existing notes
-* if happy with your changes hit Enter, Tab or click with the mouse anywhere outside the textbox and your changes will be saved
-* if unhappy with your changes, hit ESC to discard them
-
-#### Sharing
-By default, only you have access to the template. If you want to share it with your team, you can do so by toggling the Team Sharing toggle button.
-
-Sharing is on when the toggle is orange (and to the right) and off when grey (and to the left).
-
-#### Checklist View
-You can set which views will be available for users of the checklists created. This is similar to the [View Selector](/checklists/checklists/#checklist-view-selector) of the Checklist Page.
-
-#### Propagation
-Propagation refers to how parent and child tasks should behave when they are completed. Read more about [task propagation](/checklists/form-view/#propagation). These two setting control the setting of checklists created from this template.
 
 ### Task Details
 After selecting a task, the Task Details are shown in the Details Pane:
