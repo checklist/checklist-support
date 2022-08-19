@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Template Settings
-nav_order: 1
-parent: Template Editor
+nav_order: 2
+parent: Templates
 ---
 # Template Settings
 {: .no_toc }

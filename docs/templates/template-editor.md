@@ -32,13 +32,15 @@ The top section is the template section:
 ![](/assets/images/templates/templates-template.png)
 
 ### Back
-The back button opens the Template page where you can see all your template.
+The back arrow button opens the Template page where you can see all your template.
 
 ### Template Name
-In this section you can see and update the name of the template. To change the template name, simply click on it.
+To update the template name, simply click on it and make your changes. Hit Enter to save or Escape to discard your changes.
 
 ### Task Contents Toggle
 This toggle lets you decide if the tasks section should show the contents of each task. Task contents are any notes or media (e.g. YouTube videos) you have as part of a task.
+
+Turn this toggle off if you want to see a condensed view of your template.
 
 ### Template Settings
 Click on the Settings (Gear) icon to view and manage the [template settings](/templates/template-settings).
@@ -48,17 +50,21 @@ This section lets you add tasks to your template:
 
 ![](/assets/images/templates/templates-editor-add-task.png)
 
-Start typing the name of the task in the "Add a new task" text box. As you start typing, if you change your mind, you can click the X button to delete the current text you have entered. Hitting Enter or clicking on the + button will add the task to the template at the cursor (or at the top of the list if no cursor was set). The cursor will also move to the newly added task. You can continously enter task after task without using the mouse.
+Use the text box to add new tasks to your template. Hitting Enter or clicking on the + button will add the task to the template at the cursor (or at the top of the list if no cursor was set). The cursor will also move to the newly added task. You can continously enter task after task without using the mouse. Click on the X to discard any text you entered. 
 
-The type of task to be added is shown in the widget to the right of "Add new Task". You can click on the drop down to open the different types and select one. Read more about [Task Types](/checklists/task-types/). Note: if your template type is 'Checklist' then this widget is not shown (as with this type the template has only simple checkboxes).
+When editing a long template, when scrolling down, the Add Task section "floats" at the top of the page for easy access. 
 
-Tip: The Task type widget will change according to that of the currently selected task (cursor). 
+### Task Type
+The type of task to be added is shown in the widget to the right of "Add new Task". Click widget drop down to open switch the task type. Read more about [Task Types](/checklists/task-types/). 
 
-Note: for long templates, the Add Task section "floats" at the top of the page for easy access. 
+If your template type is 'Checklist' then type widget is not shown (as this type has only simple tasks).
+
+Tip: The Task type widget will change according to the type of the currently selected task ([cursor](/templates/template-editor#cursor)). 
 
 ## 3. Template Tasks 
 This is the main section of the editor in which you can see the tasks of the template.
 
+### Cursor
 
 * edit the task name by clicking on the name and entering Edit Mode. Make your changes and click Enter, Tab or anywhere outside the textbox to save. Click ESC to discard your changed
 * click anywhere on a task (beyond any of its widgets) to select it. A selected task will have its details open in the Details Pane on the right
