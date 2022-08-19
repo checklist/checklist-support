@@ -55,23 +55,25 @@ Propagation is on when the toggle is orange (and to the right) and off when grey
 
 ## Download PDF
 
+You can download the template in PDF format which can be used to Print it.
+
 To download a copy of the template as PDF, click the button. Once the copy is generated a Download link will show. Click on it and the PDF will be downloaded to your computer. You can then print it.
 
 ## Publish
 
-A template can only be used by or your team (if set to Team Sharing). You can also share the template with the Checklist community by publishing it. Published templates show up on checklist.com via a generated link. Click on 'Make Public' to publish the template and generate the link:
+A template can only be used by you or your team (when set to Team Sharing). You can also share the template with the Checklist community by publishing it. Published templates show up on checklist.com via a generated link. Click on 'Make Public' to publish the template and generate the link:
 
 ![](/assets/images/templates/template-settings-publish.png)
 
 Click on the generated link to open the public template. You can also click on the Link button to copy the link and paste it elsewhere.
 
-Should you wish to stop sharing the template publicly and keep it private, click on the Unpublish button.
+Should you wish to stop sharing the template publicly and keep it private, click on the 'Unpublish' button.
 
-Note: we reserve the right to remove any template that is deemed inappropriate and disable its owner's account. Please do not share incomplete or useless templates.
+Note: we reserve the right to remove any template that is deemed inappropriate and disable its owner's account. Please do not share incomplete, offensive, illegal or useless templates.
 
 ### Tags
 
-To help users find your templates easier, you can add up to 3 tag. Irrelevant tags will be removed.
+To help users find your templates easier, you can add up to 3 tags. Irrelevant tags will be removed.
 
 ### Public Profile
 
