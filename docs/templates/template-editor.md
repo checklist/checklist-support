@@ -23,11 +23,11 @@ You open the template editor by clicking on the "pencil" To start editing a temp
 ![](/assets/images/templates/templates-editor.png)
 
 The Editor layout consists of the following sections:
-1. Template
+1. Template Details
 2. Adding Tasks
 3. The Tasks
 
-## 1. Template
+## 1. Template Details
 The top section is the template section:
 ![](/assets/images/templates/templates-template.png)
 
