@@ -18,26 +18,28 @@ parent: Templates
 {:toc}
 </details>
 
-To view a template's settings, you click on the Gear button on the template page (top right). This will open the Settings dialog where you can mange the following:
+To view a template's settings, click on the Gear button on the template page (top right). This will open the Settings dialog where you can mange the following:
 
 ## View Type
 
-Set which view type generated checklists will have. Read more about checklist [View Types](checklists/checklist-views/):
+Set which view type generated checklists will have. Read more about checklist [View Types](/checklists/checklist-views/):
 
 ![](/assets/images/templates/template-settings-type.png)
 
-Note: If you choose "Checklist" type, your tasks will all have the 'Check' type.
+Note: If you choose "Checklist" type, your tasks can only have the 'Check' type.
 
 ## Notes
 
-The template notes will be copied to the checklist notes when the checklist is triggered. If you are manually running a template (i.e not via schedule), you can still make changes to the notes beforehand.
+The template notes will be copied to the checklist notes when the checklist is triggered. If you are manually running a template (i.e not via a schedule), you can still make changes to the notes before triggering.
 
 To add/ edit notes:
 
-- click on the "Click to set Template Notes" placeholder or the existing notes to enter "Edit Mode"
+- click on the "Click to set Template Notes" placeholder or on the existing notes to enter "Edit Mode"
 - enter your notes or change the existing notes
 - hit Enter to save your notes
 - hit Escapre to discard your changes
+
+Tip: your notes can be on multiple lines.
 
 ## Sharing
 
