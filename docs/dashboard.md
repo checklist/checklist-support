@@ -17,21 +17,27 @@ nav_order: 7
 
 The Dashboard is the first item in the main Checklist menu. It is meant to give you an overview of your checklists (and what's important). 
 
-By default, when you login, we direct you to the Checklists page. If you wish to have the Dashboard as your default page, you can set it in the Account Preferences page.
+By default, when you login, we direct you to the Checklists page. If you wish to have the Dashboard as your default page, you can change this setting in the Account Preferences page.
 
-Currently, the following widgets are available on the dashboard:
+What is shown on the Dashboard is up to you. You can choose from different widgets as well as re-ordering them. Click on the Settings (Gear) button to manage your Dashboard.
+
+Here is what a typical Dashboard looks like:
 
 ![](/assets/images/dashboard/dashboard.png)
 
-## Run Templates
+## Settings
+
+## Widgets
+
+### Run Templates
 This widget is only available to users with the Runner role. Any templates marked as Favorite (Star) will be shown here for Runners. 
 
 Runners can click on the Run button next to the template to Run it (trigger and create a checklist from the template). See [Running a Template](/templates/templates/#running-templates) for more.
 
-## Today's Checklists
+### Today's Checklists
 This list shows all checklists created today together with how many tasks it has and how many were completed. You can click on the checklist to view it.
 
-## Yesterday's Checklists
+### Yesterday's Checklists
 This list shows all checklists created yesterday. Click on a checklist to view it. 
 
 ## Want More?
