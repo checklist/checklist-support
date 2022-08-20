@@ -57,9 +57,9 @@ To create a new template, click on the New Template button. The Create a new Tem
 
 ![](/assets/images/templates/templates-add.png)
 
-Give your template a name and click Create. The new template will be created and open for editting.
+Give your template a name, choose its type (read more about [view types](/checklists/checklist-views/)) and click Create. The new template will be created and open for editting.
 
-Note that the template name can be 1-500 long and contain any characters.
+Note that the template name can be 1-500 long and contain any character.
 
 ## Editing templates
 
