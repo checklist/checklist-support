@@ -37,7 +37,16 @@ You can continue adding tasks by simply entering the task and hitting Enter repe
 
 Task names can be 1-500 characters long.
 
-### Selecting tasks
+### Multitask adding
+If you want to add multiple tasks in one go, click on the Add Multi button:
+
+![](/assets/images/checklists/checklist-add-multi.png)
+
+Enter one task per line. You can easily paste tasks from another document. Just keep one task per line.
+
+If you want to include subtasks, use a TAB at the start of the line. You can have deep nesting by using multiple tabs at the start of the line.
+
+## Selecting tasks
 Task selection is useful when adding tasks as the newly created task is added right below the selected task.
 
 Selected tasks have a gray background. In the screenshot above, you can see that Task 3 is selected. 
