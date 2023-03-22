@@ -46,6 +46,8 @@ Enter one task per line. You can easily paste tasks from another document. Just 
 
 If you want to include subtasks, use a TAB at the start of the line. You can have deep nesting by using multiple tabs at the start of the line.
 
+Tip: to add notes to your tasks, simply use a period (.) at the end of the task name and follow with the notes. For example, entering "Task name. Task note" will create a task with the name "Task Name" and its note will be "Task note".
+
 ## Selecting tasks
 Task selection is useful when adding tasks as the newly created task is added right below the selected task.
 
