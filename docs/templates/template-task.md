@@ -80,7 +80,7 @@ Note: Only team Mebers (i.e. not Guests) can be assigned via templates.
 
 Tip: for quick selection and closing of the Assign dialog, click on the person name and not the checkbox.
 
-Note: if when creating the checklist (Run) the user no longer has access to the team, the task will not be assigned to that user.
+Note: if when creating the checklist (Trigger) the user no longer has access to the team, the task will not be assigned to that user.
 
 ## Due Date
 

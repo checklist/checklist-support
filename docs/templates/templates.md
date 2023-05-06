@@ -33,8 +33,8 @@ Instead of starting with a blank page, browse our [checklist templates](https://
 
 Of course not every organization is the same and you can create your own templates from scratch (or use a public template) and make it available to your entire team. This is where Checklist shines, again:
 
-- you can "run" these templates to create a checklist with a click of a button
-- you can "schedule" these templates to be run (e.g. daily, weekly)
+- you can "trigger" these templates to create a checklist with a click of a button
+- you can "schedule" these templates to be triggered (e.g. daily, weekly)
 - you can automatically assign the created checklists to the entire team or specific users
 
 ## Managing Templates
@@ -71,13 +71,13 @@ The Template Editor will open where you can edit your template.
 
 Read more on how to work with the [template editor](/templates/template-editor/).
 
-## Running Templates
+## Triggering Templates
 
-Running refers to creating a checklist from a template. Another term sometimes used is "trigger". To run your template click on the Run button of the template:
+Triggering refers to creating a checklist from a template. Another term sometimes used is "Run". To trigger your template click on the Trigger button of the template:
 
 ![](/assets/images/templates/templates-run-button.png)
 
-This will open the Run Template dialog:
+This will open the Template Trigger dialog:
 
 ![](/assets/images/templates/templates-run-dialog.png)
 
@@ -87,9 +87,9 @@ By default, the checklist is assigned to the entire team. You can can change thi
 
 ![](/assets/images/templates/templates-run-assign.png)
 
-If you have set template notes, those will be set as the checklist notes by default. You can still make changes to the notes before running.
+If you have set template notes, those will be set as the checklist notes by default. You can still make changes to the notes before triggering.
 
-Click on the Run button to create the checklist. The checklist is created and you get a confirmation at the top of the screen:
+Click on the Trigger button to create the checklist. The checklist is created and you get a confirmation at the top of the screen:
 
 ![](/assets/images/templates/templates-run-confirm.png)
 
@@ -97,9 +97,9 @@ Click on the View button on the confirmation to navigate to the created checklis
 
 ## Scheduling Templates
 
-When you need to Run a template on a regular basis, you can easily Schedule it. For example, if you need a "Daily Opening Checklist" for your store. Or a "Weekly Corona Checks" checklist for compliance and staying healthy.
+When you need to Trigger a template on a regular basis, you can easily Schedule it. For example, if you need a "Daily Opening Checklist" for your store. Or a "Weekly Corona Checks" checklist for compliance and staying healthy.
 
-To schedule a regular Run, click on the Automation button of the template:
+To schedule a regular Trigger, click on the Automation button of the template:
 
 ![](/assets/images/templates/templates-schedule-button.png)
 

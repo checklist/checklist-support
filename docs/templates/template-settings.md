@@ -30,7 +30,7 @@ Note: If you choose "Checklist" type, your tasks can only have the 'Check' type.
 
 ## Notes
 
-The template notes will be copied to the checklist notes when the checklist is triggered. If you are manually running a template (i.e not via a schedule), you can still make changes to the notes before triggering.
+The template notes will be copied to the checklist notes when the checklist is triggered. If you are manually triggering a template (i.e not via a schedule), you can still make changes to the notes before triggering.
 
 To add/ edit notes:
 

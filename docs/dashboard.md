@@ -67,11 +67,11 @@ The Action buttons allow you to:
 
 The following widgets are available for you to choose from:
 
-### Run Templates
+### Trigger Templates
 
 This widget is only available to users with the 'Runner' role. Any templates marked as Favorite (Star) will be shown in the widget.
 
-Runners can click on the Run button next to the template to Run it (i.e. trigger and create a checklist from the template). See [Running a Template](/templates/templates/#running-templates) for more.
+Runners can click on the Trigger button next to the template to Trigger it (i.e. trigger and create a checklist from the template). See [Triggering a Template](/templates/templates/#triggering-templates) for more.
 
 ### Today's Checklists
 
