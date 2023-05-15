@@ -18,7 +18,7 @@ Sign in to your free Checklist account (or [register](https://checklist.com/acco
 
 We will be guiding you through this tutorial using, what else, a checklist which can be found at the bottom right of the web app. You can always minimize it, do you work and then click on the icon to open it again. As you progress, you will see the checklist being updated. You can click on any task to focus the app on it. 
 
-![Onboarding Checklist](/assets/images/pro/onboarding-checklist.png){:style="maxWidth: 200px"}
+![Onboarding Checklist](/assets/images/pro/onboarding-checklist.png){: .image-small}
 
 Bonus: complete the checklist to receive a extra 7 days of free trial. On us!
 
