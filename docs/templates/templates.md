@@ -65,7 +65,7 @@ Note that the template name can be 1-500 long and contain any character.
 
 To edit an existing template, open the Templates page and click on the Template Name you wish to edit:
 
-![](/assets/images/templates/templates-editor-button.png)
+![](/assets/images/templates/template-editor-button.png)
 
 The Template Editor will open where you can edit your template.
 
