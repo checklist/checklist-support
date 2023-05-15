@@ -19,7 +19,7 @@ aux_links_new_tab: true
 
 color_scheme: checklist
 
-ga_tracking: UA-22712920-2
+ga_tracking: "UA-22712920-2,UA-20848806-4"
 
 permalink: pretty
 
