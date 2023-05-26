@@ -18,7 +18,7 @@ grand_parent: Checklists
 {:toc}
 </details>
 
-Sometimes it is not sufficient to just check off tasks of a list. You would like to also collect data as users go through the list. This is where the "Form View" becomes useful. You can defined "task types". For example the following checklist asks the user to choose from different choicesm, enter text, assign to users and enter a URL:
+Sometimes it is not sufficient to just check tasks off of a list. You would like to also collect data as users go through the list. This is where the "Form View" becomes useful. You can defined "task types". For example the following checklist asks the user to choose from different choicesm, enter text, assign to users and enter a URL:
 
 ![](/assets/images/checklists/checklist-form-view.png)
 
