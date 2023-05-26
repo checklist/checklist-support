@@ -18,7 +18,7 @@ grand_parent: Checklists
 {:toc}
 </details>
 
-The Checklist Form lets users "play" checklists: easily move from one task to the next while checking off, selecting options or entering data for requested field types:
+Sometimes it is not sufficient to just check off tasks of a list. You would like to also collect data as users go through the list. This is where the "Form View" becomes useful. You can defined "task types". For example the following checklist asks the user to choose from different choicesm, enter text, assign to users and enter a URL:
 
 ![](/assets/images/checklists/checklist-form-view.png)
 
@@ -44,7 +44,6 @@ Each task is placed on its own card. The cards can be "opened" by clicking on th
 7. Optional User Notes - these are notes **BY** the person completing the task
 8. Signature - Update by who and when
 9. Signature Avatar - The avatar of the person who last completed the task
-
 
 Tasks which are not marked as required can also be marked as completed directly via their checkbox.
 
