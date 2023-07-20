@@ -159,6 +159,10 @@ To add notes, open the Checklist Menu and click on the option "Checklist Notes".
 
 ![](/assets/images/checklists/checklist-notes.png)
 
+Once you have updated your notes and saved them, they will be shown at the top of the checklist:
+
+![](/assets/images/checklists/checklist-notes-view.png)
+
 ## Downdload Checklist
 
 You can download the Checklist as a PDF file. To do so, open the Checklist Menu and click on the option "Download as PDF". The app will open the "Download Checklist" dialog:
