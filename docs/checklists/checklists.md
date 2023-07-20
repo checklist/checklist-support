@@ -107,6 +107,20 @@ When the checkbox is checked, whenever a task is marked as completed, it will be
 
 Note: completed tasks will be moved to the end of the checklist as a **task** and not as a subtask. This is purposefully so, so as to keep the completed tasks at the end of the checklist and not just as the last subtask.
 
+## Delete Completed Tasks
+
+To delete completed tasks from your checklist, open the Checklist menu and click on the option "Delete Completed Tasks". Any completed tasks will be deleted from the checklist.
+
+## Duplicated Checklist
+
+To duplicate a checklist, open the Checklist menu and click on the option "Duplicate Checklist". The app will open the "Duplicate Checklist" dialog:
+
+![](/assets/images/checklists/checklist-duplicate.png)
+
+Give your copy a new name (to distinguish it from the old checklist) and hit the Duplicate button to create the copy. You will be directed to the new checklist.
+
+Note: any attachments the checklist or its task may have are NOT duplicated (for privacy reasons).
+
 ## Make Checklist into a Template
 
 If you use this checklist regularly, you can can make a template out of it. From the Checklist Menu click on the option "Make into a template". The confirmation dialog will open:
@@ -120,6 +134,38 @@ Click Cnfirm and let our app process your request and show you the confirmation 
 If you wish to edit the template right away, click on the EDIT shortcut on the message and the Template Editor will open.
 
 Read more about [Checklist Templates](/templates).
+
+## Publish Checklist
+
+You can publish the checklist onto checklist.com so that others can view/ use it. To do so, open the Checklist Menu and click on the option "Publish Checklist". The app will open the "Publish Checklist" dialog:
+
+![](/assets/images/checklists/checklist-publish-dialog.png)
+
+Click on the button to get a private link (published checklists are only accessible by people with the private link). The dialog will now display the link to your checklist:
+
+![](/assets/images/checklists/checklist-published-dialog.png)
+
+You can now click on the link to view the published checklist or click on the 'Link' button to copy the link to the clipboard. You can always open the dialog and get the link again.
+
+You can click on the Unpublish button to unpublish the checklist. The checklist will no longer be accessible via the link.
+
+Note: if you unpublish and publish the checklist a new link will be generated and people with the old link will no longer have access to the checklist (unless you share the new link with them).
+
+## Checklist Notes
+
+You can add notes to the top of the checklist. This may be useful to add some context to the checklist or to add some instructions for the checklist users. Notes will also be shown on public checklists.
+
+To add notes, open the Checklist Menu and click on the option "Checklist Notes". The app will open the "Notes" dialog where you can add or update your notes:
+
+![](/assets/images/checklists/checklist-notes.png)
+
+## Downdload Checklist
+
+You can download the Checklist as a PDF file. To do so, open the Checklist Menu and click on the option "Download as PDF". The app will open the "Download Checklist" dialog:
+
+![](/assets/images/checklists/checklist-download-pdf.png)
+
+Once the PDF is generated, click on the link to download it.
 
 ## Delete a Checklist
 
