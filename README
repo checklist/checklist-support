@@ -1,3 +1,51 @@
 To run:
 cd docs
 bundle exec jekyll serve -l
+
+Jekyll themes: https://jekyllthemes.io/jekyll-documentation-themes
+
+
+Mobile structure:
+
+Mobile:
+
+account
+- sign in
+- register
+- login
+- password forgotten
+navigation
+dashboard
+checklists
+- add checklist
+- checklist (read more to learn about checklists in checklist)
+-- rename checklist, status, menu
+--- delete completed, move completed to end, members, delete checklist
+-- sort & filter tasks
+--- filter, sort, hide subtasks
+-- tasks
+--- add a task
+--- task status
+--- rename task
+--- task menu
+---- priority, notes, assign, due date, attach
+---- swipe right/ left
+----- delete, zoom, unzoom, subtask, unsubtask
+- play view
+- 
+
+Help direct links:
+/mobile/ - from drawer
+* /mobile/checklist/ - from checklist menu
+* /mobile/checklist/task/ - from task menu (include swipe actions)
+* /mobile/checklist/sort-filter/ - from slider
+* /mobile/checklist/members/ - from members menu
+* /mobile/templates/run/ - from run dialog
+* /mobile/teams/manage/ - from team page
+* /mobile/dashboard/ - from dashboard
+/mobile/checklist/play/ - from play
+
+
+
+
+
