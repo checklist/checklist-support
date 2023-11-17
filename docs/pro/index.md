@@ -23,4 +23,3 @@ We will be guiding you through this tutorial using, what else, a checklist which
 Bonus: complete the checklist to receive an extra 7 days of free trial. On us!
 
 ### Create a checklist template
-
