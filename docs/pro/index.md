@@ -6,7 +6,7 @@ nav_order: 3
 ---
 # Checklist Pro
 
-Need to automate repetivive business processes or workflows? Looking for simplicity? Checklist Pro is the answer. It is a simple, yet powerful tool that allows you to 
+Need to automate repetitive business processes or workflows? Looking for simplicity? Checklist Pro is the answer. It is a simple, yet powerful tool that allows you to 
 create and manage checklists which mirrror your business processes. Let your team focus on the work, not the process.
 
 ## Let's get started!
