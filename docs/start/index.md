@@ -46,7 +46,11 @@ Task can have different fields (in columns) such as notes, assignees, attachment
 
 ## Scheduled Template
 
+Your checklist templates can be automatically scheduled to be "triggered" (i.e. create a checklist from them) on a regular basis:
+
 ![Checklist Template Schedule](/assets/images/start/start-template-schedule.png){: .image-medium}
+
+Use cases: store opening, store closing, restaurant health inspection, fire inspection, security audit
 
 ## Form2Task
 
@@ -59,6 +63,9 @@ You can then share the form with your customers (email, QR Code on embed on your
 ![Checklist form responses in a table](/assets/images/start/form-2-task-table.png)
 
 You can then manage the responses: prioritize then, assign to team members, add notes, attachments, etc. Or export them.
+
+Use cases: [contact us](https://checklist.com/forms/contact){:target="_blank"}, [volunteer signup](https://checklist.com/forms/volunteer-signup){:target="_blank"}, [customer feedback](https://checklist.com/forms/customer-feedback){:target="_blank"}, [event registration](https://checklist.com/forms/event-registration){:target="_blank"}
+
 
 So which checklist will you create today? 
 
