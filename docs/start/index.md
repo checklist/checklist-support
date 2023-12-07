@@ -2,7 +2,7 @@
 layout: default
 title: Get Started
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 # Get Started with Checklist
 
