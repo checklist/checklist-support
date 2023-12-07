@@ -12,35 +12,34 @@ To begin, you need to create a free Checklist account. Simply visit [My Account]
 
 For the next phase, let's identify your objectives. We've categorized different options to suit various use cases. Choose your scenario to learn more:
 # A One-Time project
+Ideal for a standalone list related to a single project (could be ongoing). Tasks can be pre-known or added as needed:
 
 - [List View](#list-view) - a simple list with tasks to check off
 - [Table View](#table-view) - a checklist in table format, with each task (row) having additional fields (columns)
 
 # A repetitive process
+Checklists are a great tool for managing repetitive business processes:
 
 - [Checklist Template](#checklist-template) - a repetitive process that needs to be handled on-demand by me or one of my team members
 - [Scheduled Template](#scheduled-template) - a repeptive process that needs to be handled on a regular schedule by me or one of my team members
 - [Form2Task](#form2task) - collect responses from my customers and have them automatically turned into tasks for further handling by my team
 
-Not sure? Click on any of them to read more and see some examples.
-
-Ideal for a standalone list related to a single project (could be ongoing). Tasks can be pre-known or added as needed.
+Not sure which fits your case? Read below for more details.
 
 ## List View
 
 A checklist with tasks to check off:
 
-![](/assets/images/start/start-checklist-view.png){: .image-medium}
+![](/assets/images/start/start-checklist-view.png){: .image-large}
 
 Starts simple but is very powerful! This view also offers: subtasks, notes, attachments, due dates, reminders, sharing, assigning and more.
 
 ## Table View
 
-Each task can have different fields such as notes, assignees, attachments, emails, URLs, etc.
+This view displays your checklist in a table format. Task can have different fields (in columns) such as notes, assignees, attachments, emails, URLs, etc.
 
 ![](/assets/images/start/start-table-view.png)
 
-Checklists are a great tool for working with repetitive business processes.
 
 ## Checklist Template
 
