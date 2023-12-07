@@ -30,7 +30,7 @@ Not sure which fits your case? Read below for more details.
 
 A checklist with tasks to check off:
 
-![](/assets/images/start/start-checklist-view.png){: .image-large}
+![Checklist in list view](/assets/images/start/start-checklist-view.png){: .image-large}
 
 Starts simple but is very powerful! This view also offers: subtasks, notes, attachments, due dates, reminders, sharing, assigning and more.
 
@@ -38,7 +38,7 @@ Starts simple but is very powerful! This view also offers: subtasks, notes, atta
 
 This view displays your checklist in a table format. Task can have different fields (in columns) such as notes, assignees, attachments, emails, URLs, etc.
 
-![](/assets/images/start/start-table-view.png)
+![Checklist in table view](/assets/images/start/start-table-view.png)
 
 
 ## Checklist Template
