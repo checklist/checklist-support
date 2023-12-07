@@ -50,7 +50,7 @@ Task can have different fields (in columns) such as notes, assignees, attachment
 
 "Form To Task" is a great way to collect responses from your customers and have them automatically turned into tasks for further handling by your team. We have a simple yet powerful Online Form Builder letting you define the online form. For example:
 
-![](/assets/images/start/form-2-task-form.png)
+![](/assets/images/start/form-2-task-form.png){: .image-medium}
 
 You can then share the form with your customers (email, QR Code on embed on your site), and they can fill it out.  Responses are automatically added to your checklist as a task row in the table:
 
