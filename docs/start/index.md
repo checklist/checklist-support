@@ -7,7 +7,7 @@ nav_order: 2
 
 # Get Started with Checklist
 
-To begin, you need to create a free Checklist account. Simply visit [My Account](https://checklist.com/account){:target="\_blank"}, and sign in (create an account or log in if you haven't already). Return here once you've completed this step.
+To begin, you need to create a free Checklist account. Simply visit [My Account](https://checklist.com/account){:target="_blank"}, and sign in (create an account or log in if you haven't already). Return here once you've completed this step.
 
 For the next phase, let's identify your objectives. We've categorized different options to suit various use cases. Choose your scenario to learn more:
 
@@ -36,7 +36,7 @@ A checklist with tasks to check off:
 
 Starts simple but is very powerful! This view also offers: subtasks, notes, attachments, due dates, reminders, sharing, assigning and more.
 
-Use cases: [House moving](https://checklist.com/moving){:target="\_blank"}, [Business statup](https://checklist.com/business-startup-checklist){:target="\_blank"}, [Daily to do](https://checklist.com/daily-to-do-list){:target="\_blank"}, [Event](https://checklist.com/event){:target="\_blank"}, [Cleaning](https://checklist.com/cleaning){:target="\_blank"}
+Use cases: [House moving](https://checklist.com/moving){:target="_blank"}, [Business statup](https://checklist.com/business-startup-checklist){:target="_blank"}, [Daily to do](https://checklist.com/daily-to-do-list){:target="_blank"}, [Event](https://checklist.com/event){:target="_blank"}, [Cleaning](https://checklist.com/cleaning){:target="_blank"}
 
 ## Table View
 
@@ -62,7 +62,7 @@ Here’s what playing the list looks like:
 
 ![Checklist Template Editor](/assets/images/views/play-view2.gif)
 
-Use cases: [Employee onboarding](https://checklist.com/employee-onboarding-checklist){:target="\_blank"}, [Office Cleaning](https://checklist.com/office-cleaning-checklist){:target="\_blank"}, [SEO](https://checklist.com/seo-checklist){:target="\_blank"}
+Use cases: [Employee onboarding](https://checklist.com/employee-onboarding-checklist){:target="_blank"}, [Office Cleaning](https://checklist.com/office-cleaning-checklist){:target="_blank"}, [SEO](https://checklist.com/seo-checklist){:target="_blank"}
 
 ## Scheduled Template
 
@@ -84,7 +84,7 @@ You can then share the form with your customers (email, QR Code on embed on your
 
 You can then manage the responses: prioritize then, assign to team members, add notes, attachments, etc. Or export them.
 
-Use cases: [contact us](https://checklist.com/forms/contact){:target="\_blank"}, [volunteer signup](https://checklist.com/forms/volunteer-signup){:target="\_blank"}, [customer feedback](https://checklist.com/forms/customer-feedback){:target="\_blank"}, [event registration](https://checklist.com/forms/event-registration){:target="\_blank"}, lead generation
+Use cases: [contact us](https://checklist.com/forms/contact){:target="_blank"}, [volunteer signup](https://checklist.com/forms/volunteer-signup){:target="_blank"}, [customer feedback](https://checklist.com/forms/customer-feedback){:target="_blank"}, [event registration](https://checklist.com/forms/event-registration){:target="_blank"}, lead generation
 
 So which checklist will you create today?
 
@@ -92,4 +92,4 @@ So which checklist will you create today?
 
 Get Started with Checklist now!
 
-[Sign up](https://checklist.com/account){:target="\_blank"} for free
+[Sign up](https://checklist.com/account){:target="_blank"} for free
