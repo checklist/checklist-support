@@ -7,20 +7,20 @@ nav_order: 2
 
 # Get Started with Checklist
 
+
 To begin, you need to create a free Checklist account. Simply visit [My Account](https://checklist.com/account){:target="\_blank"}, and sign in (create an account or log in if you haven't already). Return here once you've completed this step.
 
 For the next phase, let's identify your objectives. We've categorized different options to suit various use cases. Choose your scenario to learn more:
-
 # A One-Time project
 
-- [List View](#list-view) - I want a simple list with tasks to check off
-- [Table View](#table-view) - I need a checklist in table format where each task (row) can have multiple fields (columns)
+- [List View](#list-view) - a simple list with tasks to check off
+- [Table View](#table-view) - a checklist in table format, with each task (row) having additional fields (columns)
 
 # A repetitive process
 
-- [Checklist Template](#checklist-template) - I have a business process that needs to be handled on-demand by me or one of my team members
-- [Scheduled Template](#scheduled-template) - I have a business process that needs to be handled on a regular schedule by me or one of my team members
-- [Form2Task](#form2task) - I want to collect data from my customers and have it automatically turned into tasks for further handling
+- [Checklist Template](#checklist-template) - a repetitive process that needs to be handled on-demand by me or one of my team members
+- [Scheduled Template](#scheduled-template) - a repeptive process that needs to be handled on a regular schedule by me or one of my team members
+- [Form2Task](#form2task) - collect responses from my customers and have them automatically turned into tasks for further handling by my team
 
 Not sure? Click on any of them to read more and see some examples.
 
