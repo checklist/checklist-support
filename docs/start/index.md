@@ -28,7 +28,11 @@ Ideal for a standalone list related to a single project (could be ongoing). Task
 
 ## List View
 
-![](/assets/images/start/start-checklist-view.png)
+A checklist with tasks to check off:
+
+![](/assets/images/start/start-checklist-view.png){: .image-medium}
+
+Starts simple but is very powerful! This view also offers: subtasks, notes, attachments, due dates, reminders, sharing, assigning and more.
 
 ## Table View
 
