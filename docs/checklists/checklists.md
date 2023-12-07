@@ -151,9 +151,9 @@ You can click on the Unpublish button to unpublish the checklist. The checklist 
 
 Note: if you unpublish and publish the checklist a new link will be generated and people with the old link will no longer have access to the checklist (unless you share the new link with them).
 
-### Embed Your Checklist
+## Embed Your Checklist
 
-You can also embed your published checklist on a website. On the published checklist, click on the Embed button:
+You can [Publish a Checklist](#publish-Checklist) and then embed it on your site. On the published checklist, click on the Embed button:
 
 ![Published Checklist](/assets/images/checklists/checklist-published.png)
 
@@ -161,7 +161,7 @@ Then, copy the embed code and paste it on your website:
 
 ![Checklist Embed](/assets/images/checklists/checklist-embed.png)
 
-Note: You can also customize the font size as well as decide to show/ hide the task notes.
+Note: You can also customize the font size as well as decide whether to show or hide task notes.
 
 ## Checklist Notes
 
