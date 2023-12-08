@@ -36,7 +36,7 @@ A checklist with tasks to check off:
 
 Starts simple but is very powerful! This view also offers: subtasks, notes, attachments, due dates, reminders, sharing, assigning and more.
 
-Example Use cases: [House moving ↗](https://checklist.com/moving-checklist){:target="\_blank"}, [Business statup ↗](https://checklist.com/business-startup-checklist){:target="\_blank"}, [Event ↗](https://checklist.com/event-checklist "Event Checklist"){:target="\_blank"}, [Cleaning](https://checklist.com/cleaning-checklist "Cleaning Checklist"){:target="\_blank"}
+Example Use cases: [House moving ↗](https://checklist.com/moving-checklist "Moving Checklist"){:target="\_blank"}, [Business statup ↗](https://checklist.com/business-startup-checklist "Business Startup Checklist"){:target="\_blank"}, [Event ↗](https://checklist.com/event-checklist "Event Checklist"){:target="\_blank"}, [Cleaning](https://checklist.com/cleaning-checklist "Cleaning Checklist"){:target="\_blank"}
 
 Read more on [List View](/checklists/checklist-view) or get started by customizing our [Daily to do ↗](https://checklist.com/daily-to-do-list){:target="\_blank"} template (you can play around with the list and customize it to your needs).
 
