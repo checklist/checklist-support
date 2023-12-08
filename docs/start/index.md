@@ -13,17 +13,17 @@ For the next phase, let's identify your objectives. We've categorized different 
 
 # 1) A One-Time project
 
-Ideal for a standalone list related to a single project (could be ongoing). Tasks can be pre-known or added as needed. You can use two views to manage your list (and easily change between them when needed):
+Ideal for a standalone list related to a single project (could be ongoing). Tasks can be pre-known or added as needed. You can use the following views to manage your list (while easily changing between them as needed):
 
-- [List View](#list-view) - a simple list with tasks to check off
+- [List View](#list-view) - a list with tasks to check off
 - [Table View](#table-view) - a checklist in table format, with each task (row) having additional fields (columns)
 
 # 2) A Repetitive Business Process
 
-Checklists are a great tool for managing repetitive business processes:
+Checklists are a great tool for managing Repetitive Business Processes:
 
 - [Checklist Template](#checklist-template) - a repetitive process that needs to be handled on-demand by me or one of my team members
-- [Scheduled Template](#scheduled-template) - a repeptive process that needs to be handled on a regular schedule by me or one of my team members
+- [Scheduled Template](#scheduled-template) - a repetitive process handled on a regular schedule by me or one of my team members
 - [Form2Task](#form2task) - collect responses from my customers and have them automatically turned into tasks for further handling by my team
 
 Not sure which fits your case? Read below for more details.
@@ -36,7 +36,7 @@ A checklist with tasks to check off:
 
 Starts simple but is very powerful! This view also offers: subtasks, notes, attachments, due dates, reminders, sharing, assigning and more.
 
-Example Use cases: [House moving ↗](https://checklist.com/moving){:target="\_blank"}, [Business statup ↗](https://checklist.com/business-startup-checklist){:target="\_blank"}, [Event ↗](https://checklist.com/event){:target="\_blank" title="Event Checklist"}, [Cleaning](https://checklist.com/cleaning){:target="\_blank" title="Cleaning Checklist"}
+Example Use cases: [House moving ↗](https://checklist.com/moving-checklist){:target="\_blank"}, [Business statup ↗](https://checklist.com/business-startup-checklist){:target="\_blank"}, [Event ↗](https://checklist.com/event){:target="\_blank" title="Event Checklist"}, [Cleaning](https://checklist.com/cleaning){:target="\_blank" title="Cleaning Checklist"}
 
 Read more on [List View](/checklists/checklist-view) or get started by customizing our [Daily to do ↗](https://checklist.com/daily-to-do-list){:target="\_blank"} template (you can play around with the list and customize it to your needs).
 
