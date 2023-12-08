@@ -36,7 +36,9 @@ A checklist with tasks to check off:
 
 Starts simple but is very powerful! This view also offers: subtasks, notes, attachments, due dates, reminders, sharing, assigning and more.
 
-Example Use cases: [House moving](https://checklist.com/moving){:target="\_blank"}, [Business statup](https://checklist.com/business-startup-checklist){:target="\_blank"}, [Daily to do](https://checklist.com/daily-to-do-list){:target="\_blank"}, [Event](https://checklist.com/event){:target="\_blank"}, [Cleaning](https://checklist.com/cleaning){:target="\_blank"}
+Example Use cases: [House moving](https://checklist.com/moving){:target="\_blank"}, [Business statup](https://checklist.com/business-startup-checklist){:target="\_blank"}, [Event](https://checklist.com/event){:target="\_blank"}, [Cleaning](https://checklist.com/cleaning){:target="\_blank"}
+
+Getting started with List View: Visit the [Daily to do](https://checklist.com/daily-to-do-list){:target="\_blank"} template and click on the "Save" button. You can then play around with the list and customize it to your needs.
 
 ## Table View
 
@@ -84,13 +86,14 @@ You can then share the form with your customers (email, QR Code on embed on your
 
 You can then manage the responses: prioritize then, assign to team members, add notes, attachments, etc. Or export them.
 
-Getting started with Form2Task: Visit our [Contact Us](https://checklist.com/forms/contact){:target="\_blank"} template and click on the "Use Template" button. You can then customize the form to your needs.
-
 Example Use cases: [contact us](https://checklist.com/forms/contact){:target="\_blank"}, [volunteer signup](https://checklist.com/forms/volunteer-signup){:target="\_blank"}, [customer feedback](https://checklist.com/forms/customer-feedback){:target="\_blank"}, [event registration](https://checklist.com/forms/event-registration){:target="\_blank"}, lead generation
 
-So which checklist will you create today?
+Getting started with Form2Task: Visit our [Contact Us](https://checklist.com/forms/contact){:target="\_blank"} template and click on the "Use Template" button. You can then customize the form to your needs.
+
 
 ## Get Started
+
+So which checklist will you create today?
 
 Get Started with Checklist now!
 
