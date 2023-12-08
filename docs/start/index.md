@@ -54,13 +54,13 @@ Learn more about the [Table View](/checklists/table-view/)
 
 ## Checklist Template
 
-If you have a business process (i.e a set of defined tasks) that needs to be repeated on schedule or ad hoc, then a Checklist Template is a great solution.
+If you have a business process (i.e a set of steps/ tasks) that needs to be repeated on schedule or ad hoc, then a Checklist Template is a great solution.
 
 You start by defining the steps (tasks) that need to be followed. Each task can have a simple check or even a question that needs to be answered (e.g. text, number, URL, email, date). Use our simple Template editor to create your template:
 
 ![Checklist Template Editor](/assets/images/templates/template-editor.png){: .image-xl}
 
-Once you have a template, you (or authorized member of your team) can easily trigger it from the Dashboard) and assign it to the team or specific user to follow. See below about scheduling templates. The assigned user then needs to go through the checklist marking it as they progress. We call this: “playing” the list. Progress can be tracked by management.
+After creating a template, you or an authorized member of your team can easily trigger it from the dashboard and assign it to the entire team or a specific user. The assigned user then goes through the checklist, marking each item as they progress. We refer to this process as 'playing the list.' Management can track progress effectively.
 
 Here’s what playing the list looks like:
 
@@ -68,7 +68,7 @@ Here’s what playing the list looks like:
 
 Example Use cases: [Employee onboarding ↗](https://checklist.com/employee-onboarding-checklist "Employee onboarding Checklist"){:target="\_blank"}, [Office Cleaning ↗](https://checklist.com/office-cleaning-checklist "Office Cleaning Checklist"){:target="\_blank"}, [SEO ↗](https://checklist.com/seo-checklist "SEO Checklist"){:target="\_blank"}, [Vehicle Inspection ↗](https://checklist.com/vehicle-inspection-checklist "Vehicle Insepection Checklist"){:target="\_blank"}
 
-Read more on [Checklist Templates](/templates/templates) or get started by customizing our [Store Opening & Closing Checklist ↗](https://checklist.com/retail-store-opening-closing-checklist){:target="\_blank"} template (click on the Save as Template button to save it as your own template and then play around with it). Don't forget to Trigger it so that you can play it (i.e. follow the steps).
+Explore more about Checklist Templates, or kickstart your journey by customizing our [Checklist Templates](/templates/templates) or get started by customizing our [Store Opening & Closing Checklist ↗](https://checklist.com/retail-store-opening-closing-checklist){:target="\_blank"} template. Click the 'Save as Template' button to make it your own, and then feel free to experiment with it. Remember to trigger it to play through the steps.
 
 ## Scheduled Template
 
@@ -78,7 +78,7 @@ Your checklist templates can be automatically scheduled to be "triggered" (i.e. 
 
 Example Use cases: store opening, store closing, restaurant health inspection, fire inspection, security audit
 
-Read more about [Checklist Automation ↗](/automation/){ :target="\_blank"} and specifically how to [add a scedule to a template ↗](/automation/#template-automation){: target="\_blank"}.
+Read more about [Checklist Automation ↗](/automation/){:target="\_blank"} and specifically how to [add a scedule to a template ↗](/automation/#template-automation){: target="\_blank"}.
 
 To try out a schedule template, create one (following the instructions above) and then click the "Automation" button followed by "Add Schedule".
 
