@@ -37,11 +37,11 @@ Below is the list of currently available Views. We are working on additional vie
 
 At the top of the Checklist Page is the View Selector:
 
-![](/assets/images/checklists/checklist-page-view-selector.png)
+![Checklist page view selector](/assets/images/checklists/checklist-page-view-selector.png)
 
 Clicking on it will open the following menu:
 
-![](/assets/images/checklists/checklists-view-selector-open.png)
+![Checklist page view menu selector](/assets/images/checklists/checklists-view-selector-open.png)
 
 You can do any of the following:
 
@@ -57,7 +57,7 @@ Note: the View Selector is for Checklist Owners and is not available to other us
 
 The Checklist View is the simplest view, yet it is very powerful. It provides you with a To Do like view to your checklist:
 
-![](/assets/images/checklists/checklist-checklist-view.png)
+![Checklist View](/assets/images/checklists/checklist-checklist-view.png)
 
 Read move about the [Checklist View](/checklists/checklist-view).
 
@@ -65,7 +65,7 @@ Read move about the [Checklist View](/checklists/checklist-view).
 
 The Table view allows you add additional columns to your checklist and display them in a table format. You can add, remove, hide and customize the type of columns per checklist:
 
-![](/assets/images/checklists/checklist-table-view.png)
+![Table View](/assets/images/checklists/checklist-table-view.png)
 
 Read move about the [Table View](/checklists/table-view).
 
@@ -73,6 +73,14 @@ Read move about the [Table View](/checklists/table-view).
 
 The Form View is used together with a checklist template. It allows you to create a set of questions that need to be followed in order to complete the checklist. Those questions can be as simple as ticking off a checklist or move complex like answering text questions, setting a date or uploading a file.
 
-![](/assets/images/checklists/checklist-form-view.png)
+![Form View](/assets/images/checklists/checklist-form-view.png)
 
 Read move about the [Form View](/checklists/form-view).
+
+### Play View
+
+The Form view is used together with a checklist. It allows you to create a set of questions that need to be followed in order to complete the checklist and is similar to the Form View (see above). The difference is that in Play view, the user is in Focus mode (i.e. no surrounding Interface) and each task is shown one at a time.
+
+![Play View](/assets/images/views/play-view2.gif){: .image-medium}
+
+Read move about the [Play View](/checklists/play-view).
