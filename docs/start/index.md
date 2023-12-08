@@ -94,9 +94,9 @@ You can then share the form with your customers (email, QR Code on embed on your
 
 You can then manage the responses: prioritize then, assign to team members, add notes, attachments, etc. Or export them.
 
-Example Use cases: [contact us ↗](https://checklist.com/forms/contact){:target="\_blank"}, [volunteer signup ↗](https://checklist.com/forms/volunteer-signup){:target="\_blank"}, [customer feedback ↗](https://checklist.com/forms/customer-feedback){:target="\_blank"}, [event registration ↗](https://checklist.com/forms/event-registration){:target="\_blank"}, lead generation
+Example Use cases: [contact us ↗](https://checklist.com/forms/contact "Online Contact Us Form Builder"){:target="\_blank"}, [volunteer signup ↗](https://checklist.com/forms/volunteer-signup "Onlined Volunteer Signup Form"){:target="\_blank"}, [customer feedback ↗](https://checklist.com/forms/customer-feedback "Online Customer Feedback Form"){:target="\_blank"}, [event registration ↗](https://checklist.com/forms/event-registration "Online Event Registration Form Builder"){:target="\_blank"}, lead generation
 
-Getting started with Form2Task: Visit our [Contact Us ↗](https://checklist.com/forms/contact){:target="\_blank"} template and click on the "Use Template" button. You can then customize the form to your needs.
+Getting started with Form2Task: Visit our [Contact Us ↗](https://checklist.com/forms/contact "Contact Us Form"){:target="\_blank"} template and click on the "Use Template" button. You can then customize the form to your needs.
 
 ## Get Started
 
