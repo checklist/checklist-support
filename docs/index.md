@@ -20,6 +20,10 @@ Increase your productivty and boost your checklists with Automation. Automate re
 ## How to Read
 You can follow the steps as shown in the menu to the left and read page by page or just to the section you are interested in.
 
+## Get Started
+
+Get started with a checklist to fit your needs by following our [Starting with Checklist](/start) guide.
+
 ## Question & Feedback
 We are always interested to hear from you. Whether we got something wrong, you have a question or you simply want to give us a high five. 
 
