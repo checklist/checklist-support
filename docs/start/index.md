@@ -78,27 +78,27 @@ Your checklist templates can be automatically scheduled to be "triggered" (i.e. 
 
 Example Use cases: store opening, store closing, restaurant health inspection, fire inspection, security audit
 
-Read more about [Checklist Automation ↗](/automation/){:target="\_blank"} and specifically how to [add a scedule to a template ↗](/automation/#template-automation){: target="\_blank"}.
+Read more about [Checklist Automation ↗](/automation/){:target="\_blank"} and specifically how to [add a schedule to a template ↗](/automation/#template-automation){: target="\_blank"}.
 
 To try out a schedule template, create one (following the instructions above) and then click the "Automation" button followed by "Add Schedule".
 
 ## Form2Task
 
-"Form To Task" is a great way to collect responses from your customers and have them automatically turned into tasks for further handling by your team. We have a simple yet powerful Online Form Builder letting you define the online form. For example:
+"Form To Task" is a great way to collect responses from your customers and automatically turn them into tasks for further handling by your team. We offer a simple yet powerful Online Form Builder that allows you to define the online form. For example:
 
-![Voluteer Signup Online Form](/assets/images/start/form-2-task-form.png){: .image-medium}
+![Volunteer Signup Online Form](/assets/images/start/form-2-task-form.png){: .image-medium}
 
-You can then share the form with your customers (email, QR Code on embed on your site), and they can fill it out. Responses are automatically added to your checklist as a task row in the table:
+You can then share the form with your customers (via email, QR Code, or embed it on your site), and they can fill it out. Responses are automatically added to your checklist as a task row in the table:
 
 ![Checklist form responses in a table](/assets/images/start/form-2-task-table.png)
 
-You can then manage the responses: prioritize then, assign to team members, add notes, attachments, etc. Or export them.
+Manage the responses by prioritizing them, assigning them to team members, adding notes, attachments, or export them.
 
-Example Use cases: [contact us ↗](https://checklist.com/forms/contact "Online Contact Us Form Builder"){:target="\_blank"}, [volunteer signup ↗](https://checklist.com/forms/volunteer-signup "Onlined Volunteer Signup Form"){:target="\_blank"}, [customer feedback ↗](https://checklist.com/forms/customer-feedback "Online Customer Feedback Form"){:target="\_blank"}, [event registration ↗](https://checklist.com/forms/event-registration "Online Event Registration Form Builder"){:target="\_blank"}, lead generation
+Example Use cases: [contact us ↗](https://checklist.com/forms/contact "Online Contact Us Form Builder"){:target="\_blank"}, [volunteer signup ↗](https://checklist.com/forms/volunteer-signup "Online Volunteer Signup Form"){:target="\_blank"}, [customer feedback ↗](https://checklist.com/forms/customer-feedback "Online Customer Feedback Form"){:target="\_blank"}, [event registration ↗](https://checklist.com/forms/event-registration "Online Event Registration Form Builder"){:target="\_blank"}, lead generation
 
-Getting started with Form2Task: Visit our [Contact Us ↗](https://checklist.com/forms/contact "Contact Us Form"){:target="\_blank"} template and click on the "Use Template" button. You can then customize the form to your needs.
+Getting started with Form2Task: Visit our [Contact Us ↗](https://checklist.com/forms/contact "Contact Us Form"){:target="\_blank"} template and click on the "Use Template" button. Customize the form to your needs.
 
-## Get Started
+# Get Started
 
 So which checklist will you create today?
 
