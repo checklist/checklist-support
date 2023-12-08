@@ -7,8 +7,6 @@ parent: Checklists
 
 # Checklist Members
 
-{: .no_toc }
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -18,122 +16,112 @@ parent: Checklists
 {:toc}
 </details>
 
-When a checklist is created, the user creating it becomes its owner by default. If the checklist is created from a template or via automation (recipe), then the owner can be different.
+When creating a checklist, the user becomes its owner by default. Ownership can differ if the checklist is created from a template or via automation (recipe).
 
 ## Definitions
 
 ### Owners
 
-A checklist can be owned by one or more team members. It cannot be owned by a guest user.
-
-Checklist owners can make any change to the checklist, its meta (structure) or its content.
+A checklist can be owned by one or more team members, excluding guest users. Owners have complete control over the checklist, including its structure (meta) and content.
 
 ### Members
 
-Checklist owners can invite other users to collaborate on a checklist. They become Checklist Members. Members don't have the same rights as Owners. They are limited by the "Permissions" setting for the checklist (see below).
+Checklist owners can invite others, turning them into Checklist Members. Members have limited rights based on the "Permissions" setting for the checklist (see below).
 
 ## Permissions
 
-Checklist Permissions can be used to limit what Checklist Members are able to do with the checklist. They do NOT limit Checklist Owners
+Checklist Permissions limit what Checklist Members can do with the checklist, but they do not restrict Checklist Owners.
 
 The four permission levels are:
 
-- All
-- Content
-- Assign
-- View
+- **All:** Members have the same actions as owners.
+- **Content:** Members can only change the checklist's content, excluding meta, name, and settings.
+- **Assign:** Members can only modify tasks assigned to them.
+- **View:** Members can only view the checklist without making changes.
 
-The default permissions level for a newly created checklist is "Content".
-
-See the different levels description below:
+See the description of each level below:
 
 ### All
 
-If the checklist has the "All" permission then checklist members are virtually the same as owners: they can perform the same actions as owners.
+Members with "All" permission can perform actions equivalent to owners.
 
 ### Content
 
-When a checklist has the permission "Content" then checklist members can only make changes to the **content** of the checklist. They:
+When a checklist has the "Content" permission, checklist members can only make changes to the **content** of the checklist. Specifically, they:
 
-- Cannot change the checklist meta (columns)
-- Cannot change the checklist name
-- Cannot make changes to any of the checklist settings
-- Cannot delete the checklist
-- Cannot create a template from the checklist
-- Cannot create automations
-- Cannot change the Checklist View (they can only view the default view of the checklist)
-- Cannot manage team members other than remove themselves
-- Changes they make to the sort order or filtering are only applicable to them
+- Cannot change the checklist meta (columns).
+- Cannot change the checklist name.
+- Cannot make changes to any of the checklist settings.
+- Cannot delete the checklist.
+- Cannot create a template from the checklist.
+- Cannot create automations.
+- Cannot change the Checklist View; they can only view the default view of the checklist.
+- Cannot manage team members, except for removing themselves.
+- Changes they make to the sort order or filtering are only applicable to them.
 
 ### Assign
 
-When a checklist has the "Assign" permission then the checklist members can only make changes to the content of tasks assigned to them. All other actions are not available to them.
-
-Members can still remove themselves from the checklist.
+Members with "Assign" permission can only modify tasks assigned to them. All other actions are restricted.
 
 ### View
 
-When a checklist has the "View" permission then the checklist members can only view the checklist and make **no** changes to it.
-
-Members can still remove themselves from the checklist.
+Members with "View" permission can only view the checklist without making changes.
 
 ## View Checklist Members
 
-To view the checklist members, click on the "Checklist Members" button at the top right of the screen:
+To view checklist members, click on the "Checklist Members" button at the top right of the screen:
 
 ![Checklist Members list](/assets/images/checklists/checklist-members-open.png)
 
-The Checklist Members dialog will open:
+The Checklist Members dialog will display:
 
 ![Checklist Members dialog](/assets/images/checklists/checklist-members.png)
 
-At the top you can see who already are members of the checklist. Owners are marked with a checked box.
+At the top, see existing members, marked with a checkbox if they are owners.
 
-Below it you will find the permissions of the checklist followed by a drop down to add more members from the team.
+Below, find checklist permissions followed by a drop-down to add more members from the team.
 
-Note: if you are not an owner of a checklist, you will not see the Checklist Members button. To remove yourself from a checklist, simply click on the Delete Checklist button from the Checklist Menu.
+Note: Non-owners won't see the "Checklist Members" button. To remove yourself, click "Delete Checklist" in the Checklist Menu.
 
-## Adding members
+## Adding Members
 
-To add a member to the checklist, you must be a checklist owner. Open the Checklist Members dialog and click on the "Add a Checklist Member" drop down to see which team members are not yet members and can be added:
+To add a member, be a checklist owner. Open the Checklist Members dialog and click "Add a Checklist Member" to see available team members:
 
 ![Add a Checklist member](/assets/images/checklists/checklist-add-member.png)
 
-You can also add the whole team as a member. This will allow anyone in the team (except for guests) to become members.
+Add the entire team as members, allowing any team member (except guests) to join.
 
-Once added, the member can be seen in the members list:
+Once added, the member appears in the list:
 
 ![Checklist member added](/assets/images/checklists/checklist-member-added.png)
 
-## Removing members
+## Removing Members
 
-To remove a member from a checklist, you must be a checklist owner. If you are trying to remove yourself, there must be another checklist owner (otherwise the checklist will become an orphan).
+To remove a member, be a checklist owner. If you're removing yourself, ensure another owner exists to prevent orphaning the checklist.
 
-Open the Checklist Members dialog and click on the Trash icon next to the member you wish to remove:
+Open the Checklist Members dialog and click the Trash icon next to the member to remove:
 
 ![Checklist member remove](/assets/images/checklists/checklist-member-remove.png)
 
-The member will be removed and will be added to the "Add a member" dropdown in case you change your mind and we to add them again.
+The member is removed and added to the "Add a member" dropdown in case of a change of mind.
 
 ## Updating Ownership
 
-To manage checklist ownership, you must be an owner yourself. Open the Checklist Members dialog:
+To manage ownership, be an owner. Open the Checklist Members dialog:
 
 ![Set checklist owner](/assets/images/checklists/checklist-owner-manage.png)
 
-### Adding an owner
+### Adding an Owner
 
-To make an existing member into an owner, simply check its "Owner" checkbox.
+To make a member an owner, check the "Owner" checkbox.
 
-### Removing an owner
+### Removing an Owner
 
-To make an existing owner into a member, simply uncheck its "Owner" checbox.
+To make an owner a member, uncheck the "Owner" checkbox. If there's only one owner, their checkbox will be disabled to avoid orphaning the checklist.
 
-Note that if there is only one owner for the checklist, that owner's checkbox will be disabled (grayed out) to avoid making the checklist an orphan.
+## Setting Permissions Level
 
-## Setting Permissions level
-
-To change the permissions level of a checklist you must be an owner of the checklist. Open the Checklist Members dialog and click on the members permissions dropdown:
+To change the permissions level, be an owner. Open the Checklist Members dialog and click on the members' permissions dropdown:
 
 ![Set checklist permissions](/assets/images/checklists/checklist-permissions-open.png)
 
