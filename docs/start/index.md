@@ -36,7 +36,7 @@ A checklist with tasks to check off:
 
 Starts simple but is very powerful! This view also offers: subtasks, notes, attachments, due dates, reminders, sharing, assigning and more.
 
-Example Use cases: [House moving ↗](https://checklist.com/moving-checklist){:target="\_blank"}, [Business statup ↗](https://checklist.com/business-startup-checklist){:target="\_blank"}, [Event ↗](https://checklist.com/event){:target="\_blank" title="Event Checklist"}, [Cleaning](https://checklist.com/cleaning){:target="\_blank" title="Cleaning Checklist"}
+Example Use cases: [House moving ↗](https://checklist.com/moving-checklist){:target="\_blank"}, [Business statup ↗](https://checklist.com/business-startup-checklist){:target="\_blank"}, [Event ↗](https://checklist.com/event-checklist "Event Checklist"){:target="\_blank"}, [Cleaning](https://checklist.com/cleaning-checklist "Cleaning Checklist"){:target="\_blank"}
 
 Read more on [List View](/checklists/checklist-view) or get started by customizing our [Daily to do ↗](https://checklist.com/daily-to-do-list){:target="\_blank"} template (you can play around with the list and customize it to your needs).
 
@@ -50,7 +50,7 @@ Task can have different fields (in columns) such as notes, assignees, attachment
 
 Example Use cases: Project Task Tracking and Assigning, Inventory management, Product development, CRM (lead management)
 
-Read more on [Table View](/views/table-view/)
+Read more on [Table View](/checklists/table-view/)
 
 ## Checklist Template
 
@@ -68,7 +68,7 @@ Here’s what playing the list looks like:
 
 Example Use cases: [Employee onboarding ↗](https://checklist.com/employee-onboarding-checklist "Employee onboarding Checklist"){:target="\_blank"}, [Office Cleaning ↗](https://checklist.com/office-cleaning-checklist "Office Cleaning Checklist"){:target="\_blank"}, [SEO ↗](https://checklist.com/seo-checklist "SEO Checklist"){:target="\_blank"}, [Vehicle Inspection ↗](https://checklist.com/vehicle-inspection-checklist "Vehicle Insepection Checklist"){:target="\_blank"}
 
-Read more on [Checklist Templates ↗](/templates/templates) or get started by customizing our [Store Opening & Closing Checklist ↗](https://checklist.com/retail-store-opening-closing-checklist){:target="\_blank"} template (click on the Save as Template button to save it as your own template and then play around with it). Don't forget to Trigger it so that you can play it (i.e. follow the steps).
+Read more on [Checklist Templates](/templates/templates) or get started by customizing our [Store Opening & Closing Checklist ↗](https://checklist.com/retail-store-opening-closing-checklist){:target="\_blank"} template (click on the Save as Template button to save it as your own template and then play around with it). Don't forget to Trigger it so that you can play it (i.e. follow the steps).
 
 ## Scheduled Template
 
