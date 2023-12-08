@@ -64,7 +64,7 @@ Once you have a template, you (or authorized member of your team) can easily tri
 
 Here’s what playing the list looks like:
 
-![Checklist Template Editor](/assets/images/views/play-view2.gif)
+![Checklist Template Editor](/assets/images/views/play-view2.gif){: .image-medium}
 
 Example Use cases: [Employee onboarding ↗](https://checklist.com/employee-onboarding-checklist "Employee onboarding Checklist"){:target="\_blank"}, [Office Cleaning ↗](https://checklist.com/office-cleaning-checklist "Office Cleaning Checklist"){:target="\_blank"}, [SEO ↗](https://checklist.com/seo-checklist "SEO Checklist"){:target="\_blank"}, [Vehicle Inspection ↗](https://checklist.com/vehicle-inspection-checklist "Vehicle Insepection Checklist"){:target="\_blank"}
 
