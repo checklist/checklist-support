@@ -36,7 +36,7 @@ A checklist with tasks to check off:
 
 Starts simple but is very powerful! This view also offers: subtasks, notes, attachments, due dates, reminders, sharing, assigning and more.
 
-Use cases: [House moving](https://checklist.com/moving){:target="\_blank"}, [Business statup](https://checklist.com/business-startup-checklist){:target="\_blank"}, [Daily to do](https://checklist.com/daily-to-do-list){:target="\_blank"}, [Event](https://checklist.com/event){:target="\_blank"}, [Cleaning](https://checklist.com/cleaning){:target="\_blank"}
+Example Use cases: [House moving](https://checklist.com/moving){:target="\_blank"}, [Business statup](https://checklist.com/business-startup-checklist){:target="\_blank"}, [Daily to do](https://checklist.com/daily-to-do-list){:target="\_blank"}, [Event](https://checklist.com/event){:target="\_blank"}, [Cleaning](https://checklist.com/cleaning){:target="\_blank"}
 
 ## Table View
 
@@ -46,7 +46,7 @@ This view displays your checklist in a table format:
 
 Task can have different fields (in columns) such as notes, assignees, attachments, emails, URLs, etc. You have complete control over the fields you want to add to your table.
 
-Use cases: Project Task Tracking and Assigning, Inventory management, Product development, CRM (lead management)
+Example Use cases: Project Task Tracking and Assigning, Inventory management, Product development, CRM (lead management)
 
 ## Checklist Template
 
@@ -62,7 +62,7 @@ Here’s what playing the list looks like:
 
 ![Checklist Template Editor](/assets/images/views/play-view2.gif)
 
-Use cases: [Employee onboarding](https://checklist.com/employee-onboarding-checklist "Employee onboarding Checklist"){:target="\_blank"}, [Office Cleaning](https://checklist.com/office-cleaning-checklist "Office Cleaning Checklist"){:target="\_blank"}, [SEO](https://checklist.com/seo-checklist "SEO Checklist"){:target="\_blank"}, [Vehicle Inspection](https://checklist.com/vehicle-insepction-checklist "Vehicle Insepection Checklist"){:target="\_blank"}
+Example Use cases: [Employee onboarding](https://checklist.com/employee-onboarding-checklist "Employee onboarding Checklist"){:target="\_blank"}, [Office Cleaning](https://checklist.com/office-cleaning-checklist "Office Cleaning Checklist"){:target="\_blank"}, [SEO](https://checklist.com/seo-checklist "SEO Checklist"){:target="\_blank"}, [Vehicle Inspection](https://checklist.com/vehicle-inspection-checklist "Vehicle Insepection Checklist"){:target="\_blank"}
 
 ## Scheduled Template
 
@@ -70,7 +70,7 @@ Your checklist templates can be automatically scheduled to be "triggered" (i.e. 
 
 ![Checklist Template Schedule](/assets/images/start/start-template-schedule.png){: .image-medium}
 
-Use cases: store opening, store closing, restaurant health inspection, fire inspection, security audit
+Example Use cases: store opening, store closing, restaurant health inspection, fire inspection, security audit
 
 ## Form2Task
 
@@ -84,7 +84,7 @@ You can then share the form with your customers (email, QR Code on embed on your
 
 You can then manage the responses: prioritize then, assign to team members, add notes, attachments, etc. Or export them.
 
-Use cases: [contact us](https://checklist.com/forms/contact){:target="\_blank"}, [volunteer signup](https://checklist.com/forms/volunteer-signup){:target="\_blank"}, [customer feedback](https://checklist.com/forms/customer-feedback){:target="\_blank"}, [event registration](https://checklist.com/forms/event-registration){:target="\_blank"}, lead generation
+Example Use cases: [contact us](https://checklist.com/forms/contact){:target="\_blank"}, [volunteer signup](https://checklist.com/forms/volunteer-signup){:target="\_blank"}, [customer feedback](https://checklist.com/forms/customer-feedback){:target="\_blank"}, [event registration](https://checklist.com/forms/event-registration){:target="\_blank"}, lead generation
 
 So which checklist will you create today?
 
