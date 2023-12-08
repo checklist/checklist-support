@@ -5,260 +5,212 @@ nav_order: 1
 parent: Checklist Views
 grand_parent: Checklists
 ---
+
 # Checklist View
 {: .no_toc }
 
-
 <details open markdown="block">
   <summary>
-    Table of contents
+    Table of Contents
   </summary>
   {: .text-delta }
 - TOC
 {:toc}
 </details>
 
-The Checklist View is the simplest view, yet it is very powerful. It provides you with a "To Do" like view to your checklist:
+The Checklist View is a simple yet powerful tool, offering a "To-Do" style interface for your checklist:
 
 ![Checklist View](/assets/images/checklists/checklist-checklist-view.png)
 
-On mobile the Checklist View looks as follows:
+On mobile, the Checklist View appears as follows:
 
 ![Checklist View on mobile](/assets/images/checklists/checklist-checklist-view-mobile.png)
 
 ## Adding Tasks
-At the top of the page is always the Add Task bar. Enter the name of the task you wish to add and either hit Enter or click on the + button to add your new task. 
+At the top of the page is the Add Task bar. Enter the task name and either press Enter or click the + button to add your new task. 
 
 Your new task is added:
-* at the top of the list if no task was selected
-* below the selected task (and then becomes selected itself)
+- At the top of the list if no task was selected.
+- Below the selected task (and then becomes selected itself).
 
-You can continue adding tasks by simply entering the task and hitting Enter repeatedly. Your tasks will be added one below the other.
+You can continue adding tasks by entering the task and pressing Enter repeatedly. Task names can be 1-500 characters long.
 
-Task names can be 1-500 characters long.
+### Multitask Adding
+To add multiple tasks at once, click on the Add Multi button:
 
-### Multitask adding
-If you want to add multiple tasks in one go, click on the Add Multi button:
+![Multi-task Adding](/assets/images/checklists/checklist-add-multi.png)
 
-![Multi task adding](/assets/images/checklists/checklist-add-multi.png)
+Enter one task per line. You can easily paste tasks from another document. To include subtasks, use a TAB at the start of the line for deep nesting.
 
-Enter one task per line. You can easily paste tasks from another document. Just keep one task per line.
+Tip: To add a note to your task, use a period (.) at the end of the task name and follow with the note, e.g., "Task name. Task note."
 
-If you want to include subtasks, use a TAB at the start of the line. You can have deep nesting by using multiple tabs at the start of the line.
+## Selecting Tasks
+Task selection is useful when adding tasks as the newly created task is added right below the selected task. Selected tasks have a gray background.
 
-Tip: to add a note to your task, simply use a period (.) at the end of the task name and follow with the note. For example, entering "Task name. Task note" will create a task with the name "Task Name" and its note will be "Task note".
+To select a task, click anywhere on it. To de-select a task, click on it again.
 
-## Selecting tasks
-Task selection is useful when adding tasks as the newly created task is added right below the selected task.
+## Editing Task Name
+To change the task name, click on it to enter "Edit Mode":
 
-Selected tasks have a gray background. In the screenshot above, you can see that Task 3 is selected. 
+![Edit Task Name](/assets/images/checklists/checklist-task-name-edit.png)
 
-To select a task simply click anywhere on it. Tasks you click on or interact with (e.g. edit name, drag or use their menu) become selected. 
+Make any changes required and press:
+- Enter to save your changes and exit "Edit mode."
+- ESC to exit "Edit Mode" without making any changes.
 
-To de-select a task simply click on it again.
+You can also click anywhere outside the textbox to save your changes and exit "Edit Mode."
 
-## Editing task name
-To change the task (i.e. its name), simply click on it to enter "Edit Mode":
-
-![Edit task name](/assets/images/checklists/checklist-task-name-edit.png)
-
-Make any changes required and hit either:
-* Enter to save your changes and exit "Edit mode"
-* ESC to exit "Edit Mode" without making any changes
-
-You can also click anywhere outside the textbox to save your changes and exit "Edit Mode".
-
-## Task menu
+## Task Menu
 The task menu:
-* on desktop - can be seen by hovering over the task with the mouse:
+- On desktop - can be seen by hovering over the task with the mouse:
 
 ![Task Menu](/assets/images/checklists/checklist-task-menu.png)
 
-* on mobile - can be opened by clicking on the three dots button on the right of each task
+- On mobile - can be opened by clicking on the three dots button on the right of each task:
 
-![Task menu on mobile](/assets/images/checklists/checklist-task-menu-mobile.png)
+![Task Menu on Mobile](/assets/images/checklists/checklist-task-menu-mobile.png)
 
-which opens to:
+Which opens to:
 
-![Task menu opened](/assets/images/checklists/checklist-task-menu-open-mobile.png)
+![Task Menu Opened](/assets/images/checklists/checklist-task-menu-open-mobile.png)
 
 ## Task Notes
 To further elaborate on a task, you can add Task Notes:
 
-![Task notes](/assets/images/checklists/checklist-task-notes.png)
+![Task Notes](/assets/images/checklists/checklist-task-notes.png)
 
-To a note to your task, click on the Notes button on the task menu:
+To add a note to your task, click on the Notes button on the task menu:
 
-![Task notes menu](/assets/images/checklists/checklist-task-notes-menu.png)
+![Task Notes Menu](/assets/images/checklists/checklist-task-notes-menu.png)
 
-If you wish to edit existing notes, you can also click on the notes themselves.
-
-In either case, the Notes dialog will open:
+If you wish to edit existing notes, you can also click on the notes themselves. The Notes dialog will open:
 
 ![Task Notes Dialog](/assets/images/checklists/checklist-task-notes-edit.png)
 
-## Deleting tasks 
-To delete a task click on the Delete button (Trashcan) on the task menu:
+## Deleting Tasks 
+To delete a task, click on the Delete button (Trashcan) on the task menu:
 
-![Delete tasks](/assets/images/checklists/checklist-task-delete-menu.png)
+![Delete Tasks](/assets/images/checklists/checklist-task-delete-menu.png)
 
 ## Subtasks
-Sometimes a task can (or should) be broken into a number of subtasks. Those subtasks can be further broken into more subtasks each. Theoretically, there is no limit but we recommend not going beyond 3 levels of subtasks as the User Interface becomes too complex (especially on mobile).
+Sometimes a task can (or should) be broken into a number of subtasks. To add a subtask to a parent task:
+- Select the parent task by clicking on it.
+- Add the subtask by using the Add Task bar (the subtask will be added just below the parent task).
+- From the Task menu of the subtask, click on the "subtask" button:
 
-To add a subtask to a parent task:
-* select the parent task by clicking on it
-* add the subtask by using the Add Task bar (the subtask will be added as a task just below the parent task)
-* from the Task menu of the subtask click on the "subtask" button:
-
-![Subtask menu](/assets/images/checklists/checklist-task-subtask-menu.png)
+![Subtask Menu](/assets/images/checklists/checklist-task-subtask-menu.png)
 
 To reverse this and make a subtask back to a task, use the "Unsubtask" button:
 
-![Unsubtask menu](/assets/images/checklists/checklist-task-unsubtask-menu.png)
+![Unsubtask Menu](/assets/images/checklists/checklist-task-unsubtask-menu.png)
 
-Note: the "subtask" and "unsubtask" buttons will be grayed out if they cannot be used at that level.
+Note: The "subtask" and "unsubtask" buttons will be grayed out if they cannot be used at that level.
 
-## Setting Due dates
-To keep on track, you can set useful due dates to your tasks. These due dates come with a notification (via email, reminder or the app) if your task did not get completed by the due date (or time).
+## Setting Due Dates
+To stay on track, you can assign due dates to your tasks. These due dates trigger notifications (via email, reminders, or the app) if your task remains incomplete by the specified due date or time.
 
-To set a due date, click on the Due Date button on the task menu:
+To set due dates for tasks, click on the Due Date button on the task menu:
 
-![Task due date menu](/assets/images/checklists/checklist-task-due-date-menu.png)
+![Task Due Date Menu](/assets/images/checklists/checklist-task-due-date-menu.png)
 
 This will open the "Due Date Quick Set" menu:
 
-![Due date Quick set menu](/assets/images/checklists/checklist-task-due-date-set.png)
+![Due Date Quick Set Menu](/assets/images/checklists/checklist-task-due-date-set.png)
 
-Click on the time you wish to set the due date for:
-* Now
-* +1 Hour
-* Tomorrow
-* +1 Week
-* +1 Month
-* Custom
+Click on the time you wish to set the due date for, such as Now, +1 Hour, Tomorrow, +1 Week, +1 Month, Custom, or "Clear" to remove an existing due date. Once set, you can see the due date on the task:
 
-or "Clear" to clear an existing due date. Once a due date is set, you can see it on the task:
+![Clear Due Date](/assets/images/checklists/checklist-task-due-date-done.png)
 
-![Clear due date](/assets/images/checklists/checklist-task-due-date-done.png)
+For a more granular/custom due date, click on the due date text (e.g., "in 7 days"), and the Due Date dialog will open. Set a date and time and click OK to confirm:
 
-If you wish to set a more granular / custom due date click on the due date text (e.g. "in 7 days") and the Due Date dialog will open. Set a date and a time and click OK to set:
-
-![Custom due date setting](/assets/images/checklists/checklist-task-due-date-custom.png)
+![Custom Due Date Setting](/assets/images/checklists/checklist-task-due-date-custom.png)
 
 ## Task Priority
-Not all tasks are born equal: some are more important than others. You can set a task priority by clicking Priority button on the task menu:
+Not all tasks are born equal. You can set a task priority by clicking the Priority button on the task menu:
 
 ![Task Priority](/assets/images/checklists/checklist-task-priority-menu.png)
 
 This will show the Priority menu:
 
-![Task priority menu](/assets/images/checklists/checklist-task-priority-menu-open.png)
+![Task Priority Menu](/assets/images/checklists/checklist-task-priority-menu-open.png)
 
-You can choose from:
-* low
-* medium
-* high
+Choose from:
+- Low
+- Medium
+- High
 
-Note - you can make changes to these priorities by visiting the [Table View](/checklists/table-view/) and making changes to the Priority column. You can add more priorities, edit, remove or change colors.
+You can make changes to these priorities by visiting the [Table View](/checklists/table-view/) and modifying the Priority column. You can add more priorities, edit, remove, or change colors. Once set, the task priority will be shown on the task:
 
-Once you have set your task priority it will be shown on the task:
+![Set Task Priority](/assets/images/checklists/checklist-task-priority-set.png)
 
-![Set task priority](/assets/images/checklists/checklist-task-priority-set.png)
-
-To remove a task priority, simply click on the existing priority on the Priority menu.
+To remove a task priority, click on the existing priority on the Priority menu.
 
 ## Assigning Tasks
-To improve productivity, you can share your workload with colleagues, customers, friends and family. Simply invite them as members of your checklist and then assign specific tasks to them. 
+To share your workload, and improve your productivity, you can assign tasks to colleagues, customers, friends, and family. To assign a task, click on the Assign button on the task menu:
 
-To assign a task, click on the Assign button on the task menu:
+![Task Assign](/assets/images/checklists/checklist-task-assign-menu.png)
 
-![Task assign](/assets/images/checklists/checklist-task-assign-menu.png)
+This will open the Assign dialog:
 
-This will open the assign dialog:
+![Task Assign Dialog](/assets/images/checklists/checklist-task-assign-open.png)
 
-![Task assign dialog](/assets/images/checklists/checklist-task-assign-open.png)
+Assign one or more persons to a task. You can also assign the entire team. Check to add a person to the assignees list. Uncheck to remove.
 
-You can assign one or more person to a task. You can also assign the entire team to the task. Check to add a person to the assignees list. Un-check to remove.
+To close the Assign dialog, press ESC or click anywhere outside the dialog. Once assigned, avatars will be shown on the task:
 
-To close the Assign dialog hit ESC or click anywhere outside on the page.
+![Task Assignment Set](/assets/images/checklists/checklist-task-assign-set.png)
 
-Once you have assigned someone to a task, their avatars will be shown on the task:
+Note: If people are already assigned to a task, you can open the Assign dialog by clicking on their avatars.
 
-![Task assignment set](/assets/images/checklists/checklist-task-assign-set.png)
+## Task Attachments
+Attach files to tasks, including images, PDFs, Word documents, or other file types. To attach a file, click on the Attach button on the task menu:
 
-Note: if you already have assigned people to a task, you can open the Assign dialog by simply clicking on their avatars.
-
-## Task attachments
-You can attach files to tasks. These can be images, pdf, word or other file types. 
-
-To attach a file, click on the Attach button on the Task menu:
-
-![Task attachment menu](/assets/images/checklists/checklist-task-attach-menu.png)
+![Task Attachment Menu](/assets/images/checklists/checklist-task-attach-menu.png)
 
 The Attach Dialog will open:
 
-![Task attach dialog](/assets/images/checklists/checklist-task-attach-open.png)
+![Task Attach Dialog](/assets/images/checklists/checklist-task-attach-open.png)
 
-You can either drag and drop a file on the drop zone or click on the dropzone to open the file navigator to file the file to attach. Once selected, the file will be uploaded to the cloud and you will see it below the dropzone. You can click on the link of the uploaded file to open it in a new tab. 
-
-To delete an already uploaded attachment, click on the Trash buton.
+Drag and drop a file on the drop zone or click on the drop zone to open the file navigator. Once selected, the file will be uploaded to the cloud, and you can click on the link to open it in a new tab. To delete an attachment, click on the Trash button.
 
 Click the Close button to close the dialog. If a task has an attachment, it will be shown on it:
 
-![Task attachment preview](/assets/images/checklists/checklist-task-attach-set.png)
+![Task Attachment Preview](/assets/images/checklists/checklist-task-attach-set.png)
 
-If you want to view your attachment, add new attachment or delete an existing attachment, click on the Attach icon or click Attach from the task menu.
+To view, add, or delete attachments, click on the Attach icon or click Attach from the task menu.
 
 ## Filtering Tasks
-By default, the Checklist View shows you all the tasks the checklist has. If you wish to filter which tasks should be shown, you can use the Filter menu:
+By default, the Checklist View shows all tasks. To filter tasks, use the Filter menu:
 
-![Checklist filter menu](/assets/images/checklists/checklist-filter-menu.png)
+![Checklist Filter Menu](/assets/images/checklists/checklist-filter-menu.png)
 
-On mobile, you need to click on the Sort/ Filter button to reveal the menu:
+On mobile, click on the Sort/Filter button to reveal the menu:
 
-![Checklist filter on mobile](/assets/images/checklists/checklist-sort-filter-menu-mobile.png)
+![Checklist Filter on Mobile](/assets/images/checklists/checklist-sort-filter-menu-mobile.png)
 
-The Filter menu has the following options:
-
-![Checklist filter options](/assets/images/checklists/checklist-filter-menu-open.png)
-
-* None - all tasks 
-* Open - tasks with the Open (unchecked) status 
-* Completed - tasks with the Completed (checked) status
-* Any Priority - tasks that have ANY priority
-* Low - tasks with  Low priority
-* Medium - tasks with  Medium priority
-* High - tasks with  High Priority
-* Any Due Date - tasks with any due date (which are not completed)
-* Today - tasks with a due date for today (which are not completed)
-* Past - tasks with a due date in the past (which are not completed)
-* Future - tasks with a due date in the future (which are not completed)
+Filter options include:
+- None: all tasks
+- Open: tasks with the Open (unchecked) status
+- Completed: tasks with the Completed (checked) status
+- Any Priority: tasks with ANY priority
+- Low, Medium, High: tasks with Low, Medium, or High priority
+- Any Due Date: tasks with any due date (not completed)
+- Today: tasks with a due date for today (not completed)
+- Past: tasks with a due date in the past (not completed)
+- Future: tasks with a due date in the future (not completed)
 
 ## Sorting Tasks
-By default, the Checklist View does not sort the tasks and they are shown in the manual order the user has added them. 
+By default, the Checklist View does not sort tasks. Manual sorting is available by dragging tasks. For automatic sorting, use the Sort menu:
 
-### Manual Sort
-To manually reorder tasks, simply drag the task from its current position and drop it in the newly desired position:
+![Checklist Automatic Sort Menu](/assets/images/checklists/checklist-sort-menu.png)
 
-![Checklist sorting](/assets/images/checklists/checklist-sort-dnd.png)
+On mobile, click on the Sort/Filter button to reveal the menu:
 
-Note: Manual reordering is disabled whenever you are using a Filter or have set a Sort order.
+![Checklist Sort Menu on Mobile](/assets/images/checklists/checklist-sort-filter-menu-mobile.png)
 
-### Automatic Sort
-If you wish to sort tasks automaticaly, you can use the Sort menu:
-
-![Checklist automatic sort menu](/assets/images/checklists/checklist-sort-menu.png)
-
-On mobile, you need to click on the Sort/ Filter button to reveal the menu:
-
-![Checklist sort menu on mobile](/assets/images/checklists/checklist-sort-filter-menu-mobile.png)
-
-The Sort menu has the following options:
-
-![Checklist sort menu options](/assets/images/checklists/checklist-sort-menu-open.png)
-
-* Manually - show according to user's manual sorting (Drag and Drop or entering order)
-* Alphabetically - up/ down
-* Priority - by priority up/ down
-* Status - by status up/ down
-* Due date - by due date up/ down
+Sort options include:
+- Manually: show according to user's manual sorting (Drag and Drop or entering order)
+- Alphabetically: up/down
+- Priority: by priority up/down
+- Status: by status up/down
+- Due date: by due date up/down
