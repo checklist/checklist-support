@@ -58,7 +58,7 @@ If you have a business process (i.e a set of defined tasks) that needs to be rep
 
 You start by defining the steps (tasks) that need to be followed. Each task can have a simple check or even a question that needs to be answered (e.g. text, number, URL, email, date). Use our simple Template editor to create your template:
 
-![Checklist Template Editor](/assets/images/templates/template-editor.png){: .image-large}
+![Checklist Template Editor](/assets/images/templates/template-editor.png){: .image-xl}
 
 Once you have a template, you (or authorized member of your team) can easily trigger it from the Dashboard) and assign it to the team or specific user to follow. See below about scheduling templates. The assigned user then needs to go through the checklist marking it as they progress. We call this: “playing” the list. Progress can be tracked by management.
 
