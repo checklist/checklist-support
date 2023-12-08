@@ -9,39 +9,40 @@ parent: Checklists
 
 <details open markdown="block">
   <summary>
-    Table of contents
+    Table of Contents
   </summary>
   {: .text-delta }
 - TOC
 {:toc}
 </details>
 
-Task types let you go beyond a simple checkbox for each task. You can also have additional fields of different types. Task types can be set:
-* Per checklist. In the Table view you can define multiple columns each of its own type. Then, each task of the checklist gets a column (field) of the defined type.
-* Per checklist task. In the Form view each task has its own type.
-* Per template task. When creating a checklist template, you can set a type for each task.
+Task types extend beyond a simple checkbox for each task, allowing for additional fields of different types. These types can be configured in various ways:
 
-Types (whether columns or fields) are optional: you do not have to set them if you don't need them.
+- Per checklist: In the Table view, multiple columns can be defined, each with its own type, and each task gets a column of the defined type.
+- Per checklist task: In the Form view, each task has its own type.
+- Per template task: When creating a checklist template, a type can be set for each task.
 
-Note: when using the Form view we are actually adding a column (field) called "answer". That way, you can easily switch from Form to Table view and see all your "answers" in one simply column.
+Types, whether columns or fields, are optional; you don't have to set them if not needed.
 
-The following describes each of the Task Types. To illustrate their usage, we have used their Form View format. The Table format is different but the concept is the same.
+Note: In the Form view, a column (field) called "answer" is added. This way, you can easily switch from Form to Table view and see all your "answers" in a single column.
+
+The following describes each of the Task Types, illustrated using their Form View format. The Table format is different, but the concept remains the same.
 
 ## Check
-A Check is the simplest type. Check or uncheck (open or completed respectively).
+A Check is the simplest type, allowing you to check or uncheck (mark as open or completed).
 
-When used in the Form view only the standard checkbox of the task is displayed:
+- In the Form view, only the standard checkbox of the task is displayed:
 
 ![Task Check Type](/assets/images/types/type-check.png)
 
-When used in Table View the column will include a checkbox.
+- In Table View, the column includes a checkbox.
 
 ## Choice
-The Choice type allows you to select an option from 2 or move options. By default, we create 2 options: OK and Not OK:
+The Choice type enables the selection of an option from two or more options. By default, two options are created: OK and Not OK.
 
 ![Task Choice Type](/assets/images/types/type-choice.png)
 
-In the Table View columns management, or the Template Task Details pane you can edit the different options. See how to manage the [Choice Options](/checklists/table-view/#choice-type)
+In Table View columns management or the Template Task Details pane, you can edit different options. See how to manage [Choice Options](/checklists/table-view/#choice-type).
 
 ## Text
 The Text type allows you to enter any text in one line:
@@ -54,7 +55,7 @@ The Long Text type allows you to enter any text in one or more lines:
 ![Task Long Text Type](/assets/images/types/type-longtext.png)
 
 ## Number
-The Number type limits the user input to numbers (whole or decimal):
+The Number type limits user input to numbers (whole or decimal):
 
 ![Task Number Type](/assets/images/types/type-number.png)
 
@@ -63,10 +64,10 @@ The Date & Time type lets a user enter a date followed by the time. Click anywhe
 
 ![Task Date Time Type](/assets/images/types/type-date-time.png)
 
-The Date / Time picker will open (see examples below).
+The Date/Time picker will open (see examples below).
 
 ## Date
-The Date type lets a user enter a Date. Click anywhere in the text box:
+The Date type lets a user enter a date. Click anywhere in the text box:
 
 ![Task Date Type](/assets/images/types/type-date.png)
 
@@ -75,11 +76,11 @@ The Date picker will open:
 ![Task Date Picker](/assets/images/types/type-date-picker.png)
 
 ## Time
-The Time type lets a user enter a Time of day. Click anywhere in the text box:
+The Time type lets a user enter a time of day. Click anywhere in the text box:
 
 ![Task Time Type](/assets/images/types/type-time.png)
 
-The time picker will open: 
+The Time picker will open:
 
 ![Task Time Picker](/assets/images/types/type-time-picker.png)
 
@@ -93,7 +94,7 @@ The URL type lets a user enter a URL (web link):
 
 ![Task Link Type](/assets/images/types/type-url.png)
 
-Note that http:// or https:// at the start of the link are optional.
+Note that http:// or https:// at the start of the link is optional.
 
 ## File (attachment)
 The File type lets a user attach one or more files to the task:
@@ -103,6 +104,6 @@ The File type lets a user attach one or more files to the task:
 The files can be of any type.
 
 ## Assign
-The Assign type let's a user select from a list of team users or the whole team:
+The Assign type lets a user select from a list of team users or the whole team:
 
 ![Task Assign Type](/assets/images/types/type-assign.png)
