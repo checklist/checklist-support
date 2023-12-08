@@ -7,7 +7,7 @@ nav_order: 2
 
 # Get Started with Checklist
 
-To begin, you need to create a free Checklist account. Simply visit [My Account](https://checklist.com/account){:target="\_blank"}, and sign in (create an account or log in if you haven't already). Return here once you've completed this step.
+To begin, you need to create a free Checklist account. Simply visit [My Account ↗](https://checklist.com/account){:target="\_blank"}, and sign in (create an account or log in if you haven't already). Return here once you've completed this step.
 
 For the next phase, let's identify your objectives. We've categorized different options to suit various use cases. Choose your scenario to learn more:
 
