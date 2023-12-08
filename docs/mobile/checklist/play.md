@@ -9,3 +9,5 @@ has_children: false
 # Play/ Form View
 
 The Play/ Form view allows you to run a business process as a checklist. For example an audit checklist.
+
+Read more about the [Play View](/checklists/play-view/).

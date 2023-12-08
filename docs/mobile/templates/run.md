@@ -10,11 +10,11 @@ has_toc: false
 # Template Trigger
 The true power of Checklist is in its ability to re-use previously created checklist templates over and over. Don't re-invent the wheel!
 
-"Triggering" a template creates a checklist which you (or anyone you assign it to) can use. It is mostly used in a business environment where you want to follow a particular business process. For example store opening checklist or [cleaning checklist ↗](https://checklist.com/cleaning-checklist){:target="\_blank"}. But you can also use it in a personal setting such as a [Travel Packing Checklist ↗](https://checklist.com/travel-checklist){:target="\_blank"}. Visit our [checklist templates ↗](https://checklist.com/templates){:target="\_blank"} to see more examples.
+"Triggering" a template creates a checklist that you (or anyone you assign it to) can use. It is mostly used in a business environment where you want to follow a particular business process. For example, a store opening checklist or [cleaning checklist ↗](https://checklist.com/cleaning-checklist){:target="\_blank"}. But you can also use it in a personal setting such as a [Travel Packing Checklist ↗](https://checklist.com/travel-checklist){:target="\_blank"}. Visit our [checklist templates ↗](https://checklist.com/templates){:target="\_blank"} to see more examples.
 
 To Trigger a template:
-* your or a team member must create the template
-* the template must be marked a star (Favorite)
+* you or a team member must create the template
+* the template must be marked as a star (Favorite)
 * you must have the Runner team role
 
 You can then visit the [Checklist Dashboard](/mobile/dashboard) and see a list of the available templates you can trigger. Click on the Trigger button (the running man) to open the Template Trigger dialog:
@@ -31,4 +31,4 @@ The checklist is assigned to the entire team by default. You can change that by 
 If the template has notes, those will be automatically inserted. Make any changes or additions you like. The created checklist will have those notes.
 
 ## Trigger
-Click on the Trigger button and the app will create the checklist. The created checklist will show up for any assigned member.
+Click on the Trigger button, and the app will create the checklist. The created checklist will show up for any assigned member.

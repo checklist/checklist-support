@@ -20,7 +20,7 @@ Tasks are the main building blocks of a Checklist. Read more about [tasks in Che
 {:toc}
 </details>
 
-To make changes to a task you can: check the checkbox, click to edit the task name or trigger additional actions by opening the task menu or swiping the task.
+To make changes to a task you can: check the checkbox, click to edit the task name, or trigger additional actions by opening the task menu or swiping the task.
 
 Swipe: You can swipe tasks left or right to reveal more actions:
 
@@ -30,16 +30,14 @@ To clarify what we mean by swipe directions:
 * Swipe Right: swipe from left TO right
 * Swipe Left:  swipe from right TO left
 
-
-Task menu: additional actions on a task can be perfomed by clicking on the task menu button. That is the button with 3 horizontal (on iOS) or vertical (on Android) dots. This will open the task menu. The actual options available depends on the checklist type and your permissions:
+Task menu: additional actions on a task can be performed by clicking on the task menu button. That is the button with 3 horizontal (on iOS) or vertical (on Android) dots. This will open the task menu. The actual options available depend on the checklist type and your permissions:
 
 ![Checklist Task Menu](/assets/images/mobile/task-menu.png)
-
 
 The following task actions are available:
 
 ## Status
-You can control the status of a task using its checkbox: check (completed) and uncheck (open). Note that once a task and all its siblings (i.e. on the same level) are completed, it parent task is also marked as completed. This goes up all the way to the checklist. If any subtask is open, then its parent task must also be open. Changing the status of a task will make all its children have the same status.
+You can control the status of a task using its checkbox: check (completed) and uncheck (open). Note that once a task and all its siblings (i.e. on the same level) are completed, its parent task is also marked as completed. This goes up all the way to the checklist. If any subtask is open, then its parent task must also be open. Changing the status of a task will make all its children have the same status.
 
 ## Name
 Click on the task name to start editing it. Hit 'done' to save. Note that it is not possible to have "new lines" in task names. This allows for easy editing. If you want text with paragraphs, enter it in the task notes.
@@ -63,7 +61,7 @@ Right swipe the task and click on the Zoom button (Green magnifying glass). Whil
 ![Checklist Task Zoom](/assets/images/mobile/checklist-zoom-subtask.png)
 
 ## Priority
-You can mark a task priority as: Low, Medium or High. Once selected, this priority is shown with a colored ! on the task itself (tip: click on the ! to change it directly without having to open the task menu):
+You can mark a task priority as: Low, Medium, or High. Once selected, this priority is shown with a colored ! on the task itself (tip: click on the ! to change it directly without having to open the task menu):
 
 ![Checklist Task Priority](/assets/images/mobile/task-priority.png)
 
@@ -93,13 +91,13 @@ Note: if you open the due date for a task which already has a set due date, you 
 Tip: click on the task due date icon to directly open the Due Date menu (without having to go through the Task Menu).
 
 ## Attachments
-You can add one or more attachment to a task. Click on the Attach option on the Task Menu to open the Attachments menu:
+You can add one or more attachments to a task. Click on the Attach option on the Task Menu to open the Attachments menu:
 
 ![Checklist Task Attachments](/assets/images/mobile/task-attachments.png)
 
 You can view any existing attachments by clicking on them. You can delete them by clicking on the Trash button to the right of the attachment. To add a new attachment you can either pick an existing file from your phone or take a picture using your phone camera. Once added, the attachment file will be available from the Attachments menu. 
 
-Tip: Directly clicking on the Attachment icon of a task will open the first attachment (if more than one) of the task bypassing the Attachments menu. 
+Tip: Directly clicking on the Attachment icon of a task will open the first attachment (if more than one) of the task bypassing the Attachments menu.
 
 ## Re-Order
 To re-order tasks, long press the Task Menu button and then drag the task up or down to the new desired place. Note that if the task being dragged has any subtasks, those will be hidden while dragging and then be revealed again once the task is dropped.

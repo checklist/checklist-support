@@ -9,9 +9,7 @@ has_children: false
 # Checklist Sort & Filter
 {: .no_toc }
 
-
 Sort & Filter your checklist view. Hide subtasks to focus on the big picture.
-
 
 <details open markdown="block">
   <summary>
@@ -32,7 +30,7 @@ Click on the menu button again to hide.
 Note: if you have any filters or sort options set, the color of the menu button will turn blue (active). 
 
 ## Sort
-By default checklists are sorted manually as you enter tasks. Tasks are added at the cursor position (the task which is grayed out) or at the top if no task is selected. You can manually re-order tasks by long pressing the task menu button and dragging the task up or down.
+By default, checklists are sorted manually as you enter tasks. Tasks are added at the cursor position (the task which is grayed out) or at the top if no task is selected. You can manually re-order tasks by long pressing the task menu button and dragging the task up or down.
 
 To automatically sort the tasks, use the Sort option:
 
@@ -47,6 +45,7 @@ You can sort by:
 For each one, you can select ascending or descending order.
 
 Note: when any sort order other than manual is selected, task re-ordering is disabled.
+
 ## Filter
 You can use the Filter option to only show tasks according to a certain criteria:
 
@@ -55,8 +54,8 @@ You can use the Filter option to only show tasks according to a certain criteria
 Select:
 * None - no filter set and all tasks will be shown
 * Status: open or completed
-* Priority: Low, Medium, High or with Any priority
-* Due date: Today, in the Past, in the Future or with Any set due date
+* Priority: Low, Medium, High, or with Any priority
+* Due date: Today, in the Past, in the Future, or with Any set due date
 
 Note: when a filter is turned on, task manual re-ordering is disabled.
 
