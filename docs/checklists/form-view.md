@@ -18,15 +18,15 @@ grand_parent: Checklists
 {:toc}
 </details>
 
-In certain situations, merely checking off tasks may not suffice; you might also want to collect data as users progress through a list. This is where the "Form View" proves valuable. You can define various "task types" within this view. For example, the checklist below prompts users to choose from different options, enter text, assign tasks to users, and input a URL:
+In specific scenarios, simply checking off tasks may not be sufficient; you may also want to gather data as users progress through a list. This is where the "Form View" becomes invaluable. Within this view, you can define various "task types." For instance, the checklist below prompts users to choose from different options, enter text, assign tasks to users, and input a URL:
 
 ![Checklist Form View](/assets/images/checklists/checklist-form-view.png)
 
-The Form View is specifically designed to work with a checklist template and is applicable only to checklists created from templates.
+The Form View is tailored to work with a checklist template and is only applicable to checklists created from templates.
 
 Learn more [about templates](/templates).
 
-By default, the Form view is not set for standard checklists; owners can configure which views are available for each checklist. Members who are not owners will not see the View Selector widget, and the Form View will load for them by default.
+By default, the Form view is not set for standard checklists; owners can configure which views are available for each checklist. Members who are not owners won't see the View Selector widget, and the Form View will load for them by default.
 
 ## Tasks
 Each task is presented on its own card, expandable by clicking the down arrow at the top right:
