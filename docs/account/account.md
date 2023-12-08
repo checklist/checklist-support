@@ -62,7 +62,7 @@ We use names for communication purposes. Please use a name your contacts will re
 
 ![Checklist Login](/assets/images/account/login.png)
 
-Click Register, receive a confirmation link via email, and click it to confirm your account. Now you can log in at [https://app2.checklist.com](https://app2.checklist.com){:target="\_blank"}.
+Click Register, receive a confirmation link via email, and click it to confirm your account. Now you can [log in ↗](https://app2.checklist.com){:target="\_blank"}.
 
 ## Reset Password
 

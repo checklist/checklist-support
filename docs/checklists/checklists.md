@@ -38,7 +38,7 @@ Once the checklist is created, the app will navigate to it.
 
 ### Create a checklist from a template
 
-If you wish to create a checklist from a template, click on the "Browse Checklist Templates". This will open the [Checklist ↗](https://checklist.com/templates){:target="\_blank"} website where you can browse and search our database of checklist templates and choose any of them to create your checklist from.
+If you wish to create a checklist from a template, click on the "Browse Checklist Templates". This will open the [Checklist Templates↗](https://checklist.com/templates){:target="\_blank"} website where you can browse and search our database of checklist templates and choose any of them to create your checklist from.
 
 ## The Checklist Page
 
@@ -81,7 +81,7 @@ Note that the available viewers may depending on the settings defined by the che
 
 ## Checklist Members
 
-To view and manage the members of a checklist use the Checklist Members button. Read more about [Checklist Members](/checklist/checklist-members).
+To view and manage the members of a checklist use the Checklist Members button. Read more about [Checklist Members](/checklists/checklist-members/).
 
 ## Checklist Automations
 
@@ -133,7 +133,7 @@ Click Confirm and let our app process your request and show you the confirmation
 
 If you wish to edit the template right away, click on the EDIT shortcut on the message and the Template Editor will open.
 
-Read more about [Checklist Templates](/templates).
+Read more about [Checklist Templates](/templates/templates/).
 
 ## Publish Checklist
 
@@ -153,7 +153,7 @@ Note: if you unpublish and publish the checklist a new link will be generated an
 
 ## Embed Your Checklist
 
-You can [Publish a Checklist](#publish-Checklist) and then embed it on your site. On the published checklist, click on the Embed button:
+You can [Publish a Checklist](#publish-checklist) and then embed it on your site. On the published checklist, click on the Embed button:
 
 ![Published Checklist](/assets/images/checklists/checklist-published.png)
 
