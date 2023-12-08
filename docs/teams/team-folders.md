@@ -4,6 +4,7 @@ title: Team Folders
 nav_order: 2
 parent: Teams
 ---
+
 # Team Folders
 {: .no_toc }
 
@@ -31,9 +32,9 @@ To add a folder, navigate to the team and click on the New Folder button:
 
 ![](/assets/images/teams/folders-add.png)
 
-A dialog will open in which you can set the name of the new folder. Click the Create button and the folder wil be added.
+A dialog will open in which you can set the name of the new folder. Click the Create button and the folder will be added.
 
-Note: a folder name must be 3-30 alphnumeric characters. Spaces are allowed.
+Note: a folder name must be 3-30 alphanumeric characters. Spaces are allowed.
 
 ## Rename Folder
 To rename a folder, simply click on the pencil icon:
@@ -59,7 +60,7 @@ To delete a folder, click on the trash button and confirm:
 Note: any checklists or templates in the deleted folder do NOT get deleted. They are simply moved into the Uncategorized folder below all other folders.
 
 ## Checklist Folders
-Once you have setup your folders, you can navigate to the Checklists page. On the left, in the blue section, you will see all your folders and checklists. 
+Once you have set up your folders, you can navigate to the Checklists page. On the left, in the blue section, you will see all your folders and checklists. 
 
 Initially, all checklists will be at the bottom. You can start dragging them one by one and dropping them on the desired folder. 
 
@@ -72,7 +73,7 @@ You are free to leave any checklist uncategorized if you wish to. It will simply
 You can also reorder checklists within a Folder by dragging it up or down within the desired folder.
 
 ## Template Folders
-Once you have setup your folders, you can navigate to the Templates page. The page sorts the templates by folder. 
+Once you have set up your folders, you can navigate to the Templates page. The page sorts the templates by folder. 
 
 Initially, the templates will be at the bottom of the screen below the folders. Simply drag a template onto the correct folder and drop it. You are free to leave any template uncategorized if you wish to. 
 
@@ -81,6 +82,5 @@ You can also reorder templates within a folder by dragging it up or down within 
 Here is what the template folders can look like:
 
 ![](/assets/images/teams/folders-templates.png)
-
 
 Any checklist generated from a template will be automatically placed in the same folder as the template.

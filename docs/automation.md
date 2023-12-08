@@ -55,7 +55,7 @@ The following functionality is available:
 
 ## Template Automation
 
-With Template Automations you can set a regular schedule for the template to be "triggered" and a checklist created from it.
+With Template Automations, you can set a regular schedule for the template to be "triggered" and a checklist created from it.
 
 To add a schedule, click on the Automation button of the template (see [Scheduling Templates](/templates/templates/#scheduling-templates)). The Automation page will open with the name of the template at the top and an Add Schedule button. Clicking on it will open the Scheduling dialog:
 
@@ -72,7 +72,7 @@ You can set the name of the checklist created. You can use dynamic fields which 
 - ${now.time} - current time
 - ${fields.1} - TBD
 
-For example, if your template is name "Corona Daily" and the Trigger name is "{template.name} {fields.1} - {now.date} at {now.time}" then the system will replace when creating the checklist and the resulting name will be: "Corona Daily - Jan 25, 2021 at 14:19 pm".
+For example, if your template is named "Corona Daily" and the Trigger name is "{template.name} {fields.1} - {now.date} at {now.time}" then the system will replace when creating the checklist and the resulting name will be: "Corona Daily - Jan 25, 2021, at 14:19 pm".
 
 In most cases, you can simply leave this field as is.
 

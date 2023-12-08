@@ -4,6 +4,7 @@ title: Import/ Export
 nav_order: 3
 parent: Teams
 ---
+
 # Team Import/ Export
 {: .no_toc }
 
@@ -17,7 +18,7 @@ parent: Teams
 </details>
 
 ## Team Import
-To quickly get started with Checklist.com, use our Import feature. We support a number of productivty providers from which you can migrate your data. 
+To quickly get started with Checklist.com, use our Import feature. We support a number of productivity providers from which you can migrate your data. 
 
 You can also use the Import feature to import a previously exported Checklist.com data file (e.g. for backup or re-use).
 
@@ -28,7 +29,7 @@ To import data to your team, go to the Team page and scroll down to the Import s
 From the Import Source, select the source of the data you are importing (e.g. Checklist.com backup file). Then drop the import file onto the drop zone. Finally, choose what you wish to import (this might change depending on the source type):
 * Templates - only available for Checklist.com sources
 * Checklists
-* Files - only available for Checklsit.com sources
+* Files - only available for Checklist.com sources
 * Ignore Duplicates - when importing, we keep track of the source of the checklist/ template. Check this if you try to re-import the same file and want to avoid duplicates
 
 Click on the Import button to get started. We will upload the import file to our servers and process the import. Once completed, you will get an email with the import results.

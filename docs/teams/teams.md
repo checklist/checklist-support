@@ -40,7 +40,7 @@ Read [about team folders](/teams/folders/)
 
 ## Rename Team
 
-To change the name of a team, navigate to it and scroll down to the Adminstration section:
+To change the name of a team, navigate to it and scroll down to the Administration section:
 
 ![](/assets/images/teams/team-administration.png)
 
@@ -52,9 +52,9 @@ Only team admins can make changes to the team name.
 
 ## Timezone
 
-When the team is first created, it gets the organization's timezone. The team timezone is important for all time related matters (e.g. setting of automations triggers).
+When the team is first created, it gets the organization's timezone. The team timezone is important for all time-related matters (e.g. setting of automations triggers).
 
-You can always change the timezone of your team by visitng the team's page and scrolling down to the administration section. Then, click on the drop down of the timezone selector:
+You can always change the timezone of your team by visiting the team's page and scrolling down to the administration section. Then, click on the drop down of the timezone selector:
 
 ![](/assets/images/teams/team-timezone.png)
 
@@ -64,4 +64,4 @@ You can then scroll up or down to choose your timezone or start typing and selec
 
 To delete a team, navigate to it and scroll down to the Administration section. Then, click on the Delete Team button. You will get a confirmation dialog. Click on the Delete button to confirm.
 
-Warning: Deleting a team will delete any dependant resources such as its checklists, templates and automations. This cannot be undone!
+Warning: Deleting a team will delete any dependent resources such as its checklists, templates, and automations. This cannot be undone!
