@@ -22,7 +22,7 @@ You can follow the steps as shown in the menu to the left and read page by page 
 
 ## Get Started
 
-Get started with a checklist to fit your needs by following our [Starting with Checklist](/start) guide.
+Get started with a checklist to fit your needs by following our [Starting with Checklist](/start/) guide.
 
 ## Question & Feedback
 We are always interested to hear from you. Whether we got something wrong, you have a question or you simply want to give us a high five. 
