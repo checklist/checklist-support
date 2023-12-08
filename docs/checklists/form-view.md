@@ -5,60 +5,58 @@ nav_order: 3
 parent: Checklist Views
 grand_parent: Checklists
 ---
+
 # Form View
 {: .no_toc }
 
-
 <details open markdown="block">
   <summary>
-    Table of contents
+    Table of Contents
   </summary>
   {: .text-delta }
 - TOC
 {:toc}
 </details>
 
-Sometimes it is not sufficient to just check tasks off of a list. You would like to also collect data as users go through the list. This is where the "Form View" becomes useful. You can defined "task types". For example the following checklist asks the user to choose from different choicesm, enter text, assign to users and enter a URL:
+In certain situations, merely checking off tasks may not suffice; you might also want to collect data as users progress through a list. This is where the "Form View" proves valuable. You can define various "task types" within this view. For example, the checklist below prompts users to choose from different options, enter text, assign tasks to users, and input a URL:
 
 ![Checklist Form View](/assets/images/checklists/checklist-form-view.png)
 
-The Form View is used together with a checklist template. You can use it ONLY on checklists that were created from templates. 
+The Form View is specifically designed to work with a checklist template and is applicable only to checklists created from templates.
 
 Learn more [about templates](/templates).
 
-Checklist owners can set which view is available per checklist. By default, the Form view will not be set for standard checklists as it is only applicable to those created from templates. 
-
-Members who are not owners will not see the View Selector widget and the Form View will load for them by default.
+By default, the Form view is not set for standard checklists; owners can configure which views are available for each checklist. Members who are not owners will not see the View Selector widget, and the Form View will load for them by default.
 
 ## Tasks
-Each task is placed on its own card. The cards can be "opened" by clicking on the down arrow at the top right of the card:
+Each task is presented on its own card, expandable by clicking the down arrow at the top right:
 
 ![Task expanded](/assets/images/checklists/checklist-form-view-card-open.png)
 
 1. Task Status
-2. Task Name. If the task is marked as required, an asterisk (*) will be shown after it
-3. Task Answer - this depends on the task type. E.g. Choice, Date, File attachment
-4. Assigned - who is this task assigned to
-5. Open toggle - hide/ show the details part of the task (notes, updated by)
-6. Task Notes - these are notes **FOR** the person filling out the checklist
-7. Optional User Notes - these are notes **BY** the person completing the task
-8. Signature - Update by who and when
-9. Signature Avatar - The avatar of the person who last completed the task
+2. Task Name (marked with an asterisk (*) if required)
+3. Task Answer (depends on the task type, e.g., Choice, Date, File Attachment)
+4. Assigned To
+5. Open Toggle (hide/show task details)
+6. Task Notes (for the person filling out the checklist)
+7. Optional User Notes (notes by the person completing the task)
+8. Signature and Update Details
+9. Signature Avatar (of the person who last completed the task)
 
-Tasks which are not marked as required can also be marked as completed directly via their checkbox.
-
-Tasks which are marked as "required" (and are not of type Check) cannot be manually checked/ unchecked. The user must fill out the answer according to its type.
+Tasks marked as "required" (excluding Check type) cannot be manually checked/unchecked; users must provide an answer according to the task type.
 
 ## Subtasks
-It is possible to group a set of tasks together as subtasks (just like in other views). Subtasks are indented to the right. Sub-subtasks are indendent further and so on.
+Subtasks can be grouped together, with indentation indicating hierarchy.
 
 ## Propagation
-The template editor can mark the checklist with propagation up or down. This has the following effect:
-* Up. Once all subtasks of a task (or tasks of a checklist) are completed, the parent task is also marked as completed. This "propagates" all the way to the checklist itself which will be marked as completed if all its tasks are completed. If a task is marked as open, it will mark all its parents as open as well.
-* Down. A task which is marked as completed or open will change the status of all of its sub tasks.
+In the Form View, the template editor empowers the checklist with the ability to propagate completion status both upward and downward, influencing task and checklist statuses based on subtask completion.
 
-Note: for tasks which are required, propagation (UP and DOWN) will not have an effect as the task itself is required and an answer must be provided for it to be completed.
+### Up Propagation
+When all subtasks of a task (or tasks within a checklist) are marked as completed, the parent task is automatically flagged as completed. This effect cascades up to the checklist itself, marking it as completed when all tasks are fulfilled. If a task is in an "open" state, it influences its parent tasks to remain open as well.
 
-## Task Types
+### Down Propagation
+A task, when marked as completed or open, triggers a status change for all its subtasks.
+
+**Note:** For tasks marked as required, propagation (both upward and downward) has no effect, as these tasks necessitate an answer for completion.
 
 Read more [Task types](/checklists/task-types/)
