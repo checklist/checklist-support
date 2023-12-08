@@ -18,7 +18,7 @@ parent: Teams
 {:toc}
 </details>
 
-Invite colleagues, customers, suppliers, friends and family to collaborate with you on getting things done!
+Invite colleagues, customers, suppliers, friends, and family to collaborate with you on getting things done!
 
 Membership is always within the context of a Team (and not organization).
 
@@ -28,7 +28,7 @@ Once you have invited a user and they have accepted, you can fine-tune their acc
 
 To invite someone to be a team member, navigate to that team and scroll down to the "Invite a member" section:
 
-![](/assets/images/teams/members-invite.png)
+![Invite team members](/assets/images/teams/members-invite.png)
 
 Enter the email address of the person you wish to invite and hit the "Invite" button. We will send an invitation email to that person asking them to confirm. If they do not already have a Checklist account, they will be asked to first create one.
 
@@ -38,7 +38,7 @@ Once confirmed, they will be added to the team and shown on your team page.
 
 To view team members, navigate to the Team page and scroll down until you reach the "Team Members" section:
 
-![](/assets/images/teams/members-view.png)
+![View team members](/assets/images/teams/members-view.png)
 
 All team members, including those who are pending, will be shown in the table. Members who are still pending will only show their email address as they have not confirmed yet.
 
@@ -56,7 +56,7 @@ Non-admin users may remove themselves from the team even if they are not admins.
 
 To manage the roles of a specific member, navigate to the Team page and scroll down to the "Team Members" section. On the row of the member you wish to manage, click on the existing roles to open the roles dropdown:
 
-![](/assets/images/teams/members-roles.png)
+![Update member roles](/assets/images/teams/members-roles.png)
 
 Check or uncheck the roles you wish to change. When ready, click anywhere on the screen (or hit Esc) to close the dropdown.
 
@@ -89,11 +89,11 @@ Team editors have read/ write access to the team's templates. They can:
 
 ### Runner
 
-Team runners are responsible for triggering (running) templates manually. They can do so from the Dashboard where they can view all team templates which are marked with a "star". This is on both desktop and mobile apps.
+Team runners are responsible for triggering (running) templates manually. They can do so from the Dashboard where they can view all team templates that are marked with a "star". This is on both desktop and mobile apps.
 
 ### Guest
 
 Guests play a special role:
 
 - do not have access to the list of Team members (i.e., they cannot see who is on the team)
-- cannot have any other role other than guest
+- cannot have any other role other than a guest

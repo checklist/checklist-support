@@ -24,7 +24,7 @@ To view a template's settings, click on the Gear button on the template page (to
 
 Set which view type generated checklists will have. Read more about checklist [View Types](/checklists/checklist-views/):
 
-![](/assets/images/templates/template-settings-type.png)
+![Template settings type](/assets/images/templates/template-settings-type.png)
 
 Note: If you choose "Checklist" type, your tasks can only have the 'Check' type.
 
@@ -63,7 +63,7 @@ To download a copy of the template as PDF, click the button. Once the copy is ge
 
 A template can only be used by you or your team (when set to Team Sharing). You can also share the template with the Checklist community by publishing it. Published templates show up on checklist.com via a generated link. Click on 'Make Public' to publish the template and generate the link:
 
-![](/assets/images/templates/template-settings-publish.png)
+![Templates settings publish](/assets/images/templates/template-settings-publish.png)
 
 Click on the generated link to open the public template. You can also click on the Link button to copy the link and paste it elsewhere.
 

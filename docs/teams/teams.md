@@ -18,50 +18,50 @@ has_children: true
 {:toc}
 </details>
 
-Each Organization can have one or more teams. This allows you to divide your organization into departments, units etc. If you work alone, you can use your personal team (which was automatically created for you on sign up). A team can have: members, templates, checklists and automations.
+Each organization can have one or more teams, allowing you to organize your company into departments or units. Even if you work alone, you automatically have a personal team created for you on sign up. A team can consist of members, templates, checklists, and automations.
 
-For example, a hotel can have the following teams: Front desk, Housekeeping, Maintenance, Marketing & Finance.
+For example, a hotel might have the following teams: Front Desk, Housekeeping, Maintenance, Marketing & Finance.
 
 ## Viewing a Team
 
-To view your teams, click on the Teams button from the main menu (on the left of each screen):
+To view your teams, click on the Teams button in the main menu (on the left of each screen):
 
-![](/assets/images/organizations/organization-navigate.png)
+![Organization Main](/assets/images/organizations/organization-navigate.png)
 
-This will open the current team you are working on in the main section of the page.
+This opens the current team you are working on in the main section of the page.
 
-## Switching teams
+## Switching Teams
 
-If you wish to switch your work to a different team, follow the steps above to view a team and then, from the blue left section, click on the team you wish to switch to. You can then simply click on any of the main navigation buttons (left): Dashboard, Checklists, Templates and Automations.
+If you want to switch your work to a different team, follow the steps above to view a team and then, from the blue left section, click on the team you wish to switch to. You can then click on any of the main navigation buttons (left): Dashboard, Checklists, Templates, and Automations.
 
 ## Team Folders
 
-Read [about team folders](/teams/folders/)
+Learn more [about team folders](/teams/folders/).
 
 ## Rename Team
 
 To change the name of a team, navigate to it and scroll down to the Administration section:
 
-![](/assets/images/teams/team-administration.png)
+![Team Admin](/assets/images/teams/team-administration.png)
 
-Make the changes you wish to and hit the Rename button to confirm the change.
+Make the changes you wish and hit the Rename button to confirm the change.
 
 Only team admins can make changes to the team name.
 
-## Managing Team members
+## Managing Team Members
 
 ## Timezone
 
-When the team is first created, it gets the organization's timezone. The team timezone is important for all time-related matters (e.g. setting of automations triggers).
+When the team is first created, it inherits the organization's timezone. The team timezone is crucial for all time-related matters, such as setting automation triggers.
 
-You can always change the timezone of your team by visiting the team's page and scrolling down to the administration section. Then, click on the drop down of the timezone selector:
+You can change the timezone of your team by visiting the team's page and scrolling down to the Administration section. Then, click on the dropdown of the timezone selector:
 
-![](/assets/images/teams/team-timezone.png)
+![Team Timezone](/assets/images/teams/team-timezone.png)
 
-You can then scroll up or down to choose your timezone or start typing and selecting from the autocomplete options.
+Scroll up or down to choose your timezone or start typing and select from the autocomplete options.
 
 ## Deleting a Team
 
 To delete a team, navigate to it and scroll down to the Administration section. Then, click on the Delete Team button. You will get a confirmation dialog. Click on the Delete button to confirm.
 
-Warning: Deleting a team will delete any dependent resources such as its checklists, templates, and automations. This cannot be undone!
+Warning: Deleting a team will delete any dependent resources, such as its checklists, templates, and automations. This action cannot be undone!

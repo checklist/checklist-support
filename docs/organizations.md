@@ -29,13 +29,13 @@ You can still use Checklist individually without any sharing.
 
 To view your organization, click on the Teams button on the main navigation of the app (on the left side of the screen):
 
-![](/assets/images/organizations/organization-navigate.png)
+![View Organization](/assets/images/organizations/organization-navigate.png)
 
 Upon selection, you'll see a list of organizations or teams you belong to in the blue section. Choose the organization you want to view, and it will display in the main section of the screen.
 
 Only organization admins can view organization details or make changes to them:
 
-![](/assets/images/organizations/organization-admin.png)
+![Organization Admin](/assets/images/organizations/organization-admin.png)
 
 ## Plan
 
@@ -45,7 +45,7 @@ The organization's plan determines the features and quotas available. Read more 
 
 To change the organization's name, navigate to it and scroll down to the Rename Organization section:
 
-![](/assets/images/organizations/organization-rename.png)
+![Rename Organization](/assets/images/organizations/organization-rename.png)
 
 Modify the organization name and click the Rename button.
 
@@ -63,7 +63,7 @@ Organization admins can:
 
 To add or remove an admin, navigate to the Organization page and scroll down to the Administration section. In the Organization Admins selector, click the drop-down arrow to reveal all available users:
 
-![](/assets/images/organizations/organization-admins.png)
+![Organization Admins](/assets/images/organizations/organization-admins.png)
 
 Who can be an admin?
 
@@ -78,7 +78,7 @@ Upon creation, the organization adopts the same timezone as its owning user. Any
 
 To change the timezone of an organization, navigate to the Organization page and scroll down to the Administration section. Click the drop-down of the timezone selector:
 
-![](/assets/images/organizations/organization-timezone.png)
+![Organization Timezone](/assets/images/organizations/organization-timezone.png)
 
 Scroll up or down to choose your timezone or start typing and select from the autocomplete options.
 
@@ -98,7 +98,7 @@ You cannot delete the last organization you belong to.
 
 To add a team, navigate to the organization you wish to add it under and scroll down to the Administration section. Click the +Team button:
 
-![](/assets/images/teams/team-add.png)
+![Add team to organization](/assets/images/teams/team-add.png)
 
 The Create a new Team dialog will open. Set the name of the new team and click Create to confirm.
 
@@ -108,7 +108,7 @@ Note: Team names can be 3-30 alphanumeric characters, and spaces are allowed.
 
 If you need to add a new organization, click on the +Organization button:
 
-![](/assets/images/organizations/organization-add.png)
+![Add an organization](/assets/images/organizations/organization-add.png)
 
 A dialog will appear where you can set the name of the new organization you wish to create.
 

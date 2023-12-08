@@ -28,7 +28,7 @@ The task name is a required field which is set when a task is created. You can e
 
 You can add notes to your tasks. These can serve as additional information to the person using the checklist helping them better accomplish the task at hand. To add notes, click on the "Click to add task notes" link:
 
-![](/assets/images/templates/template-editor-task-notes.png)
+![Template editor task notes](/assets/images/templates/template-editor-task-notes.png)
 
 Click Save to confirm and save your notes. Click Cancel to discard your changes.
 
@@ -38,7 +38,7 @@ To make changes to existing notes, simply click them and enter Edit Mode.
 
 You can add a link to a task to provide users with additional information to complete the task. Click on 'Click to add a link' link to enter or edit the task Link:
 
-![](/assets/images/templates/template-editor-task-url.png)
+![Template editor task link](/assets/images/templates/template-editor-task-url.png)
 
 Enter the URL link and hit Enter to save it. If the link is not a valid URL, Checklist will not allow you to save it. Click Escape to disard your changes.
 
@@ -48,19 +48,19 @@ Once you have a link, and when not in Edit Mode, the task name will be "linkable
 
 If you are in Normal Mode (i.e. not Condensed) and the url links to supported media type (e.g image or video) the media will be shown between the task name and any notes. For example, in the following [vehicle inspection checklist ↗](https://checklist.com/vehicle-inspection-checklist){:target="\_blank"} the first task is used to inspect the VIN. We want to show the user an example VIN so that they can do a better job validating it:
 
-![](/assets/images/templates/template-editor-task-normal.png)
+![Template editor task normal](/assets/images/templates/template-editor-task-normal.png)
 
 ## Task Type
 
 You can view and make changes to the current task 'Type' via the Type Selector. Click on the existing Type to open the selector:
 
-![](/assets/images/templates/template-editor-task-type.png)
+![Template editor task type](/assets/images/templates/template-editor-task-type.png)
 
 Read more about [Task Types](/checklists/task-types/).
 
 If the select task type has additional settings (for example the Choice type has options), those will be displayed in Edit Mode for you to update:
 
-![](/assets/images/templates/template-editor-task-type-choice.png)
+![Template editor task choice type](/assets/images/templates/template-editor-task-type-choice.png)
 
 ## Required
 
@@ -72,7 +72,7 @@ Note: since the Check type does not have an answer, it is not possible to set it
 
 You can assign tasks to specific users in your team or the entire team. When the checklist is created from the template, the task will be assign to the assigned user(s). To set the Assignees click on 'Click to assign':
 
-![](/assets/images/templates/template-editor-task-assign.png)
+![Template editor assign task](/assets/images/templates/template-editor-task-assign.png)
 
 Any "checked" contacts will be assigned this task.
 
@@ -90,15 +90,15 @@ E.g. if you have an Office Opening template which is triggered daily at 09:30 an
 
 To set a due date, focus on the task and click on the 'set due date' link:
 
-![](/assets/images/templates/template-task-due-date.png)
+![Template editor task due date](/assets/images/templates/template-task-due-date.png)
 
 This will open the due date settings:
 
-![](/assets/images/templates/template-task-due-date-edit.png)
+![Template editor task due date edit](/assets/images/templates/template-task-due-date-edit.png)
 
 You can select from the days, hours or minutes drop downs and then click Save to confirm. You can use multiple selections (e.g. for 2 hours and 30 minutes). You can see your selection:
 
-![](/assets/images/templates/template-task-due-date-saved.png)
+![Template editor task due date updated](/assets/images/templates/template-task-due-date-saved.png)
 
 Next time you trigger the template, the due date for the task will be automatically set from the time of template triggering.
 
@@ -108,7 +108,7 @@ If a due date has passed and the task is not yet completed, then the person assi
 
 To add an alarm notification, click to set alarm recipients:
 
-![](/assets/images/templates/template-task-due-date-alarm.png)
+![Template editor task due date alarm](/assets/images/templates/template-task-due-date-alarm.png)
 
 You can choose the whole team (always the first option) or someone specific. Multiple selections can be made.
 

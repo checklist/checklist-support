@@ -25,11 +25,11 @@ We have almost completed the full Checklist Automation (with many triggers, acti
 
 Navigate to the Automation page by clicking on the Automation menu from the main menu:
 
-![](/assets/images/automation/automation-menu.png)
+![Template Automation Menu](/assets/images/automation/automation-menu.png)
 
 The Automation page will open:
 
-![](/assets/images/automation/automation.png)
+![Template Automation](/assets/images/automation/automation.png)
 
 You will see:
 
@@ -46,7 +46,7 @@ Currently, each checklist you create also gets a Due Date automation out of the 
 
 You can click on the automation to expand it:
 
-![](/assets/images/automation/automation-checklist.png)
+![Checklist Automation](/assets/images/automation/automation-checklist.png)
 
 The following functionality is available:
 
@@ -59,7 +59,7 @@ With Template Automations, you can set a regular schedule for the template to be
 
 To add a schedule, click on the Automation button of the template (see [Scheduling Templates](/templates/templates/#scheduling-templates)). The Automation page will open with the name of the template at the top and an Add Schedule button. Clicking on it will open the Scheduling dialog:
 
-![](/assets/images/automation/template-schedule-dialog.png)
+![Template Automation](/assets/images/automation/template-schedule-dialog.png)
 
 Once you have set the following, click on Create and the schedule will be set:
 
@@ -96,7 +96,7 @@ You can choose (by clicking on one of the tabs) from
 
 Once a Template Schedule is created, you can view it:
 
-![](/assets/images/automation/automation-template.png)
+![Template automations page](/assets/images/automation/automation-template.png)
 
 Note: you can have more than one automation per template.
 

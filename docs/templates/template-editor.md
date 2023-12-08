@@ -22,7 +22,7 @@ Use the Template Editor to edit your templates.
 
 You can open the template editor by clicking on the [name of the template](/templates/templates/#editing-templates). The Editor will open:
 
-![](/assets/images/templates/template-editor.png)
+![Template Editor](/assets/images/templates/template-editor.png)
 
 The Editor layout consists of the following sections:
 
@@ -33,7 +33,7 @@ The Editor layout consists of the following sections:
 ## 1. Template Details
 
 The top section is the template section:
-![](/assets/images/templates/template-editor-template.png)
+![Template Editor template section](/assets/images/templates/template-editor-template.png)
 
 ### Back
 
@@ -57,7 +57,7 @@ Click on the Settings (Gear) icon to view and manage the [template settings](/te
 
 This section lets you add tasks to your template:
 
-![](/assets/images/templates/template-editor-add-task.png)
+![Template editor add task](/assets/images/templates/template-editor-add-task.png)
 
 Use the text box to add new tasks to your template. Hitting Enter or clicking on the + button will add the task to the template at the cursor (or at the top of the list if no cursor was set). The cursor will also move to the newly added task. You can continously enter task after task without using the mouse. Click on the X to discard any text you entered.
 
@@ -83,7 +83,7 @@ Each task can be in one of 3 modes:
 
 In this mode tasks show their full details:
 
-![](/assets/images/templates/template-editor-task-normal.png)
+![Template editor task](/assets/images/templates/template-editor-task-normal.png)
 
 The following details are shown (when available):
 
@@ -99,7 +99,7 @@ Clicking on the task will set the cursor to it and effectively switch it to Edit
 
 In this mode only basic details are shown:
 
-![](/assets/images/templates/template-editor-task-condensed.png)
+![Template editor with condensed tasks](/assets/images/templates/template-editor-task-condensed.png)
 
 The following details are shown (when available):
 
@@ -113,7 +113,7 @@ Clicking on the task will set the cursor to it and effectively switch it to Edit
 
 When the editor cursor is set to a task it will be displayed in Edit Mode:
 
-![](/assets/images/templates/template-editor-task-edit.png)
+![Template editor edit task](/assets/images/templates/template-editor-task-edit.png)
 
 Edit mode allows you to make changes to the task and its details. Read more about the (Task Template)[/templates/template-task] features and what they allows you to accomplish.
 

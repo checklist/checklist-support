@@ -41,11 +41,11 @@ Of course not every organization is the same and you can create your own templat
 
 To view your team templates, open the team and then click on the Templates icon on the left navigation:
 
-![](/assets/images/templates/templates-menu.png)
+![Template menu](/assets/images/templates/templates-menu.png)
 
 The Templates page will open showing all your existing templates:
 
-![](/assets/images/templates/templates-list.png)
+![Templates list](/assets/images/templates/templates-list.png)
 
 Just like checklists, your templates can be sorted into your team folders. Any template without a folder will be placed at the end in the "No Folder" section. You can easily re-order a template by dragging the "dragger" on its left and dropping it onto any folder. You can also re-order within a folder by dragging up or down.
 
@@ -55,7 +55,7 @@ Important note: Managing templates can only be performed by team users with the 
 
 To create a new template, click on the New Template button. The Create a new Template dialog will open:
 
-![](/assets/images/templates/templates-add.png)
+![Add template](/assets/images/templates/templates-add.png)
 
 Give your template a name, choose its type (read more about [view types](/checklists/checklist-views/)) and click Create. The new template will be created and open for editting.
 
@@ -65,7 +65,7 @@ Note that the template name can be 1-500 long and contain any character.
 
 To edit an existing template, open the Templates page and click on the Template Name you wish to edit:
 
-![](/assets/images/templates/template-editor-button.png)
+![Edit Template button](/assets/images/templates/template-editor-button.png)
 
 The Template Editor will open where you can edit your template.
 
@@ -75,23 +75,23 @@ Read more on how to work with the [template editor](/templates/template-editor/)
 
 Triggering refers to creating a checklist from a template. Another term sometimes used is "Run". To trigger your template click on the Trigger button of the template:
 
-![](/assets/images/templates/templates-run-button.png)
+![Template run button](/assets/images/templates/templates-run-button.png)
 
 This will open the Template Trigger dialog:
 
-![](/assets/images/templates/templates-run-dialog.png)
+![Template run dialog](/assets/images/templates/templates-run-dialog.png)
 
 The new checklist will get its name from the "Default Checklist name" as defined in the template. You can still edit the name before creating.
 
 By default, the checklist is assigned to the entire team. You can can change this by clicking on the team icon and selecting other members of the team:
 
-![](/assets/images/templates/templates-run-assign.png)
+![Templates run assign](/assets/images/templates/templates-run-assign.png)
 
 If you have set template notes, those will be set as the checklist notes by default. You can still make changes to the notes before triggering.
 
 Click on the Trigger button to create the checklist. The checklist is created and you get a confirmation at the top of the screen:
 
-![](/assets/images/templates/templates-run-confirm.png)
+![Config Template Run](/assets/images/templates/templates-run-confirm.png)
 
 Click on the View button on the confirmation to navigate to the created checklist and start using it.
 
@@ -101,7 +101,7 @@ When you need to Trigger a template on a regular basis, you can easily Schedule 
 
 To schedule a regular Trigger, click on the Automation button of the template:
 
-![](/assets/images/templates/templates-schedule-button.png)
+![Template schedule menu](/assets/images/templates/templates-schedule-button.png)
 
 This will open the Automations page with the already existing automations of this template where you can also create a new schedule.
 
@@ -111,7 +111,7 @@ Read more about [Template Automation](/automation/#template-automation).
 
 To delete a template, click on the Trashcan button next to its name:
 
-![](/assets/images/templates/templates-delete-button.png)
+![Template Delete button](/assets/images/templates/templates-delete-button.png)
 
 The Delete Template confirmation dialog will open. Click Delete to confirm.
 
@@ -119,11 +119,11 @@ The Delete Template confirmation dialog will open. Click Delete to confirm.
 
 If you want to use an existing template as the starting point for a new template, you can easily duplicate the existing template. Click on the Duplicate button of the existing template:
 
-![](/assets/images/templates/templates-duplicate-button.png)
+![Duplicate template button](/assets/images/templates/templates-duplicate-button.png)
 
 The Duplicate A template dialog will open:
 
-![](/assets/images/templates/templates-duplicate-dialog.png)
+![Template duplicate dialog](/assets/images/templates/templates-duplicate-dialog.png)
 
 You can rename the new template as well as decide if you want to duplicate any existing template recieps. Click Duplicate to make the copy.
 
@@ -133,6 +133,6 @@ The newly created template will be in the same folder as the original template.
 
 You can mark a template as a Favorite using the Star:
 
-![](/assets/images/templates/templates-favorite-button.png)
+![Favorite template button](/assets/images/templates/templates-favorite-button.png)
 
 Templates marked as Favorite can be triggered by team users with the RUNNER role. The template will be accessible to them from the [Dashboard page](/dashboard).
