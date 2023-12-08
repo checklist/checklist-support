@@ -13,7 +13,7 @@ For the next phase, let's identify your objectives. We've categorized different 
 
 # 1) A One-Time project
 
-Ideal for a standalone list related to a single project (could be ongoing). Tasks can be pre-known or added as needed:
+Ideal for a standalone list related to a single project (could be ongoing). Tasks can be pre-known or added as needed. You can use two views to manage your list (and easily change between them when needed):
 
 - [List View](#list-view) - a simple list with tasks to check off
 - [Table View](#table-view) - a checklist in table format, with each task (row) having additional fields (columns)
@@ -36,9 +36,9 @@ A checklist with tasks to check off:
 
 Starts simple but is very powerful! This view also offers: subtasks, notes, attachments, due dates, reminders, sharing, assigning and more.
 
-Example Use cases: [House moving](https://checklist.com/moving){:target="\_blank"}, [Business statup](https://checklist.com/business-startup-checklist){:target="\_blank"}, [Event](https://checklist.com/event){:target="\_blank"}, [Cleaning](https://checklist.com/cleaning){:target="\_blank"}
+Example Use cases: [House moving ↗](https://checklist.com/moving){:target="\_blank"}, [Business statup ↗](https://checklist.com/business-startup-checklist){:target="\_blank"}, [Event ↗](https://checklist.com/event){:target="\_blank" title="Event Checklist"}, [Cleaning](https://checklist.com/cleaning){:target="\_blank" title="Cleaning Checklist"}
 
-Read more on [List View](/checklists/checklist-view) or get started by customizing our [Daily to do](https://checklist.com/daily-to-do-list){:target="\_blank"} template (you can play around with the list and customize it to your needs).
+Read more on [List View](/checklists/checklist-view) or get started by customizing our [Daily to do ↗](https://checklist.com/daily-to-do-list){:target="\_blank"} template (you can play around with the list and customize it to your needs).
 
 ## Table View
 
@@ -66,9 +66,9 @@ Here’s what playing the list looks like:
 
 ![Checklist Template Editor](/assets/images/views/play-view2.gif)
 
-Example Use cases: [Employee onboarding](https://checklist.com/employee-onboarding-checklist "Employee onboarding Checklist"){:target="\_blank"}, [Office Cleaning](https://checklist.com/office-cleaning-checklist "Office Cleaning Checklist"){:target="\_blank"}, [SEO](https://checklist.com/seo-checklist "SEO Checklist"){:target="\_blank"}, [Vehicle Inspection](https://checklist.com/vehicle-inspection-checklist "Vehicle Insepection Checklist"){:target="\_blank"}
+Example Use cases: [Employee onboarding ↗](https://checklist.com/employee-onboarding-checklist "Employee onboarding Checklist"){:target="\_blank"}, [Office Cleaning ↗](https://checklist.com/office-cleaning-checklist "Office Cleaning Checklist"){:target="\_blank"}, [SEO ↗](https://checklist.com/seo-checklist "SEO Checklist"){:target="\_blank"}, [Vehicle Inspection ↗](https://checklist.com/vehicle-inspection-checklist "Vehicle Insepection Checklist"){:target="\_blank"}
 
-Read more on [Checklist Templates](/templates/templates) or get started by customizing our [Store Opening & Closing Checklist](https://checklist.com/retail-store-opening-closing-checklist){:target="\_blank"} template (click on the Save as Template button to save it as your own template and then play around with it). Don't forget to Trigger it so that you can play it (i.e. follow the steps).
+Read more on [Checklist Templates ↗](/templates/templates) or get started by customizing our [Store Opening & Closing Checklist ↗](https://checklist.com/retail-store-opening-closing-checklist){:target="\_blank"} template (click on the Save as Template button to save it as your own template and then play around with it). Don't forget to Trigger it so that you can play it (i.e. follow the steps).
 
 ## Scheduled Template
 
@@ -78,7 +78,7 @@ Your checklist templates can be automatically scheduled to be "triggered" (i.e. 
 
 Example Use cases: store opening, store closing, restaurant health inspection, fire inspection, security audit
 
-Read more about [Checklist Automation](/automation/){ :target="\_blank"} and specifically how to (add a scedule to a template)[/automation/#template-automation]{: target="\_blank"}.
+Read more about [Checklist Automation ↗](/automation/){ :target="\_blank"} and specifically how to [add a scedule to a template ↗](/automation/#template-automation){: target="\_blank"}.
 
 To try out a schedule template, create one (following the instructions above) and then click the "Automation" button followed by "Add Schedule".
 
@@ -94,9 +94,9 @@ You can then share the form with your customers (email, QR Code on embed on your
 
 You can then manage the responses: prioritize then, assign to team members, add notes, attachments, etc. Or export them.
 
-Example Use cases: [contact us](https://checklist.com/forms/contact){:target="\_blank"}, [volunteer signup](https://checklist.com/forms/volunteer-signup){:target="\_blank"}, [customer feedback](https://checklist.com/forms/customer-feedback){:target="\_blank"}, [event registration](https://checklist.com/forms/event-registration){:target="\_blank"}, lead generation
+Example Use cases: [contact us ↗](https://checklist.com/forms/contact){:target="\_blank"}, [volunteer signup ↗](https://checklist.com/forms/volunteer-signup){:target="\_blank"}, [customer feedback ↗](https://checklist.com/forms/customer-feedback){:target="\_blank"}, [event registration ↗](https://checklist.com/forms/event-registration){:target="\_blank"}, lead generation
 
-Getting started with Form2Task: Visit our [Contact Us](https://checklist.com/forms/contact){:target="\_blank"} template and click on the "Use Template" button. You can then customize the form to your needs.
+Getting started with Form2Task: Visit our [Contact Us ↗](https://checklist.com/forms/contact){:target="\_blank"} template and click on the "Use Template" button. You can then customize the form to your needs.
 
 ## Get Started
 
@@ -104,4 +104,4 @@ So which checklist will you create today?
 
 Get Started with Checklist now!
 
-[Sign up](https://checklist.com/account){:target="\_blank"} for free
+[Sign up ↗](https://checklist.com/account){:target="\_blank"} for free
