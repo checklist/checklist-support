@@ -20,7 +20,7 @@ grand_parent: Checklists
 
 Sometimes it is not sufficient to just check tasks off of a list. You would like to also collect data as users go through the list. This is where the "Form View" becomes useful. You can defined "task types". For example the following checklist asks the user to choose from different choicesm, enter text, assign to users and enter a URL:
 
-![](/assets/images/checklists/checklist-form-view.png)
+![Checklist Form View](/assets/images/checklists/checklist-form-view.png)
 
 The Form View is used together with a checklist template. You can use it ONLY on checklists that were created from templates. 
 
@@ -33,7 +33,7 @@ Members who are not owners will not see the View Selector widget and the Form Vi
 ## Tasks
 Each task is placed on its own card. The cards can be "opened" by clicking on the down arrow at the top right of the card:
 
-![](/assets/images/checklists/checklist-form-view-card-open.png)
+![Task expanded](/assets/images/checklists/checklist-form-view-card-open.png)
 
 1. Task Status
 2. Task Name. If the task is marked as required, an asterisk (*) will be shown after it
