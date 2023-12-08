@@ -10,7 +10,7 @@ has_toc: false
 # Template Trigger
 The true power of Checklist is in its ability to re-use previously created checklist templates over and over. Don't re-invent the wheel!
 
-"Triggering" a template creates a checklist which you (or anyone you assign it to) can use. It is mostly used in a business environment where you want to follow a particular business process. For example store opening checklist or [cleaning checklist](https://checklist.com/cleaning-checklist){:target="\_blank"}. But you can also use it in a personal setting such as a [Travel Packing Checklist](https://checklist.com/travel-checklist){:target="\_blank"}. Visit our [checklist templates](https://checklist.com/templates){:target="\_blank"} to see more examples.
+"Triggering" a template creates a checklist which you (or anyone you assign it to) can use. It is mostly used in a business environment where you want to follow a particular business process. For example store opening checklist or [cleaning checklist ↗](https://checklist.com/cleaning-checklist){:target="\_blank"}. But you can also use it in a personal setting such as a [Travel Packing Checklist ↗](https://checklist.com/travel-checklist){:target="\_blank"}. Visit our [checklist templates ↗](https://checklist.com/templates){:target="\_blank"} to see more examples.
 
 To Trigger a template:
 * your or a team member must create the template

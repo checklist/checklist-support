@@ -4,7 +4,9 @@ title: Introduction
 nav_order: 1
 has_toc: true
 ---
+
 # Welcome to Checklist
+
 {:toc}
 
 From simple To Do checklists to more complex repeatable business processes you can use Checklist to stay on track. Work alone, within a team, company, friends or family. Sync your work across devices. Integrate your checklists with 3rd party software. A Checklist for Life. And Business.
@@ -18,6 +20,7 @@ Have you heard the phrase: "don't re-invent the checklist"? In most cases, someo
 Increase your productivty and boost your checklists with Automation. Automate repetitive tasks: e.g. trigger daily checklists, assign tasks automatically or send an email when a checklist completes. You can also integrate with thousands of 3rd party applications (to/ from Checklist).
 
 ## How to Read
+
 You can follow the steps as shown in the menu to the left and read page by page or just to the section you are interested in.
 
 ## Get Started
@@ -25,6 +28,7 @@ You can follow the steps as shown in the menu to the left and read page by page 
 Get started with a checklist to fit your needs by following our [Starting with Checklist](/start/) guide.
 
 ## Question & Feedback
-We are always interested to hear from you. Whether we got something wrong, you have a question or you simply want to give us a high five. 
 
-[Contact us](https://checklist.com/contact){:target="_blank"}. Just remember to provide us with as much detail as possible so that we can provide you with a good response.
+We are always interested to hear from you. Whether we got something wrong, you have a question or you simply want to give us a high five.
+
+[Contact us ↗](https://checklist.com/contact){:target="\_blank"}. Just remember to provide us with as much detail as possible so that we can provide you with a good response.

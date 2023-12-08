@@ -95,4 +95,4 @@ This widget type allows you to show tasks from a specific checklist. You can typ
 
 ## Want More Widgets?
 
-We are busy adding more widgets. Your input (as always) is more than welcome. So please send us your [feedback](https://checklist.com/feedback){:target="\_blank"} (and don't forget to vote for other ideas you may like).
+We are busy adding more widgets. Your input (as always) is more than welcome. So please send us your [feedback ↗](https://checklist.com/feedback){:target="\_blank"} (and don't forget to vote for other ideas you may like).

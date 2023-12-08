@@ -9,16 +9,16 @@ nav_order: 2
 
 To begin, you need to create a free Checklist account. Simply visit [My Account ↗](https://checklist.com/account){:target="\_blank"}, and sign in (create an account or log in if you haven't already). Return here once you've completed this step.
 
-For the next phase, let's identify your objectives. We've categorized different options to suit various use cases. Choose your scenario to learn more:
+For the next phase, let's identify your objectives. We've categorized different options to suit various use cases. Click on your scenario:
 
-# A One-Time project
+# 1) A One-Time project
 
 Ideal for a standalone list related to a single project (could be ongoing). Tasks can be pre-known or added as needed:
 
 - [List View](#list-view) - a simple list with tasks to check off
 - [Table View](#table-view) - a checklist in table format, with each task (row) having additional fields (columns)
 
-# A Repetitive Business Process
+# 2) A Repetitive Business Process
 
 Checklists are a great tool for managing repetitive business processes:
 

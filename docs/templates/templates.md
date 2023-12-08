@@ -27,7 +27,7 @@ Templates can hugely increase your productivy. Why keep re-inventing the wheel? 
 
 ## Public Templates
 
-Instead of starting with a blank page, browse our [checklist templates](https://checklist.com/templates){:target="\_blank"} to find the right one. You can then save the template as a checklist and start working with it.
+Instead of starting with a blank page, browse our [checklist templates ↗](https://checklist.com/templates){:target="\_blank"} to find the right one. You can then save the template as a checklist and start working with it.
 
 ## Team Templates
 

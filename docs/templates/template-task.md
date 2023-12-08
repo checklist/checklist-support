@@ -46,7 +46,7 @@ To edit an existing link, simply click on it to enter Edit Mode.
 
 Once you have a link, and when not in Edit Mode, the task name will be "linkable" allowing you to click on it and open the link in a new tab.
 
-If you are in Normal Mode (i.e. not Condensed) and the url links to supported media type (e.g image or video) the media will be shown between the task name and any notes. For example, in the following [vehicle inspection checklist](https://checklist.com/vehicle-inspection-checklist){:target="\_blank"} the first task is used to inspect the VIN. We want to show the user an example VIN so that they can do a better job validating it:
+If you are in Normal Mode (i.e. not Condensed) and the url links to supported media type (e.g image or video) the media will be shown between the task name and any notes. For example, in the following [vehicle inspection checklist ↗](https://checklist.com/vehicle-inspection-checklist){:target="\_blank"} the first task is used to inspect the VIN. We want to show the user an example VIN so that they can do a better job validating it:
 
 ![](/assets/images/templates/template-editor-task-normal.png)
 

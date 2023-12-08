@@ -19,7 +19,7 @@ nav_order: 8
 
 To save on time and increase productivity, Checklist allows you to boost your "checklisting" with automations. Currently, we are supporting Checklist and Template automations. In addition, you can connect your Checklist account with your Zapier account.
 
-We have almost completed the full Checklist Automation (with many triggers, actions, recipes and more) and will be releasing it in beta shortly. [Contact us](https://checklist.com/contact){:target="\_blank"} if you wish to try it out.
+We have almost completed the full Checklist Automation (with many triggers, actions, recipes and more) and will be releasing it in beta shortly. [Contact us ↗](https://checklist.com/contact){:target="\_blank"} if you wish to try it out.
 
 ## View Automations
 
@@ -110,4 +110,4 @@ You can click on the automation to expand it and view more options. The followin
 
 To connect your account with Zapier, you must first authenticate with Zapier. Click on the Connect To Zapier button to start the authentication. Once authenticated, you will be able to disconnect from Zapier by clicking on the Disconnect button (which will be shown instead of the Connect button).
 
-Read more about [Zapier integration](https://zapier.com/apps/checklist/integrations){:target="\_blank"}.
+Read more about [Zapier integration ↗](https://zapier.com/apps/checklist/integrations){:target="\_blank"}.
