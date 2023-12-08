@@ -38,15 +38,15 @@ Starts simple but is very powerful! This view also offers: subtasks, notes, atta
 
 Example Use cases: [House moving ↗](https://checklist.com/moving-checklist "Moving Checklist"){:target="\_blank"}, [Business statup ↗](https://checklist.com/business-startup-checklist "Business Startup Checklist"){:target="\_blank"}, [Event ↗](https://checklist.com/event-checklist "Event Checklist"){:target="\_blank"}, [Cleaning](https://checklist.com/cleaning-checklist "Cleaning Checklist"){:target="\_blank"}
 
-Read more on [List View](/checklists/checklist-view) or get started by customizing our [Daily to do ↗](https://checklist.com/daily-to-do-list){:target="\_blank"} template (you can play around with the list and customize it to your needs).
+Read more on [List View](/checklists/checklist-view) or get started by customizing our [Daily to do ↗](https://checklist.com/daily-to-do-list "Daily To Do Checklist"){:target="\_blank"} template (you can play around with the list and customize it to your needs).
 
 ## Table View
 
-This view displays your checklist in a table format:
+The Table View displays your checklist in a table format:
 
 ![Checklist in table view](/assets/images/start/start-table-view.png)
 
-Task can have different fields (in columns) such as notes, assignees, attachments, emails, URLs, etc. You have complete control over the fields you want to add to your table.
+Each task is a row and the columns are task fields. You can customzie the fields as fits your needs. Examples are: notes, assignees, attachments, emails, URLs, etc. You have complete control over the fields you want to add to your table.
 
 Example Use cases: Project Task Tracking and Assigning, Inventory management, Product development, CRM (lead management)
 
