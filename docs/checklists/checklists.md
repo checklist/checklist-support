@@ -18,9 +18,9 @@ has_children: true
 {:toc}
 </details>
 
-## Creating checklists
+## Creating Checklists
 
-To create a new checklist, navigate to the Checklists page and click on the New Checklist button:
+To create a new checklist, navigate to the Checklists page and select the New Checklist button:
 
 ![Create Checklist](/assets/images/checklists/checklist-add.png)
 
@@ -28,128 +28,126 @@ This will open the "Create a Checklist" dialog:
 
 ![Create Checklist Dialog](/assets/images/checklists/checklist-add-dialog.png)
 
-### Create an Empty new Checklist
+### Create an Empty New Checklist
 
-To create a checklist from scratch, enter a name for your checklist and click the Create button.
+For a checklist created from scratch, provide a name and click the Create button.
 
-Note that the checklist name must be 1-256 characters long.
+Note: The checklist name must be 1-256 characters long.
 
-Once the checklist is created, the app will navigate to it.
+Once created, the app will redirect to the new checklist.
 
-### Create a checklist from a template
+### Create a Checklist from a Template
 
-If you wish to create a checklist from a template, click on the "Browse Checklist Templates". This will open the [Checklist Templates↗](https://checklist.com/templates){:target="\_blank"} website where you can browse and search our database of checklist templates and choose any of them to create your checklist from.
+To create a checklist from a template, click "Browse Checklist Templates." This directs you to the [Checklist Templates↗](https://checklist.com/templates){:target="\_blank"} website, where you can explore and select a template.
 
 ## The Checklist Page
 
-A new empty checklist opens with the Checklist view and has now tasks in it:
+A newly created checklist opens with the Checklist view and is devoid of tasks:
 
 ![Empty Checklist](/assets/images/checklists/checklist-new.png)
 
 ## Checklist Name
 
-The name of the checklist is shown at the top of the page:
+The checklist name appears at the top of the page:
 
 ![Checklist Name](/assets/images/checklists/checklist-page-name.png)
 
-You can click on the checklist name to edit it:
+Click on the checklist name to edit it:
 
-![Edit checklist name](/assets/images/checklists/checklist-page-name-edit.png)
+![Edit Checklist Name](/assets/images/checklists/checklist-page-name-edit.png)
 
-Make the desired changes to the name and either hit Enter or click anywhere outside the name. If you wish to cancel your changes, hit the ESC button.
+Make the desired changes to the name and either hit Enter or click anywhere outside the name. Cancel changes with the ESC button.
 
 ## Checklist Status
 
-The Checklist status can be open or completed (unchecked or checked respectively):
+The Checklist status can be open or completed (unchecked or checked, respectively):
 
 ![Checklist Status](/assets/images/checklists/checklist-page-status.png)
 
-The status will automtically get updated based on the status of the checklists tasks. Read more about [Checklist Propagation](/checklists/form-view/#propagation).
+The status auto-updates based on the checklist's task statuses. Read more about [Checklist Propagation](/checklists/form-view/#propagation).
 
-If you want to change the status yourself, you can simply click on the checkbox itself:
+To manually change the status, click on the checkbox:
 
-- if the checklist was open, the checklist and all tasks and subtasks will be marked as completed
-- if the checklist was completed, the checklist and all tasks and subtasks will be marked as open
+- If the checklist was open, it and all tasks and subtasks become completed.
+- If the checklist was completed, it and all tasks and subtasks become open.
 
 ## Checklist View Selector
 
-Your checklist can be viewed in any of our Viewers (e.g. Checklist, Table, Form). You can use the Checklist View Selector to choose which view you wish to use:
+Choose from various views (e.g., Checklist, Table, Form) using the Checklist View Selector:
 
-![Checklist view selector](/assets/images/checklists/checklist-page-view-selector.png)
+![Checklist View Selector](/assets/images/checklists/checklist-page-view-selector.png)
 
-Note that the available viewers may depending on the settings defined by the checklist owne. See [Checklist Views](/checklists/checklist-views/) for more info.
+Note: Available viewers may vary based on checklist owner settings. See [Checklist Views](/checklists/checklist-views/) for more info.
 
 ## Checklist Members
 
-To view and manage the members of a checklist use the Checklist Members button. Read more about [Checklist Members](/checklists/checklist-members/).
+To view and manage checklist members, use the Checklist Members button. Read more about [Checklist Members](/checklists/checklist-members/).
 
 ## Checklist Automations
 
-Checklist automations are one of Checklist's strongest features and allow you to save time and improve productivity by easily defining Recipes for automation. Read more about [Checklist Automation](/automation).
-
-To view the automation recipes defined for this checklist, or create new ones, click on the Automation button:
+Checklist automations enhance productivity. Define automation recipes by clicking on the Automation button:
 
 ![Checklist Automation](/assets/images/checklists/checklist-page-automation.png)
 
-The app will take you to the Checklist Automation page where you can view current automation recipes and create new ones.
+This directs you to the Checklist Automation page, where you can view existing automation recipes and create new ones.
+
+Read more about [Checklist Automation](/automation)
 
 ## Checklist Menu
 
-The Checklist menu provides you with important functionality you may wish to use and is available by clicking on its buttons:
+The Checklist menu provides important functionality. Access it by clicking on its buttons:
 
 ![Checklist Menu](/assets/images/checklists/checklist-page-menu.png)
 
-## Move Completed Tasks to end
+## Move Completed Tasks to End
 
-To improve productivity, some users may wish to move completed tasks to the end of the checklist. To turn this feature on, open the Checklist menu and check the checkbox to the right of the option: "Move Completed to end".
+Boost productivity by moving completed tasks to the end. Open the Checklist menu and check the checkbox next to "Move Completed to End."
 
-When the checkbox is checked, whenever a task is marked as completed, it will be moved to the end of the checklist.
-
-Note: completed tasks will be moved to the end of the checklist as a **task** and not as a subtask. This is purposefully so, so as to keep the completed tasks at the end of the checklist and not just as the last subtask.
+When checked, completed tasks are moved to the end but as individual tasks, not subtasks. This ensures completed tasks are kept at the end of the checklist, not just as the last subtask.
 
 ## Delete Completed Tasks
 
-To delete completed tasks from your checklist, open the Checklist menu and click on the option "Delete Completed Tasks". Any completed tasks will be deleted from the checklist.
+Open the Checklist menu and click "Delete Completed Tasks" to remove completed tasks.
 
-## Duplicated Checklist
+## Duplicate Checklist
 
-To duplicate a checklist, open the Checklist menu and click on the option "Duplicate Checklist". The app will open the "Duplicate Checklist" dialog:
+Duplicate a checklist by clicking "Duplicate Checklist" in the Checklist menu. This opens the "Duplicate Checklist" dialog:
 
-![Duplicating a Checklist](/assets/images/checklists/checklist-duplicate.png)
+![Duplicate Checklist](/assets/images/checklists/checklist-duplicate.png)
 
-Give your copy a new name (to distinguish it from the old checklist) and hit the Duplicate button to create the copy. You will be directed to the new checklist.
+Provide a new name, hit Duplicate, and navigate to the new checklist.
 
-Note: any attachments the checklist or its task may have are NOT duplicated (for privacy reasons).
+Note: Attachments are not duplicated for privacy reasons.
 
 ## Make Checklist into a Template
 
-If you use this checklist regularly, you can can make a template out of it. From the Checklist Menu click on the option "Make into a template". The confirmation dialog will open:
+If you regularly use a checklist, make it a template. From the Checklist Menu, click "Make into a template." A confirmation dialog opens:
 
 ![Checklist to Template Dialog](/assets/images/checklists/checklist-make-template-dialog.png)
 
-Click Confirm and let our app process your request and show you the confirmation message:
+Click Confirm, and the app processes the request, displaying a confirmation message:
 
 ![Checklist Template Created](/assets/images/checklists/checklist-make-template-confirmed.png)
 
-If you wish to edit the template right away, click on the EDIT shortcut on the message and the Template Editor will open.
+Click EDIT on the message to edit the template immediately.
 
 Read more about [Checklist Templates](/templates/templates/).
 
 ## Publish Checklist
 
-You can publish the checklist onto checklist.com so that others can view/ use it. To do so, open the Checklist Menu and click on the option "Publish Checklist". The app will open the "Publish Checklist" dialog:
+Publish the checklist on checklist.com for others to view/use. Open the Checklist Menu and click "Publish Checklist." This opens the "Publish Checklist" dialog:
 
 ![Checklist Publish Dialog](/assets/images/checklists/checklist-publish-dialog.png)
 
-Click on the button to get a private link (published checklists are only accessible by people with the private link). The dialog will now display the link to your checklist:
+Click the button to get a private link (accessible only by people with the private link). The dialog displays the link to your checklist:
 
 ![Checklist Published Dialog](/assets/images/checklists/checklist-published-dialog.png)
 
-You can now click on the link to view the published checklist or click on the 'Link' button to copy the link to the clipboard. You can always open the dialog and get the link again.
+Click the link to view the published checklist or use the 'Link' button to copy it. Unpublish to revoke access.
 
-You can click on the Unpublish button to unpublish the checklist. The checklist will no longer be accessible via the link.
+See below how to add [notes](#checklist-notes) to the published checklist.
 
-Note: if you unpublish and publish the checklist a new link will be generated and people with the old link will no longer have access to the checklist (unless you share the new link with them).
+Warning: Unpublishing and then re-publishing generates a new link, rendering the old link inaccessible.
 
 ## Embed Your Checklist
 
@@ -157,34 +155,32 @@ You can [Publish a Checklist](#publish-checklist) and then embed it on your site
 
 ![Published Checklist](/assets/images/checklists/checklist-published.png)
 
-Then, copy the embed code and paste it on your website:
+Copy the embed code and paste it on your website HTML code:
 
 ![Checklist Embed](/assets/images/checklists/checklist-embed.png)
 
-Note: You can also customize the font size as well as decide whether to show or hide task notes.
+Optional: Customize font size and decide whether to show or hide task notes.
 
 ## Checklist Notes
 
-You can add notes to the top of the checklist. This may be useful to add some context to the checklist or to add some instructions for the checklist users. Notes will also be shown on public checklists.
-
-To add notes, open the Checklist Menu and click on the option "Checklist Notes". The app will open the "Notes" dialog where you can add or update your notes:
+Add notes to the top of the checklist for context or instructions. Open the Checklist Menu and click "Checklist Notes." The app opens the "Notes" dialog:
 
 ![Checklist Notes](/assets/images/checklists/checklist-notes.png)
 
-Once you have updated your notes and saved them, they will be shown at the top of the checklist:
+Update and save notes, visible at the top of the checklist:
 
-![Checklist notes viewed](/assets/images/checklists/checklist-notes-view.png)
+![Checklist Notes Viewed](/assets/images/checklists/checklist-notes-view.png)
 
-## Downdload Checklist
+## Download Checklist
 
-You can download the Checklist as a PDF file. To do so, open the Checklist Menu and click on the option "Download as PDF". The app will open the "Download Checklist" dialog:
+Download the Checklist as a PDF. Open the Checklist Menu and click "Download as PDF." The app opens the "Download Checklist" dialog:
 
-![Download checklist as PDF](/assets/images/checklists/checklist-download-pdf.png)
+![Download Checklist as PDF](/assets/images/checklists/checklist-download-pdf.png)
 
-Once the PDF is generated, click on the link to download it.
+Click the link to download the generated PDF.
 
 ## Delete a Checklist
 
-To delete a checklist, select the option from the Checklist Menu. Confirm on the opened dialog and the checklist will be deleted. You will be directed to the Checklists page where you can choose another checklist to work with.
+To delete a checklist, select the option from the Checklist Menu. Confirm on the dialog, and the checklist is deleted. Redirect to the Checklists page to choose another checklist.
 
-If the checklist was not owned by you and you were simply a member, the checklist will not be deleted but you will be removed as a member and will not longer have access to it.
+If you were only a member and not the owner, the checklist won't be deleted; you'll be removed as a member, losing access.
