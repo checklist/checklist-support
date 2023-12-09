@@ -20,7 +20,7 @@ has_children: true
 
 ## Creating Checklists
 
-To create a new checklist, navigate to the Checklists page and select the New Checklist button:
+To create a new checklist, go to the Checklists page and click the "New Checklist" button:
 
 ![Create Checklist](/assets/images/checklists/checklist-add.png)
 
@@ -28,17 +28,38 @@ This will open the "Create a Checklist" dialog:
 
 ![Create Checklist Dialog](/assets/images/checklists/checklist-add-dialog.png)
 
-### Create an Empty New Checklist
+Once you click in the checklist name field, the app will display a list of types to choose from:
 
-For a checklist created from scratch, provide a name and click the Create button.
+![Create Checklist Choose Type](/assets/images/checklists/checklist-add-type.png)
+
+You can choose from any available types. Alternatively, start typing the name of the type you want to create. If there's a checklist template with a similar name, we'll suggest it:
+
+![Create Checklist Matching Templates](/assets/images/checklists/checklist-add-templates.png)
+
+You have two options:
+* Preview - click to see the template before using it.
+* Use - click to create a checklist from this template.
+
+If you don't want to use any of the suggested templates, continue typing the name of the checklist type you want to create. 
 
 Note: The checklist name must be 1-256 characters long.
+
+You can then choose from the following default view options:
+* List - a simple checklist with tasks and subtasks.
+* Table - a checklist with a table view.
+
+![Create Checklist View](/assets/images/checklists/checklist-add-view.png)
+
+To learn more about the different views, refer to [Checklist Views](/checklists/checklist-views/).
+
+Click the "Create" button to create the checklist.
 
 Once created, the app will redirect to the new checklist.
 
 ### Create a Checklist from a Template
 
-To create a checklist from a template, click "Browse Checklist Templates." This directs you to the [Checklist Templates↗](https://checklist.com/templates){:target="\_blank"} website, where you can explore and select a template.
+To explore our database of checklist templates, click "Browse Checklist Templates." This takes you to the [Checklist Templates↗](https://checklist.com/templates){:target="\_blank"} website, where you can explore and select a template to use.
+
 
 ## The Checklist Page
 
