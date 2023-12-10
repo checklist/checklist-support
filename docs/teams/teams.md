@@ -36,7 +36,7 @@ If you want to switch your work to a different team, follow the steps above to v
 
 ## Team Folders
 
-Learn more [about team folders](/teams/folders/).
+Learn more [about team folders](/teams/team-folders/).
 
 ## Rename Team
 
