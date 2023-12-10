@@ -39,7 +39,7 @@ Only organization admins can view organization details or make changes to them:
 
 ## Plan
 
-The organization's plan determines the features and quotas available. Read more [about billing](/billing).
+The organization's plan determines the features and quotas available. Read more [about billing ↗](https://checklist.com/pricing){:target="\_blank"}.
 
 ## Rename Organization
 
