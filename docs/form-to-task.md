@@ -76,6 +76,11 @@ If enabled in the form configuration, responders can make subsequent modificatio
 
 ![Forms Configuration Dialog](/assets/images/form-to-task/forms-configuration-dialog.png)
 
+## Form configuration
+
+
+![Forms Configuration](/assets/images/form-to-task/forms-configuration-full.png)
+
 ## Working with Submissions
 
 Each recorded submission is automatically added to the checklist as a task. Users can conveniently view these tasks in both Table (preferred) and List views of the checklist. Columns will include each of the answers given to the questions. 
