@@ -17,61 +17,48 @@ nav_order: 11
 {:toc}
 </details>
 
-## What is this Feature
+## Overview
 
-Form To Task (Form2Task) is a Chekclist feature that enables users to create online forms linked to their checklists. Responses submitted through these forms are automatically added as tasks in the associated checklist. This feature offers a seamless way to collect, process and manage information.
+Form To Task (Form2Task) is a feature within Checklist designed to streamline the process of collecting and managing information. It allows users to create online forms linked to their checklists, with responses automatically converted into tasks. This feature is particularly beneficial for businesses or organizations that require structured data input through forms.
 
-## Who Should Use the Feature
-
-This feature is designed for [Checklist Pro ↗](https://checklist.com/pricing){:target="\_blank"} users who want to streamline the process of collecting responses from individuals or teams. It is particularly useful for businesses or organizations that require structured data input through forms.
-
-Form To Task is beneficial in various scenarios, such as:
+Form To Task is tailored for [Checklist Pro ↗](https://checklist.com/pricing "Checklist Pricing"){:target="\_blank"} users seeking an efficient way to collect responses from individuals or teams. It enhances collaboration and data organization for various purposes, such as:
 
 - Collecting customer feedback.
 - Managing job applications.
 - Conducting surveys or polls.
 - Gathering event registrations.
 - Handling service requests.
-- And many more...
-
-This feature enhances collaboration and data organization for businesses and teams using Checklist.
+- And more...
 
 ## How It Works
 
-Let's dive in by seeing how it works:
-
 ### 1. Create a Checklist
 
-[Create a checklist ↗](/checklists/checklists/#creating-checklists){:target="\_blank"} and choose "Table" view when creating it.
+[Create a checklist ↗](/checklists/checklists/#creating-checklists){:target="\_blank"} and select "Table" view during creation.
 
 ### 2. Configure a Form
 
-On the checklist (in Table view), click on the Form button:
+On the checklist (in Table view), click the Form button:
 
 ![Form Button](/assets/images/form-to-task/forms-button.png)
 
-to access the Form Configuration dialog:
+This opens the Form Configuration dialog:
 
 ![Forms Configuration Dialog](/assets/images/form-to-task/forms-configuration-dialog.png)
 
-You can then configure the form to your needs:
-- Select which fields to include in the form.
-- Add an intro text or a description to the form.
-- Make the form editable by responders (they get a link they can revisit to keep it up to date).
-
-Save the form when ready.
+Configure the form by choosing fields, adding intro text or a description, and deciding if the form is editable by responders. Save when ready.
 
 ### 3. Share the Form
 
-Use the generated link, QR code, or embed code to share the form with customers, leads, or users. 
+Utilize the generated link, QR code, or embed code to share the form with customers, leads, or users.
 
 ### 4. Collecting Responses
 
-You can see our [Contact us ↗](https://checklist.com/forms/contact "Online Contact Us Form builder"){:target="\_blank"} or [Volunteer Signup ↗](https://checklist.com/forms/volunteer-signup "Online Volunteer Signup Form buiilder"){:target="\_blank} forms as examples:
+Examples like [Contact us ↗](https://checklist.com/forms/contact "Online Contact Us Form builder"){:target="\_blank"} or [Volunteer Signup ↗](https://checklist.com/forms/volunteer-signup "Online Volunteer Signup Form builder"){:target="\_blank} illustrate the process:
 
 ![Volunteer Signup Online Form](/assets/images/start/form-2-task-form.png){: .image-medium}
 
-When someone visits the form, they answer questions, and upon submission, results are recorded as tasks in the checklist.
+Visitors answer questions, and upon submission, results are recorded as tasks in the checklist.
 
 ### 5. Working with Submissions
 
@@ -79,12 +66,12 @@ Recorded submissions appear as tasks in the checklist, visible in both Table and
 
 ![Checklist form responses in a table](/assets/images/start/form-2-task-table.png)
 
-Additional columns can be added to manage task processing (due dates, priority, assignment etc.).
+Additional columns can be added for task processing (due dates, priority, assignment, etc.).
 
-You can assign tasks (responses) to team members for further processing. 
+Tasks (responses) can be assigned to team members for further processing.
 
 ### 6. Editing Submissions
 
-If enabled in the form configuration, responders can make subsequent modifications to their submissions. Changes are immediately reflected in the checklist task:
+If enabled in the form configuration, responders can make subsequent modifications to their submissions, immediately reflected in the checklist task:
 
 ![Forms Configuration Dialog](/assets/images/form-to-task/forms-configuration-dialog.png)
