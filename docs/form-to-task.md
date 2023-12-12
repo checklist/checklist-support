@@ -74,12 +74,14 @@ Tasks (responses) can be assigned to team members for further processing.
 
 If enabled in the form configuration, responders can make subsequent modifications to their submissions, immediately reflected in the checklist task:
 
-![Forms Configuration Dialog](/assets/images/form-to-task/forms-configuration-dialog.png)
+![Forms Editable Link](/assets/images/form-to-task/forms-editable-link.png)
 
 ## Form configuration
 
+The Form Configuration dialog allows you to customize the form to your needs:
 
 ![Forms Configuration](/assets/images/form-to-task/forms-configuration-full.png)
+
 
 ## Working with Submissions
 
