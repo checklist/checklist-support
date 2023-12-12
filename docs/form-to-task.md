@@ -80,7 +80,9 @@ If enabled in the form configuration, responders can make subsequent modificatio
 
 Each recorded submission is automatically added to the checklist as a task. Users can conveniently view these tasks in both Table (preferred) and List views of the checklist. Columns will include each of the answers given to the questions. 
 
-In addition to form-related fields, you can add columns not part of the original form to facilitate task processing. For instance, include a Priority column (high/medium/low) to determine the urgency of processing. Alternatively, an Assignee field can be added to distribute tasks among team members. Feel free to customize and manage additional fields as needed, providing flexibility for effective task management within your team.
+In addition to form-related fields, you can add columns to facilitate task processing. These columns are not visible to the responders and remain private to the checklist users. 
+
+For instance, include a Priority column (high/medium/low) to determine the urgency of processing. Alternatively, an Assignee field can be added to distribute tasks among team members. Feel free to customize and manage additional fields as needed, providing flexibility for effective task management within your team.
 
 ## Team Work
 
