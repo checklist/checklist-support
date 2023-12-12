@@ -75,3 +75,9 @@ Tasks (responses) can be assigned to team members for further processing.
 If enabled in the form configuration, responders can make subsequent modifications to their submissions, immediately reflected in the checklist task:
 
 ![Forms Configuration Dialog](/assets/images/form-to-task/forms-configuration-dialog.png)
+
+## Team Work
+
+When collaborating in a team, it is convenient to assign each response to a specific team member for processing. 
+
+The checklist owner can further enhance team coordination by setting the [Permissions level of the checklist to "Assign" ↗](/checklists/checklist-members/#assign){:target="\_blank}. With this setting, team members who are not owners will only have visibility and updating capabilities for tasks assigned to them. This ensures a streamlined and organized workflow within the team.
