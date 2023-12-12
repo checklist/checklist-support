@@ -23,7 +23,7 @@ Form To Task (Form2Task) is a Chekclist feature that enables users to create onl
 
 ## Who Should Use the Feature
 
-This feature is designed for [Checklist Pro](https://checklist.com/pricing){:target="\_blank"} users who want to streamline the process of collecting responses from individuals or teams. It is particularly useful for businesses or organizations that require structured data input through forms.
+This feature is designed for [Checklist Pro ↗](https://checklist.com/pricing){:target="\_blank"} users who want to streamline the process of collecting responses from individuals or teams. It is particularly useful for businesses or organizations that require structured data input through forms.
 
 ## How It Works
 
