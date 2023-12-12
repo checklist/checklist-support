@@ -82,6 +82,8 @@ The Form Configuration dialog allows you to customize the form to your needs:
 
 ![Forms Configuration](/assets/images/form-to-task/forms-configuration-full.png)
 
+### Form Fields
+The main part of the form are of course the fields. You can add to the checklist as many fields as you need. You then choose which ones are to be used in the form. The rest will be hidden from the responders and you can use them on the checklist itself (both Table and List views). You can choose from the [available field types ↗](/checklists/task-types/ "Form Field Types"){:target="\_blank}.
 
 ## Working with Submissions
 
