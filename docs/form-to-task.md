@@ -83,7 +83,46 @@ The Form Configuration dialog allows you to customize the form to your needs:
 ![Forms Configuration](/assets/images/form-to-task/forms-configuration-full.png)
 
 ### Form Fields
-The main part of the form are of course the fields. You can add to the checklist as many fields as you need. You then choose which ones are to be used in the form. The rest will be hidden from the responders and you can use them on the checklist itself (both Table and List views). You can choose from the [available field types ↗](/checklists/task-types/ "Form Field Types"){:target="\_blank}.
+The main part of the form are of course the fields. You can add to the checklist as many fields as you need. You then choose which ones are to be used in the form. The rest will be hidden from the responders and you can use them on the checklist itself (both Table and List views). You can choose from the available[Checklist field types ↗](/checklists/task-types/ "Form Field Types"){:target="\_blank}.
+
+Note: File field type is currently in beta and is not available for all users. [Contact us ↗](https://checklist.com/contact){:target="\_blank} if you would like to try it out.
+
+Clicking on the X to the right of a field will remove it from the form (and will be shown below the fields list). To bring it back to the form, click on the field name and it will be added. Use the Up and Down arrows to change the order of the fields in the form.
+
+If you wish to Add a completely new field to the checklist (and the form), click on the "New Field" button. This will open the Add Field dialog where you can choose the field type and name. The new field will be added to the form (and checklist).
+
+### Intro & Description
+The Intro and Description fields are optional. You can use them to provide additional information to the responders. The Intro field is displayed at the top of the form, while the Description field is displayed at the bottom. Click on their button to show/ hide them.
+
+### Editable Link
+If you wish to allow responders to edit their responses, you can enable the Editable Link. This will, once a form is first submitted, generate a link that can used by visitors to view and update the form submission at a later time.
+
+Changes made to the form submission will be immediately reflected in the checklist task.
+
+This is a very powerful feauture allowing you to collect information from your customers, leads, or users, and then allow them to update it at a later time. For example, you can use it to collect real estate documentation in relation to a sales transaction.
+
+### Delete 
+To delete the form, click on the Delete button. Note that responses already collected will remain in the checklist.
+
+### Preview
+Click on the Preview button to view the form just as your responders will see it. This is a great way to test the form before sharing it with your customers, leads, or users.
+
+### Share
+To share your form via a link, click on the Share button. This will open the Share dialog:
+
+![Forms Share](/assets/images/form-to-task/forms-share.png)
+
+Click on the Copy button to copy the link to your clipboard. 
+
+### Embed
+To embed the form on your website, click on the Embed button. This will open the Embed dialog:
+
+![Forms Embed](/assets/images/form-to-task/forms-embed.png)
+
+Click on the Copy button to copy the embed code to your clipboard. Then, paste it into your website's HTML code.
+
+## QR Code
+You can also share your form via a QR code. To do so, click on the QR Code button. This will open the QR Code dialog. You can then download the QR code image and use it in your marketing material: stickers, flyers, posters, etc.
 
 ## Working with Submissions
 
