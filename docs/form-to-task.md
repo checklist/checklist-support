@@ -78,13 +78,13 @@ If enabled in the form configuration, responders can make subsequent modificatio
 
 ## Form Configuration
 
-The Form Configuration dialog allows you to customize the form to your needs:
+The Form Configuration dialog allows you to customize the form according to your needs:
 
 ![Forms Configuration](/assets/images/form-to-task/forms-configuration-full.png)
 
 ### Form Fields
 
-The main part of the form is, of course, the fields. You can add as many fields as needed to the checklist. You choose which ones are used in the form, with the rest hidden from responders, available for use in the checklist itself (both Table and List views). Select from the available [Checklist field types ↗](/checklists/task-types/ "Form Field Types"){:target="\_blank}.
+The main section of the form consists of fields. You can add as many fields as needed to the checklist. Choose which ones are used in the form, with the rest hidden from responders, available for use in the checklist itself (both Table and List views). Select from the available [Checklist field types ↗](/checklists/task-types/ "Form Field Types"){:target="\_blank}.
 
 Note: The File field type is currently in beta and may not be available for all users. [Contact us ↗](https://checklist.com/contact){:target="\_blank} if you'd like to try it out.
 
@@ -128,9 +128,10 @@ To embed the form on your website, click on the Embed button. This will open the
 
 Click on the Copy button to copy the embed code to your clipboard. Then, paste it into your website's HTML code.
 
-## QR Code
+### QR Code
 
 You can also share your form via a QR code. To do so, click on the QR Code button. This will open the QR Code dialog. You can then download the QR code image and use it in your marketing material: stickers, flyers, posters, etc.
+
 
 ## Working with Submissions
 
