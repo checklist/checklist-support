@@ -23,7 +23,6 @@ A Checklist Account provides several advantages:
 - Automated backup for all your checklists and templates to the cloud
 - Seamless synchronization across your devices
 - Easy data sharing with colleagues, friends, and family (with your permission)
-- Explore [additional features ↗](https://checklist.com/features){:target="\_blank"}
 
 The account is free and only requires a straightforward registration and email confirmation. Once registered, we'll create a complimentary checklist organization with a free team for you.
 

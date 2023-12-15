@@ -19,7 +19,7 @@ To Trigger a template:
 
 You can then visit the [Checklist Dashboard](/mobile/dashboard) and see a list of the available templates you can trigger. Click on the Trigger button (the running man) to open the Template Trigger dialog:
 
-![Template Trigger Dialog](/assets/images/mobile/template-run.png)
+![Template Trigger Dialog](/assets/images/mobile/template-run.png){: .image-medium}
 
 ## Checklist Name
 To give the new checklist a name, the app will automatically add the current date and time to the name of the template. You can change it if you like.

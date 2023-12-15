@@ -22,7 +22,7 @@ Invite colleagues, customers, suppliers, friends, and family to collaborate with
 
 Membership is always within the context of a Team (and not organization).
 
-Once you have invited a user and they have accepted, you can fine-tune their access to team resources by assigning them 1 or more roles (see [#understanding-roles](below)).
+Once you have invited a user and they have accepted, you can fine-tune their access to team resources by assigning them 1 or more roles (see [below](#understanding-roles "team roles")).
 
 ## Inviting a Member
 
