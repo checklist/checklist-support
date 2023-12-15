@@ -59,7 +59,7 @@ The Checklist View is the simplest yet powerful, providing a To-Do-like perspect
 
 ![Checklist View](/assets/images/checklists/checklist-checklist-view.png)
 
-Read more about the [Checklist View](/checklists/checklist-view).
+Read more about the [Checklist View](/checklists/checklist-view/).
 
 ### Table View
 
@@ -67,7 +67,7 @@ The Table view allows you to add additional columns to your checklist and displa
 
 ![Table View](/assets/images/checklists/checklist-table-view.png)
 
-Read more about the [Table View](/checklists/table-view).
+Read more about the [Table View](/checklists/table-view/).
 
 ### Form View
 
@@ -75,7 +75,7 @@ The Form View is used together with a checklist template, enabling you to create
 
 ![Form View](/assets/images/checklists/checklist-form-view.png)
 
-Read more about the [Form View](/checklists/form-view).
+Read more about the [Form View](/checklists/form-view/).
 
 ### Play View
 
@@ -83,4 +83,4 @@ The Form view is used together with a checklist, creating a set of questions to 
 
 ![Play View](/assets/images/views/play-view2.gif){: .image-medium}
 
-Read more about the [Play View](/checklists/play-view).
+Read more about the [Play View](/checklists/play-view/).

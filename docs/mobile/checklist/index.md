@@ -51,7 +51,7 @@ Sometimes you wish to get completed tasks out of the way but still have them on 
 Note that existing completed tasks are not moved at the moment you turn this feature on.
 
 ## Checklist Members
-This option allows you to manage the checklist members and is only available to checklist owners. Read more about [Managing Checklist Members](/mobile/checklist/members).
+This option allows you to manage the checklist members and is only available to checklist owners. Read more about [Managing Checklist Members](/mobile/checklist/members/).
 
 ## Delete Checklist
 To delete your checklist, select this option. 
@@ -61,9 +61,9 @@ Note: if you are not the Checklist owner, the checklist will not be deleted. You
 ## Play View
 Play view allows you to go through answering questions (the tasks) one at a time. 
 
-Read more about the [Play View](/mobile/checklist/play).
+Read more about the [Play View](/mobile/checklist/play/).
 
 ## Form View
 Form view allows you to see a list of questions (the tasks) all at once. It is similar to Play view but ALL tasks are shown together. 
 
-Read more about the [Form View](/mobile/checklist/play).
+Read more about the [Form View](/mobile/checklist/play/).

@@ -135,4 +135,4 @@ You can mark a template as a Favorite using the Star:
 
 ![Favorite template button](/assets/images/templates/templates-favorite-button.png)
 
-Templates marked as Favorite can be triggered by team users with the RUNNER role. The template will be accessible to them from the [Dashboard page](/dashboard).
+Templates marked as Favorite can be triggered by team users with the RUNNER role. The template will be accessible to them from the [Dashboard page](/dashboard/).

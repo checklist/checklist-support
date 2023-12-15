@@ -17,7 +17,7 @@ To Trigger a template:
 * the template must be marked as a star (Favorite)
 * you must have the Runner team role
 
-You can then visit the [Checklist Dashboard](/mobile/dashboard) and see a list of the available templates you can trigger. Click on the Trigger button (the running man) to open the Template Trigger dialog:
+You can then visit the [Checklist Dashboard](/mobile/dashboard/) and see a list of the available templates you can trigger. Click on the Trigger button (the running man) to open the Template Trigger dialog:
 
 ![Template Trigger Dialog](/assets/images/mobile/template-run.png){: .image-medium}
 

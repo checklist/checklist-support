@@ -21,7 +21,7 @@ An organization is the top-level unit for Checklist. Upon creating a new account
 
 While the basic Checklist plan is free, you have the option to upgrade your account for enhanced features and quotas. In this scenario, the Organization serves as the billing entity for the subscription, with allowed quotas and usage calculated based on the Organization and its plan. Learn more about [Checklist Plans ↗](https://checklist.com/pricing/){:target="\_blank"}.
 
-An organization can encompass one or more teams, such as a marketing or sales team. Refer to [teams](/teams/teams) for more information.
+An organization can encompass one or more teams, such as a marketing or sales team. Refer to [teams](/teams/teams/) for more information.
 
 You can still use Checklist individually without any sharing.
 

@@ -25,7 +25,7 @@ In specific scenarios, simply checking off tasks may not be sufficient; you may 
 
 The Form View is tailored to work with a checklist template and is only applicable to checklists created from templates.
 
-Learn more about [checklist templates](/templates/templates).
+Learn more about [checklist templates](/templates/templates/).
 
 By default, the Form view is not set for standard checklists; owners can configure which views are available for each checklist. Members who are not owners won't see the View Selector widget, and the Form View will load for them by default.
 

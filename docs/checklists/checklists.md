@@ -112,7 +112,7 @@ Checklist automations enhance productivity. Define automation recipes by clickin
 
 This directs you to the Checklist Automation page, where you can view existing automation recipes and create new ones.
 
-Read more about [Checklist Automation](/automation)
+Read more about [Checklist Automation](/automation/)
 
 ## Checklist Menu
 

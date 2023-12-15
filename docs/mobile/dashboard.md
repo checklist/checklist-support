@@ -18,7 +18,7 @@ To view the Dashboard, open the app drawer (swipe the screen from left to right 
 The following widgets are available (more are being added):
 
 ## Trigger Templates
-Templates can be "triggered" to create repeatable checklists from them. Click on a template Trigger icon to open the [Trigger Template dialog](/mobile/templates/run).
+Templates can be "triggered" to create repeatable checklists from them. Click on a template Trigger icon to open the [Trigger Template dialog](/mobile/templates/run/).
 
 Note: to view the Trigger Template Widget, you must have the Runner role. Only templates that are marked as Favorite (star) will be shown. This is to prevent cluttering the widget with too many templates.
 

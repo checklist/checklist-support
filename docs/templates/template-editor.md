@@ -51,7 +51,7 @@ Turn this toggle off if you want to see a condensed view of your template.
 
 ### Template Settings
 
-Click on the Settings (Gear) icon to view and manage the [template settings](/templates/template-settings).
+Click on the Settings (Gear) icon to view and manage the [template settings](/templates/template-settings/).
 
 ## 2. Adding Tasks
 
@@ -69,7 +69,7 @@ The type of task to be added is shown in the widget to the right of "Add new Tas
 
 If your template type is 'Checklist' then type widget is not shown (as this type has only simple tasks).
 
-Tip: The Task type widget will change according to the type of the currently selected task ([cursor](/templates/template-editor#cursor)).
+Tip: The Task type widget will change according to the type of the currently selected task ([cursor](/templates/template-edito/#cursor)).
 
 ## 3. Template Tasks
 
@@ -115,7 +115,7 @@ When the editor cursor is set to a task it will be displayed in Edit Mode:
 
 ![Template editor edit task](/assets/images/templates/template-editor-task-edit.png)
 
-Edit mode allows you to make changes to the task and its details. Read more about the (Task Template)[/templates/template-task] features and what they allows you to accomplish.
+Edit mode allows you to make changes to the task and its details. Read more about the [Task Template](/templates/template-task/) features and what they allows you to accomplish.
 
 ### Cursor
 
@@ -124,7 +124,7 @@ The "cursor" points to the current task being edited. The cursor can be set:
 - by clicking on a task
 - by adding a new task (cursor is set to it)
 
-Read more about the (Task Template)[/templates/template-task]
+Read more about the [Task Template](/templates/template-task/)
 
 ### Actions
 
