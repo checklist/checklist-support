@@ -104,7 +104,7 @@ Next time you trigger the template, the due date for the task will be automatica
 
 ### Due Date Alarm
 
-If a due date has passed and the task is not yet completed, then the person assigned to it (usually the same as the checklist assignee) receives a notification. In some cases, you may wish for a manager to receive an alarm notification that the task has not been completed (this is in addtion to the assignee). An example can be a [Restaurant Daily Opening Checklist](https://checklist.com/restaurant-daily-opening-checklist "Restaurant Daily Opening Checklist"){:target="\_blank"} when the first task has not been completed indicating the possibility that no one came to open the store.
+If a due date has passed and the task is not yet completed, then the person assigned to it (usually the same as the checklist assignee) receives a notification. In some cases, you may wish for a manager to receive an alarm notification that the task has not been completed (this is in addtion to the assignee). An example can be a [Restaurant Daily Opening Checklist ↗](https://checklist.com/restaurant-daily-opening-checklist "Restaurant Daily Opening Checklist"){:target="\_blank"} when the first task has not been completed indicating the possibility that no one came to open the store.
 
 To add an alarm notification, click to set alarm recipients:
 
