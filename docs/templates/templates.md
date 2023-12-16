@@ -97,7 +97,7 @@ Click on the View button on the confirmation to navigate to the created checklis
 
 ## Scheduling Templates
 
-When you need to Trigger a template on a regular basis, you can easily Schedule it. For example, if you need a "Daily Opening Checklist" for your store. Or a "Weekly Corona Checks" checklist for compliance and staying healthy.
+When you need to Trigger a template on a regular basis, you can easily Schedule it. For example, if you need a [Restaurant Daily Opening Checklist](https://checklist.com/restaurant-daily-opening-checklist "Restaurant Daily Opening Checklist"){:target="\_blank"}. Or a "Weekly Corona Checks" checklist for compliance and staying healthy.
 
 To schedule a regular Trigger, click on the Automation button of the template:
 
