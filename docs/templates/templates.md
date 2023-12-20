@@ -27,7 +27,7 @@ Templates can hugely increase your productivy. Why keep re-inventing the wheel? 
 
 ## Public Templates
 
-Instead of starting with a blank page, browse our [checklist templates ↗](https://checklist.com/templates){:target="\_blank"} to find the right one. You can then save the template as a checklist and start working with it.
+Instead of starting with a blank page, browse our [checklist templates ↗](https://checklist.com/templates){:target="\_blank"} to find the right one. You can then save the template as a checklist and start working with it. Our library is divided into different categories. You can take over a complete category (or part of it) and make it your own. See [Real Estate Agent Checklists Templates↗](https://checklist.com/templates/real-estate-agents "Real Estate Agency Checklist Templates"){:target="\_blank"} for an example.
 
 ## Team Templates
 
