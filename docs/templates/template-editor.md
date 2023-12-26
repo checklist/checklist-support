@@ -69,7 +69,7 @@ The type of task to be added is shown in the widget to the right of "Add new Tas
 
 If your template type is 'Checklist' then type widget is not shown (as this type has only simple tasks).
 
-Tip: The Task type widget will change according to the type of the currently selected task ([cursor](/templates/template-edito/#cursor)).
+Tip: The Task type widget will change according to the type of the currently selected task ([cursor](/templates/template-editor/#cursor)).
 
 ## 3. Template Tasks
 
