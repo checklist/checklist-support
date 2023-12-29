@@ -23,7 +23,7 @@ By default, upon login, you are directed to the Checklists page. If you prefer t
 
 Here's a snapshot of a typical Dashboard:
 
-![](/assets/images/dashboard/dashboard.png)
+![Checklist App Dashboard](/assets/images/dashboard/dashboard.png)
 
 Note: Widgets that currently have no data will be hidden. For example, if you have no open tasks marked with a priority, the Priority Tasks widget will not be displayed.
 
@@ -31,7 +31,7 @@ Note: Widgets that currently have no data will be hidden. For example, if you ha
 
 The content displayed on the Dashboard is customizable. You can choose from various widgets and rearrange them. Click on the Settings (Gear) button to manage your Dashboard:
 
-![](/assets/images/dashboard/dashboard-settings.png)
+![Checklist Dashboard Settings](/assets/images/dashboard/dashboard-settings.png)
 
 The Settings dialog is divided into the following sections:
 
@@ -43,7 +43,7 @@ The Settings dialog is divided into the following sections:
 
 Your selected widgets are listed, each with:
 
-![](/assets/images/dashboard/dashboard-widget-setting.png)
+![Checklist Widget Setting](/assets/images/dashboard/dashboard-widget-setting.png)
 
 - A 'Dragger' allows you to rearrange widgets by dragging and dropping them.
 - A Widget selector lets you choose which Widget to display in a specific position.

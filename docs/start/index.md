@@ -68,7 +68,7 @@ Here’s what playing the list looks like:
 
 Example Use cases: [Real Estate Agents ↗](https://checklist.com/templates/real-estate-agents "Real Estate Agents Checklist Templates"){:target="\_blank"} ,[Employee onboarding ↗](https://checklist.com/employee-onboarding-checklist "Employee onboarding Checklist"){:target="\_blank"}, [Office Cleaning ↗](https://checklist.com/office-cleaning-checklist "Office Cleaning Checklist"){:target="\_blank"}, [SEO ↗](https://checklist.com/seo-checklist "SEO Checklist"){:target="\_blank"}, [Vehicle Inspection ↗](https://checklist.com/vehicle-inspection-checklist "Vehicle Insepection Checklist"){:target="\_blank"}
 
-Explore more about Checklist Templates, or kickstart your journey by customizing our [Checklist Templates](/templates/templates) or get started by customizing our [Restaurant Daily Opening Checklist ↗](https://checklist.com/restaurant-daily-opening-checklist "Restaurant Daily Opening Checklist"){:target="\_blank"} template. Click the 'Save as Template' button to make it your own, and then feel free to experiment with it. Remember to trigger it to play through the steps.
+Explore more about Checklist Templates, or kickstart your journey by customizing our [Checklist Templates](/templates/templates/) or get started by customizing our [Restaurant Daily Opening Checklist ↗](https://checklist.com/restaurant-daily-opening-checklist "Restaurant Daily Opening Checklist"){:target="\_blank"} template. Click the 'Save as Template' button to make it your own, and then feel free to experiment with it. Remember to trigger it to play through the steps.
 
 ## Scheduled Template
 
