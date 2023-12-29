@@ -30,7 +30,7 @@ This will open the "Create a Checklist" dialog:
 
 Once you click in the checklist name field, the app will display a list of types to choose from:
 
-![Create Checklist Choose Type](/assets/images/checklists/checklist-add-type.png)
+![Create Checklist Choose Type](/assets/images/checklists/checklist-add-types.png)
 
 You can choose from any available types. Alternatively, start typing the name of the type you want to create. If there's a checklist template with a similar name, we'll suggest it:
 
