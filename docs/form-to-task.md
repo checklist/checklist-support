@@ -54,7 +54,7 @@ Utilize the generated link, QR code, or embed code to share the form with custom
 
 ### 4. Collecting Responses
 
-Examples like [Contact us ↗](https://checklist.com/forms/contact "Online Contact Us Form builder"){:target="\_blank"} or [Volunteer Signup ↗](https://checklist.com/forms/volunteer-signup "Online Volunteer Signup Form builder"){:target="\_blank} illustrate the process:
+Examples like [Contact us ↗](https://checklist.com/forms/contact "Online Contact Us Form builder"){:target="\_blank"} or [Volunteer Signup ↗](https://checklist.com/forms/volunteer-signup "Online Volunteer Signup Form builder"){:target="\_blank"} illustrate the process:
 
 ![Volunteer Signup Online Form](/assets/images/start/form-2-task-form.png){: .image-medium}
 
@@ -84,9 +84,9 @@ The Form Configuration dialog allows you to customize the form according to your
 
 ### Form Fields
 
-The main section of the form consists of fields. You can add as many fields as needed to the checklist. Choose which ones are used in the form, with the rest hidden from responders, available for use in the checklist itself (both Table and List views). Select from the available [Checklist field types ↗](/checklists/task-types/ "Form Field Types"){:target="\_blank}.
+The main section of the form consists of fields. You can add as many fields as needed to the checklist. Choose which ones are used in the form, with the rest hidden from responders, available for use in the checklist itself (both Table and List views). Select from the available [Checklist field types ↗](/checklists/task-types/ "Form Field Types"){:target="\_blank"}.
 
-Note: The Assign field type is currently in beta and may not be available for all users. [Contact us ↗](https://checklist.com/contact){:target="\_blank} if you'd like to try it out.
+Note: The Assign field type is currently in beta and may not be available for all users. [Contact us ↗](https://checklist.com/contact){:target="\_blank"} if you'd like to try it out.
 
 Clicking on the X to the right of a field will remove it from the form (and it will be shown below the fields list). To bring it back to the form, click on the field name, and it will be added. Use the Up and Down arrows to change the order of the fields in the form.
 
@@ -144,4 +144,4 @@ For instance, include a Priority column (high/medium/low) to determine the urgen
 
 When collaborating in a team, it is convenient to assign each response to a specific team member for processing.
 
-The checklist owner can further enhance team coordination by setting the [Permissions level of the checklist to "Assign" ↗](/checklists/checklist-members/#assign){:target="\_blank}. With this setting, team members who are not owners will only have visibility and updating capabilities for tasks assigned to them. This ensures a streamlined and organized workflow within the team.
+The checklist owner can further enhance team coordination by setting the [Permissions level of the checklist to "Assign" ↗](/checklists/checklist-members/#assign){:target="\_blank"}. With this setting, team members who are not owners will only have visibility and updating capabilities for tasks assigned to them. This ensures a streamlined and organized workflow within the team.
