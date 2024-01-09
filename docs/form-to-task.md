@@ -104,7 +104,7 @@ Changes made to the form submission will be immediately reflected in the checkli
 
 This is a powerful feature allowing you to collect information from your customers, leads, or users and then allow them to update it later. For example, you can use it to collect real estate documentation in relation to a sales transaction.
 
-### Delete 
+### Delete
 
 To delete the form, click on the Delete button. Note that responses already collected will remain in the checklist.
 
@@ -131,7 +131,6 @@ Click on the Copy button to copy the embed code to your clipboard. Then, paste i
 ### QR Code
 
 You can also share your form via a QR code. To do so, click on the QR Code button. This will open the QR Code dialog. You can then download the QR code image and use it in your marketing material: stickers, flyers, posters, etc.
-
 
 ## Working with Submissions
 
