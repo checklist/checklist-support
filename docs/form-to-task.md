@@ -86,7 +86,7 @@ The Form Configuration dialog allows you to customize the form according to your
 
 The main section of the form consists of fields. You can add as many fields as needed to the checklist. Choose which ones are used in the form, with the rest hidden from responders, available for use in the checklist itself (both Table and List views). Select from the available [Checklist field types ↗](/checklists/task-types/ "Form Field Types"){:target="\_blank}.
 
-Note: The File field type is currently in beta and may not be available for all users. [Contact us ↗](https://checklist.com/contact){:target="\_blank} if you'd like to try it out.
+Note: The Assign field type is currently in beta and may not be available for all users. [Contact us ↗](https://checklist.com/contact){:target="\_blank} if you'd like to try it out.
 
 Clicking on the X to the right of a field will remove it from the form (and it will be shown below the fields list). To bring it back to the form, click on the field name, and it will be added. Use the Up and Down arrows to change the order of the fields in the form.
 
